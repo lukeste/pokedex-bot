@@ -1,0 +1,1078 @@
+{
+  "ivysaur": {
+    "level": "1",
+    "max_cp": "886",
+    "min_cp": "831",
+    "boosted_max_cp": "1108",
+    "boosted_min_cp": "1039",
+    "boosted_weather": [
+      "sunny/clear",
+      "cloudy"
+    ],
+    "catch_rate": "10.0",
+    "weak_to": [
+      "fire",
+      "flying",
+      "ice",
+      "psychic"
+    ],
+    "double_weak_to": []
+  },
+  "charmeleon": {
+    "level": "1",
+    "max_cp": "847",
+    "min_cp": "793",
+    "boosted_max_cp": "1060",
+    "boosted_min_cp": "991",
+    "boosted_weather": [
+      "sunny/clear"
+    ],
+    "catch_rate": "10.0",
+    "weak_to": [
+      "rock",
+      "ground",
+      "water"
+    ],
+    "double_weak_to": []
+  },
+  "wartortle": {
+    "level": "1",
+    "max_cp": "756",
+    "min_cp": "705",
+    "boosted_max_cp": "945",
+    "boosted_min_cp": "881",
+    "boosted_weather": [
+      "rainy"
+    ],
+    "catch_rate": "10.0",
+    "weak_to": [
+      "electric",
+      "grass"
+    ],
+    "double_weak_to": []
+  },
+  "magikarp": {
+    "level": "1",
+    "max_cp": "125",
+    "min_cp": "104",
+    "boosted_max_cp": "157",
+    "boosted_min_cp": "130",
+    "boosted_weather": [
+      "rainy"
+    ],
+    "catch_rate": "70.0",
+    "weak_to": [
+      "electric",
+      "grass"
+    ],
+    "double_weak_to": []
+  },
+  "wailmer": {
+    "level": "1",
+    "max_cp": "814",
+    "min_cp": "756",
+    "boosted_max_cp": "1017",
+    "boosted_min_cp": "945",
+    "boosted_weather": [
+      "rainy"
+    ],
+    "catch_rate": "50.0",
+    "weak_to": [
+      "electric",
+      "grass"
+    ],
+    "double_weak_to": []
+  },
+  "snorunt": {
+    "level": "1",
+    "max_cp": "441",
+    "min_cp": "403",
+    "boosted_max_cp": "551",
+    "boosted_min_cp": "504",
+    "boosted_weather": [
+      "snowy"
+    ],
+    "catch_rate": "50.0",
+    "weak_to": [
+      "fire",
+      "rock",
+      "steel",
+      "fight"
+    ],
+    "double_weak_to": []
+  },
+  "swablu": {
+    "level": "1",
+    "max_cp": "412",
+    "min_cp": "375",
+    "boosted_max_cp": "516",
+    "boosted_min_cp": "469",
+    "boosted_weather": [
+      "partly cloudy",
+      "windy"
+    ],
+    "catch_rate": "50.0",
+    "weak_to": [
+      "electric",
+      "rock",
+      "ice"
+    ],
+    "double_weak_to": []
+  },
+  "shuppet": {
+    "level": "1",
+    "max_cp": "498",
+    "min_cp": "455",
+    "boosted_max_cp": "623",
+    "boosted_min_cp": "569",
+    "boosted_weather": [
+      "foggy"
+    ],
+    "catch_rate": "40.0",
+    "weak_to": [
+      "dark",
+      "ghost"
+    ],
+    "double_weak_to": []
+  },
+  "duskull": {
+    "level": "1",
+    "max_cp": "299",
+    "min_cp": "264",
+    "boosted_max_cp": "374",
+    "boosted_min_cp": "330",
+    "boosted_weather": [
+      "foggy"
+    ],
+    "catch_rate": "40.0",
+    "weak_to": [
+      "dark",
+      "ghost"
+    ],
+    "double_weak_to": []
+  },
+  "sandslash": {
+    "level": "2",
+    "max_cp": "1330",
+    "min_cp": "1262",
+    "boosted_max_cp": "1663",
+    "boosted_min_cp": "1577",
+    "boosted_weather": [
+      "sunny/clear"
+    ],
+    "catch_rate": "20.0",
+    "weak_to": [
+      "water",
+      "grass",
+      "ice"
+    ],
+    "double_weak_to": []
+  },
+  "slowbro": {
+    "level": "2",
+    "max_cp": "1418",
+    "min_cp": "1348",
+    "boosted_max_cp": "1773",
+    "boosted_min_cp": "1516",
+    "boosted_weather": [
+      "windy",
+      "rainy"
+    ],
+    "catch_rate": "20.0",
+    "weak_to": [
+      "bug",
+      "grass",
+      "electric",
+      "dark",
+      "ghost"
+    ],
+    "double_weak_to": []
+  },
+  "tentacruel": {
+    "level": "2",
+    "max_cp": "1356",
+    "min_cp": "1287",
+    "boosted_max_cp": "1695",
+    "boosted_min_cp": "1608",
+    "boosted_weather": [
+      "cloudy",
+      "rainy"
+    ],
+    "catch_rate": "20.0",
+    "weak_to": [
+      "electric",
+      "ground",
+      "psychic"
+    ],
+    "double_weak_to": []
+  },
+  "exeggutor": {
+    "level": "2",
+    "max_cp": "1666",
+    "min_cp": "1589",
+    "boosted_max_cp": "2083",
+    "boosted_min_cp": "1801",
+    "boosted_weather": [
+      "sunny/clear",
+      "windy"
+    ],
+    "catch_rate": "20.0",
+    "weak_to": [
+      "fire",
+      "dark",
+      "flying",
+      "poison",
+      "ghost",
+      "ice"
+    ],
+    "double_weak_to": [
+      "bug"
+    ]
+  },
+  "magneton": {
+    "level": "2",
+    "max_cp": "1278",
+    "min_cp": "1208",
+    "boosted_max_cp": "1695",
+    "boosted_min_cp": "1608",
+    "boosted_weather": [
+      "rainy",
+      "snowy"
+    ],
+    "catch_rate": "20.0",
+    "weak_to": [
+      "fire",
+      "fighting"
+    ],
+    "double_weak_to": [
+      "ground"
+    ]
+  },
+  "cloyster": {
+    "level": "2",
+    "max_cp": "1414",
+    "min_cp": "1338",
+    "boosted_max_cp": "1767",
+    "boosted_min_cp": "1673",
+    "boosted_weather": [
+      "rainy",
+      "snowy"
+    ],
+    "catch_rate": "20.0",
+    "weak_to": [
+      "electric",
+      "grass",
+      "rock",
+      "fighting"
+    ],
+    "double_weak_to": []
+  },
+  "marowak": {
+    "level": "2",
+    "max_cp": "966",
+    "min_cp": "908",
+    "boosted_max_cp": "1208",
+    "boosted_min_cp": "1135",
+    "boosted_weather": [
+      "sunny/clear"
+    ],
+    "catch_rate": "15.0",
+    "weak_to": [
+      "ice",
+      "grass",
+      "water"
+    ],
+    "double_weak_to": []
+  },
+  "sableye": {
+    "level": "2",
+    "max_cp": "745",
+    "min_cp": "694",
+    "boosted_max_cp": "932",
+    "boosted_min_cp": "868",
+    "boosted_weather": [
+      "foggy"
+    ],
+    "catch_rate": "20.0",
+    "weak_to": [
+      "fairy"
+    ],
+    "double_weak_to": []
+  },
+  "mawile": {
+    "level": "2",
+    "max_cp": "848",
+    "min_cp": "793",
+    "boosted_max_cp": "1060",
+    "boosted_min_cp": "991",
+    "boosted_weather": [
+      "snowy"
+    ],
+    "catch_rate": "50.0",
+    "weak_to": [
+      "fire",
+      "ground"
+    ],
+    "double_weak_to": []
+  },
+  "cloyster": {
+    "level": "2",
+    "max_cp": "1414",
+    "min_cp": "1338",
+    "boosted_max_cp": "1767",
+    "boosted_min_cp": "1673",
+    "boosted_weather": [
+      "snowy",
+      "rainy"
+    ],
+    "catch_rate": "20.0",
+    "weak_to": [
+      "electric",
+      "grass",
+      "rock",
+      "fighting"
+    ],
+    "double_weak_to": []
+  },
+  "manectric": {
+    "level": "2",
+    "max_cp": "1217",
+    "min_cp": "1151",
+    "boosted_max_cp": "1522",
+    "boosted_min_cp": "1438",
+    "boosted_weather": [
+      "rainy"
+    ],
+    "catch_rate": "20.0",
+    "weak_to": [
+      "ground"
+    ],
+    "double_weak_to": []
+  },
+  "sneasel": {
+    "level": "2",
+    "max_cp": "1067",
+    "min_cp": "1005",
+    "boosted_max_cp": "1334",
+    "boosted_min_cp": "1256",
+    "boosted_weather": [
+      "foggy",
+      "snowy"
+    ],
+    "catch_rate": "20.0",
+    "weak_to": [
+      "bug",
+      "fire",
+      "rock",
+      "fairy",
+      "steel"
+    ],
+    "double_weak_to": [
+      "fighting"
+    ]
+  },
+  "misdreavus": {
+    "level": "2",
+    "max_cp": "1018",
+    "min_cp": "958",
+    "boosted_max_cp": "1272",
+    "boosted_min_cp": "1197",
+    "boosted_weather": [
+      "foggy"
+    ],
+    "catch_rate": "30.0",
+    "weak_to": [
+      "dark",
+      "ghost"
+    ],
+    "double_weak_to": []
+  },
+  "ninetales": {
+    "level": "3",
+    "max_cp": "1233",
+    "min_cp": "1167",
+    "boosted_max_cp": "1541",
+    "boosted_min_cp": "1459",
+    "boosted_weather": [
+      "sunny/clear"
+    ],
+    "catch_rate": "10.0",
+    "weak_to": [
+      "rock",
+      "ground",
+      "water"
+    ],
+    "double_weak_to": []
+  },
+  "alakazam": {
+    "level": "3",
+    "max_cp": "1649",
+    "min_cp": "1569",
+    "boosted_max_cp": "2062",
+    "boosted_min_cp": "1961",
+    "boosted_weather": [
+      "windy"
+    ],
+    "catch_rate": "10.0",
+    "weak_to": [
+      "bug",
+      "dark",
+      "ghost"
+    ],
+    "double_weak_to": []
+  },
+  "machamp": {
+    "level": "3",
+    "max_cp": "1650",
+    "min_cp": "1574",
+    "boosted_max_cp": "2063",
+    "boosted_min_cp": "1967",
+    "boosted_weather": [
+      "cloudy"
+    ],
+    "catch_rate": "10.0",
+    "weak_to": [
+      "fairy",
+      "flying",
+      "psychic"
+    ],
+    "double_weak_to": []
+  },
+  "gengar": {
+    "level": "3",
+    "max_cp": "1496",
+    "min_cp": "1420",
+    "boosted_max_cp": "1870",
+    "boosted_min_cp": "1776",
+    "boosted_weather": [
+      "cloudy",
+      "foggy"
+    ],
+    "catch_rate": "10.0",
+    "weak_to": [
+      "dark",
+      "ground",
+      "ghost",
+      "psychic"
+    ],
+    "double_weak_to": []
+  },
+  "scyther": {
+    "level": "3",
+    "max_cp": "1408",
+    "min_cp": "1337",
+    "boosted_max_cp": "1760",
+    "boosted_min_cp": "1671",
+    "boosted_weather": [
+      "rainy",
+      "windy"
+    ],
+    "catch_rate": "30.0",
+    "weak_to": [
+      "electric",
+      "fire",
+      "flying",
+      "ice"
+    ],
+    "double_weak_to": [
+      "rock"
+    ]
+  },
+  "porygon": {
+    "level": "3",
+    "max_cp": "894",
+    "min_cp": "840",
+    "boosted_max_cp": "1120",
+    "boosted_min_cp": "1050",
+    "boosted_weather": [
+      "partly cloudy"
+    ],
+    "catch_rate": "40.0",
+    "weak_to": [
+      "fighting"
+    ],
+    "double_weak_to": []
+  },
+  "omastar": {
+    "level": "3",
+    "max_cp": "1534",
+    "min_cp": "1460",
+    "boosted_max_cp": "1918",
+    "boosted_min_cp": "1825",
+    "boosted_weather": [
+      "partly cloudy",
+      "rainy"
+    ],
+    "catch_rate": "15.0",
+    "weak_to": [
+      "electric",
+      "ground",
+      "fighting"
+    ],
+    "double_weak_to": [
+      "grass"
+    ]
+  },
+  "piloswine": {
+    "level": "3",
+    "max_cp": "1305",
+    "min_cp": "1238",
+    "boosted_max_cp": "1631",
+    "boosted_min_cp": "1547",
+    "boosted_weather": [
+      "clear",
+      "snowy"
+    ],
+    "catch_rate": "12.5",
+    "weak_to": [
+      "fire",
+      "grass",
+      "fighting",
+      "steel",
+      "water"
+    ],
+    "double_weak_to": []
+  },
+  "azumarill": {
+    "level": "3",
+    "max_cp": "858",
+    "min_cp": "803",
+    "boosted_max_cp": "1073",
+    "boosted_min_cp": "1004",
+    "boosted_weather": [
+      "cloudy",
+      "rainy"
+    ],
+    "catch_rate": "15.0",
+    "weak_to": [
+      "electric",
+      "grass",
+      "poison"
+    ],
+    "double_weak_to": []
+  },
+  "jynx": {
+    "level": "3",
+    "max_cp": "1435",
+    "min_cp": "1363",
+    "boosted_max_cp": "1794",
+    "boosted_min_cp": "1704",
+    "boosted_weather": [
+      "snowy",
+      "windy"
+    ],
+    "catch_rate": "30.0",
+    "weak_to": [
+      "bug",
+      "fire",
+      "rock",
+      "dark",
+      "steel",
+      "ghost"
+    ],
+    "double_weak_to": []
+  },
+  "starmie": {
+    "level": "3",
+    "max_cp": "1316",
+    "min_cp": "1246",
+    "boosted_max_cp": "1645",
+    "boosted_min_cp": "1392",
+    "boosted_weather": [
+      "rainy",
+      "windy"
+    ],
+    "catch_rate": "20.0",
+    "weak_to": [
+      "electric",
+      "grass",
+      "bug",
+      "grass",
+      "dark",
+      "ghost"
+    ],
+    "double_weak_to": []
+  },
+  "aerodactyl": {
+    "level": "3",
+    "max_cp": "1490",
+    "min_cp": "1417",
+    "boosted_max_cp": "1863",
+    "boosted_min_cp": "1597",
+    "boosted_weather": [
+      "partly cloudy",
+      "windy"
+    ],
+    "catch_rate": "20.0",
+    "weak_to": [
+      "electric",
+      "rock",
+      "steel",
+      "ice",
+      "water"
+    ],
+    "double_weak_to": []
+  },
+  "claydol": {
+    "level": "3",
+    "max_cp": "1018",
+    "min_cp": "957",
+    "boosted_max_cp": "1272",
+    "boosted_min_cp": "1051",
+    "boosted_weather": [
+      "sunny/clear",
+      "windy"
+    ],
+    "catch_rate": "20.0",
+    "weak_to": [
+      "bug",
+      "grass",
+      "dark",
+      "ghost",
+      "ice",
+      "water"
+    ],
+    "double_weak_to": []
+  },
+  "jolteon": {
+    "level": "3",
+    "max_cp": "1560",
+    "min_cp": "1484",
+    "boosted_max_cp": "1950",
+    "boosted_min_cp": "1855",
+    "boosted_weather": [
+      "rainy"
+    ],
+    "catch_rate": "12.5",
+    "weak_to": [
+      "ground"
+    ],
+    "double_weak_to": []
+  },
+  "pinsir": {
+    "level": "3",
+    "max_cp": "1583",
+    "min_cp": "1506",
+    "boosted_max_cp": "1978",
+    "boosted_min_cp": "1883",
+    "boosted_weather": [
+      "rainy"
+    ],
+    "catch_rate": "30.0",
+    "weak_to": [
+      "fire",
+      "rock",
+      "flying"
+    ],
+    "double_weak_to": []
+  },
+  "granbull": {
+    "level": "3",
+    "max_cp": "1394",
+    "min_cp": "1324",
+    "boosted_max_cp": "1743",
+    "boosted_min_cp": "1655",
+    "boosted_weather": [
+      "cloudy"
+    ],
+    "catch_rate": "15.0",
+    "weak_to": [
+      "poison",
+      "steel"
+    ],
+    "double_weak_to": []
+  },
+  "nidoqueen": {
+    "level": "4",
+    "max_cp": "1336",
+    "min_cp": "1267",
+    "boosted_max_cp": "1670",
+    "boosted_min_cp": "1584",
+    "boosted_weather": [
+      "sunny/clear",
+      "cloudy"
+    ],
+    "catch_rate": "12.5",
+    "weak_to": [
+      "ground",
+      "ice",
+      "psychic",
+      "water"
+    ],
+    "double_weak_to": []
+  },
+  "nidoking": {
+    "level": "4",
+    "max_cp": "1363",
+    "min_cp": "1294",
+    "boosted_max_cp": "1704",
+    "boosted_min_cp": "1618",
+    "boosted_weather": [
+      "sunny/clear",
+      "cloudy"
+    ],
+    "catch_rate": "12.5",
+    "weak_to": [
+      "ground",
+      "ice",
+      "psychic",
+      "water"
+    ],
+    "double_weak_to": []
+  },
+  "poliwrath": {
+    "level": "4",
+    "max_cp": "1395",
+    "min_cp": "1325",
+    "boosted_max_cp": "1744",
+    "boosted_min_cp": "1657",
+    "boosted_weather": [
+      "rainy",
+      "cloudy"
+    ],
+    "catch_rate": "12.5",
+    "weak_to": [
+      "electric",
+      "grass",
+      "fairy",
+      "flying",
+      "psychic"
+    ],
+    "double_weak_to": []
+  },
+  "victreebel": {
+    "level": "4",
+    "max_cp": "1296",
+    "min_cp": "1228",
+    "boosted_max_cp": "1620",
+    "boosted_min_cp": "1535",
+    "boosted_weather": [
+      "sunny/clear",
+      "cloudy"
+    ],
+    "catch_rate": "12.5",
+    "weak_to": [
+      "fire",
+      "flying",
+      "ice",
+      "psychic"
+    ],
+    "double_weak_to": []
+  },
+  "golem": {
+    "level": "4",
+    "max_cp": "1666",
+    "min_cp": "1589",
+    "boosted_max_cp": "2083",
+    "boosted_min_cp": "1987",
+    "boosted_weather": [
+      "sunny/clear",
+      "partly cloudy"
+    ],
+    "catch_rate": "12.5",
+    "weak_to": [
+      "ground",
+      "steel",
+      "fighting",
+      "ice"
+    ],
+    "double_weak_to": [
+      "water",
+      "grass"
+    ]
+  },
+  "lapras": {
+    "level": "4",
+    "max_cp": "1487",
+    "min_cp": "1414",
+    "boosted_max_cp": "1859",
+    "boosted_min_cp": "1768",
+    "boosted_weather": [
+      "rainy",
+      "snowy"
+    ],
+    "catch_rate": "5.0",
+    "weak_to": [
+      "electric",
+      "grass",
+      "rock",
+      "fighting"
+    ],
+    "double_weak_to": []
+  },
+  "snorlax": {
+    "level": "4",
+    "max_cp": "1917",
+    "min_cp": "1833",
+    "boosted_max_cp": "2396",
+    "boosted_min_cp": "2292",
+    "boosted_weather": [
+      "partly cloudy"
+    ],
+    "catch_rate": "5.0",
+    "weak_to": [
+      "fighting"
+    ],
+    "double_weak_to": []
+  },
+  "tyranitar": {
+    "level": "4",
+    "max_cp": "2097",
+    "min_cp": "2011",
+    "boosted_max_cp": "2621",
+    "boosted_min_cp": "2514",
+    "boosted_weather": [
+      "foggy",
+      "partly cloudy"
+    ],
+    "catch_rate": "5.0",
+    "weak_to": [
+      "bug",
+      "grass",
+      "fairy",
+      "ground",
+      "steel",
+      "water"
+    ],
+    "double_weak_to": [
+      "fighting"
+    ]
+  },
+  "absol": {
+    "level": "4",
+    "max_cp": "1303",
+    "min_cp": "1232",
+    "boosted_max_cp": "1629",
+    "boosted_min_cp": "1540",
+    "boosted_weather": [
+      "foggy"
+    ],
+    "catch_rate": "50.0",
+    "weak_to": [
+      "bug",
+      "fairy",
+      "fighting"
+    ],
+    "double_weak_to": []
+  },
+  "aggron": {
+    "level": "4",
+    "max_cp": "1716",
+    "min_cp": "1636",
+    "boosted_max_cp": "2145",
+    "boosted_min_cp": "2045",
+    "boosted_weather": [
+      "snowy",
+      "partly cloudy"
+    ],
+    "catch_rate": "12.5",
+    "weak_to": [
+      "water"
+    ],
+    "double_weak_to": [
+      "ground",
+      "fighting"
+    ]
+  },
+  "feraligatr": {
+    "level": "4",
+    "max_cp": "1554",
+    "min_cp": "1481",
+    "boosted_max_cp": "1943",
+    "boosted_min_cp": "1851",
+    "boosted_weather": [
+      "rainy"
+    ],
+    "catch_rate": "5.0",
+    "weak_to": [
+      "electric",
+      "grass"
+    ],
+    "double_weak_to": []
+  },
+  "charizard": {
+    "level": "4",
+    "max_cp": "1535",
+    "min_cp": "1461",
+    "boosted_max_cp": "1918",
+    "boosted_min_cp": "1648",
+    "boosted_weather": [
+      "sunny/clear",
+      "windy"
+    ],
+    "catch_rate": "5.0",
+    "weak_to": [
+      "electric",
+      "water"
+    ],
+    "double_weak_to": [
+      "rock"
+    ]
+  },
+  "houndoom": {
+    "level": "4",
+    "max_cp": "1445",
+    "min_cp": "1373",
+    "boosted_max_cp": "1806",
+    "boosted_min_cp": "1716",
+    "boosted_weather": [
+      "sunny/clear",
+      "foggy"
+    ],
+    "catch_rate": "15.0",
+    "weak_to": [
+      "rock",
+      "ground",
+      "fighting",
+      "water"
+    ],
+    "double_weak_to": []
+  },
+  "walrein": {
+    "level": "4",
+    "max_cp": "1489",
+    "min_cp": "1417",
+    "boosted_max_cp": "1862",
+    "boosted_min_cp": "1771",
+    "boosted_weather": [
+      "rainy",
+      "snowy"
+    ],
+    "catch_rate": "12.5",
+    "weak_to": [
+      "electric",
+      "grass",
+      "rock",
+      "fighting"
+    ],
+    "double_weak_to": []
+  },
+  "kyogre": {
+    "level": "5",
+    "max_cp": "2328",
+    "min_cp": "2236",
+    "boosted_max_cp": "2910",
+    "boosted_min_cp": "2796",
+    "boosted_weather": [
+      "rainy"
+    ],
+    "catch_rate": "2.0",
+    "weak_to": [
+      "electric",
+      "grass"
+    ],
+    "double_weak_to": []
+  },
+  "groudon": {
+    "level": "5",
+    "max_cp": "2328",
+    "min_cp": "2236",
+    "boosted_max_cp": "2910",
+    "boosted_min_cp": "2796",
+    "boosted_weather": [
+      "sunny/clear"
+    ],
+    "catch_rate": "2.0",
+    "weak_to": [
+      "grass",
+      "ice",
+      "water"
+    ],
+    "double_weak_to": []
+  },
+  "rayquaza": {
+    "level": "5",
+    "max_cp": "2083",
+    "min_cp": "1995",
+    "boosted_max_cp": "2604",
+    "boosted_min_cp": "2494",
+    "boosted_weather": [
+      "windy"
+    ],
+    "catch_rate": "2.0",
+    "weak_to": [
+      "rock",
+      "fairy",
+      "dragon"
+    ],
+    "double_weak_to": [
+      "ice"
+    ]
+  },
+  "lugia": {
+    "level": "5",
+    "max_cp": "2056",
+    "min_cp": "1969",
+    "boosted_max_cp": "2570",
+    "boosted_min_cp": "2462",
+    "boosted_weather": [
+      "windy"
+    ],
+    "catch_rate": "2.0",
+    "weak_to": [
+      "rock",
+      "electric",
+      "dark",
+      "ghost",
+      "ice"
+    ],
+    "double_weak_to": []
+  },
+  "latios": {
+    "level": "5",
+    "max_cp": "2082",
+    "min_cp": "1995",
+    "boosted_max_cp": "2603",
+    "boosted_min_cp": "2494",
+    "boosted_weather": [
+      "windy"
+    ],
+    "catch_rate": "2.0",
+    "weak_to": [
+      "bug",
+      "dark",
+      "fairy",
+      "dragon",
+      "ghost",
+      "ice"
+    ],
+    "double_weak_to": []
+  },
+  "latias": {
+    "level": "5",
+    "max_cp": "1929",
+    "min_cp": "1846",
+    "boosted_max_cp": "2412",
+    "boosted_min_cp": "2308",
+    "boosted_weather": [
+      "windy"
+    ],
+    "catch_rate": "2.0",
+    "weak_to": [
+      "bug",
+      "dark",
+      "fairy",
+      "dragon",
+      "ghost",
+      "ice"
+    ],
+    "double_weak_to": []
+  },
+  "mewtwo": {
+    "level": "5",
+    "max_cp": "2275",
+    "min_cp": "2184",
+    "boosted_max_cp": "2844",
+    "boosted_min_cp": "2730",
+    "boosted_weather": [
+      "windy"
+    ],
+    "catch_rate": "6.0",
+    "weak_to": [
+      "bug",
+      "dark",
+      "ghost"
+    ],
+    "double_weak_to": []
+  }
+}
