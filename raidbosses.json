@@ -1,4 +1,23 @@
 {
+  "bulbasaur": {
+    "level": "1",
+    "max_cp": "560",
+    "min_cp": "516",
+    "boosted_max_cp": "701",
+    "boosted_min_cp": "646",
+    "boosted_weather": [
+      "sunny/clear",
+      "cloudy"
+    ],
+    "catch_rate": "20.0",
+    "weak_to": [
+      "fire",
+      "flying",
+      "ice",
+      "psychic"
+    ],
+    "double_weak_to": []
+  },
   "ivysaur": {
     "level": "1",
     "max_cp": "886",
@@ -18,6 +37,23 @@
     ],
     "double_weak_to": []
   },
+  "charmander": {
+    "level": "1",
+    "max_cp": "475",
+    "min_cp": "434",
+    "boosted_max_cp": "593",
+    "boosted_min_cp": "542",
+    "boosted_weather": [
+      "sunny/clear"
+    ],
+    "catch_rate": "20.0",
+    "weak_to": [
+      "rock",
+      "ground",
+      "water"
+    ],
+    "double_weak_to": []
+  },
   "charmeleon": {
     "level": "1",
     "max_cp": "847",
@@ -32,6 +68,22 @@
       "rock",
       "ground",
       "water"
+    ],
+    "double_weak_to": []
+  },
+  "squirtle": {
+    "level": "1",
+    "max_cp": "462",
+    "min_cp": "422",
+    "boosted_max_cp": "577",
+    "boosted_min_cp": "527",
+    "boosted_weather": [
+      "rainy"
+    ],
+    "catch_rate": "20.0",
+    "weak_to": [
+      "electric",
+      "grass"
     ],
     "double_weak_to": []
   },
@@ -148,6 +200,72 @@
     "weak_to": [
       "dark",
       "ghost"
+    ],
+    "double_weak_to": []
+  },
+  "lickitung": {
+    "level": "2",
+    "max_cp": "755",
+    "min_cp": "703",
+    "boosted_max_cp": "944",
+    "boosted_min_cp": "879",
+    "boosted_weather": [
+      "partly cloudy"
+    ],
+    "catch_rate": "20.0",
+    "weak_to": [
+      "fighting"
+    ],
+    "double_weak_to": []
+  },
+  "muk": {
+    "level": "2",
+    "max_cp": "1548",
+    "min_cp": "1474",
+    "boosted_max_cp": "1935",
+    "boosted_min_cp": "1843",
+    "boosted_weather": [
+      "cloudy"
+    ],
+    "catch_rate": "20.0",
+    "weak_to": [
+      "ground",
+      "psychic"
+    ],
+    "double_weak_to": []
+  },
+  "venomoth": {
+    "level": "2",
+    "max_cp": "1107",
+    "min_cp": "1044",
+    "boosted_max_cp": "1384",
+    "boosted_min_cp": "1306",
+    "boosted_weather": [
+      "cloudy",
+      "rainy"
+    ],
+    "catch_rate": "20.0",
+    "weak_to": [
+      "fire",
+      "rock",
+      "flying",
+      "psychic"
+    ],
+    "double_weak_to": []
+  },
+  "weezing": {
+    "level": "2",
+    "max_cp": "1247",
+    "min_cp": "1180",
+    "boosted_max_cp": "1559",
+    "boosted_min_cp": "1476",
+    "boosted_weather": [
+      "cloudy"
+    ],
+    "catch_rate": "20.0",
+    "weak_to": [
+      "ground",
+      "psychic"
     ],
     "double_weak_to": []
   },
@@ -572,6 +690,28 @@
     ],
     "double_weak_to": []
   },
+  "onix": {
+    "level": "3",
+    "max_cp": "572",
+    "min_cp": "523",
+    "boosted_max_cp": "715",
+    "boosted_min_cp": "654",
+    "boosted_weather": [
+      "partly cloudy",
+      "sunny/clear"
+    ],
+    "catch_rate": "20.0",
+    "weak_to": [
+      "ground",
+      "steel",
+      "fighting",
+      "ice"
+    ],
+    "double_weak_to": [
+      "grass",
+      "water"
+    ]
+  },
   "starmie": {
     "level": "3",
     "max_cp": "1316",
@@ -592,6 +732,26 @@
       "ghost"
     ],
     "double_weak_to": []
+  },
+  "kabutops": {
+    "level": "3",
+    "max_cp": "1438",
+    "min_cp": "1365",
+    "boosted_max_cp": "1798",
+    "boosted_min_cp": "1707",
+    "boosted_weather": [
+      "partly cloudy",
+      "rainy"
+    ],
+    "catch_rate": "15.0",
+    "weak_to": [
+      "electric",
+      "ground",
+      "fighting"
+    ],
+    "double_weak_to": [
+      "grass"
+    ]
   },
   "aerodactyl": {
     "level": "3",
@@ -799,6 +959,28 @@
       "fighting"
     ],
     "double_weak_to": []
+  },
+  "rhydon": {
+    "level": "4",
+    "max_cp": "1886",
+    "min_cp": "1804",
+    "boosted_max_cp": "2357",
+    "boosted_min_cp": "2256",
+    "boosted_weather": [
+      "partly cloudy",
+      "sunny/clear"
+    ],
+    "catch_rate": "5.0",
+    "weak_to": [
+      "ground",
+      "steel",
+      "fighting",
+      "ice"
+    ],
+    "double_weak_to": [
+      "grass",
+      "water"
+    ]
   },
   "snorlax": {
     "level": "4",
