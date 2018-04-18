@@ -29,10 +29,6 @@ async def on_ready():
 
 @client.event
 async def on_message(message):
-    # ignores messages from bot accounts
-    if message.author.bot:
-        return
-
     # ignores messages in channels where the bot doesn't have send message permission
     if not message.server.me.permissions_in(message.channel).send_messages:
         return
@@ -114,7 +110,7 @@ async def on_message(message):
             else:
                 try:
                     await client.send_message(message.channel,
-                                              moves_output(fix_odd_names(name)))
+                                              moves_output(fix_odd_names(name), True))
                 except discord.HTTPException:
                     await client.send_message(message.channel, moves_output(fix_odd_names(name), False))
     elif message.content.startswith('!raidinfo'):
@@ -161,9 +157,10 @@ async def on_message(message):
     # role request
     if message.server.id == '330217404669886465':
         valid_roles = ['mystic', 'valor', 'instinct', 'san rafael', 'ross valley', 'corte madera', 'twin cities',
-                       'novato', 'tiburon', 'mill valley', 'sausalito', 'marinwood-tl', 'ex raids', 'lvl40', 'lvl39',
-                       'lvl38', 'lvl37', 'lvl36', 'lvl35', 'lvl34', 'lvl33', 'lvl32', 'lvl31', 'lvl30', 'lvl29',
-                       'lvl28', 'lvl27', 'lvl26', 'lvl25', 'lvl24', 'lvl23', 'lvl22', 'lvl17', 'lvl16']
+                       'novato', 'tiburon', 'mill valley', 'sausalito', 'marinwood-tl', 'central marin', 'ex raids',
+                       'lvl40', 'lvl39', 'lvl38', 'lvl37', 'lvl36', 'lvl35', 'lvl34', 'lvl33', 'lvl32', 'lvl31',
+                       'lvl30', 'lvl29', 'lvl28', 'lvl27', 'lvl26', 'lvl25', 'lvl24', 'lvl23', 'lvl22', 'lvl17',
+                       'lvl16']
         if message.content.startswith('!r '):
             split_message = message.content[3:].split(', ')
             requested_roles = []
