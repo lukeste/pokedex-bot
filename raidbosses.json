@@ -203,6 +203,42 @@
     ],
     "double_weak_to": []
   },
+  "combusken": {
+    "level": "2",
+    "max_cp": "841",
+    "min_cp": "787",
+    "boosted_max_cp": "1052",
+    "boosted_min_cp": "983",
+    "boosted_weather": [
+      "sunny/clear",
+      "cloudy"
+    ],
+    "catch_rate": "10.0",
+    "weak_to": [
+      "flying",
+      "ground",
+      "psychic",
+      "water"
+    ],
+    "double_weak_to": []
+  },
+  "primeape": {
+    "level": "2",
+    "max_cp": "1203",
+    "min_cp": "1137",
+    "boosted_max_cp": "1503",
+    "boosted_min_cp": "1421",
+    "boosted_weather": [
+      "cloudy"
+    ],
+    "catch_rate": "20.0",
+    "weak_to": [
+      "fairy",
+      "flying",
+      "psychic"
+    ],
+    "double_weak_to": []
+  },
   "lickitung": {
     "level": "2",
     "max_cp": "755",
@@ -433,25 +469,6 @@
     ],
     "double_weak_to": []
   },
-  "cloyster": {
-    "level": "2",
-    "max_cp": "1414",
-    "min_cp": "1338",
-    "boosted_max_cp": "1767",
-    "boosted_min_cp": "1673",
-    "boosted_weather": [
-      "snowy",
-      "rainy"
-    ],
-    "catch_rate": "20.0",
-    "weak_to": [
-      "electric",
-      "grass",
-      "rock",
-      "fighting"
-    ],
-    "double_weak_to": []
-  },
   "manectric": {
     "level": "2",
     "max_cp": "1217",
@@ -502,6 +519,62 @@
     "weak_to": [
       "dark",
       "ghost"
+    ],
+    "double_weak_to": []
+  },
+  "breloom": {
+    "level": "3",
+    "max_cp": "1375",
+    "min_cp": "1303",
+    "boosted_max_cp": "1720",
+    "boosted_min_cp": "1630",
+    "boosted_weather": [
+      "cloudy",
+      "sunny/clear"
+    ],
+    "catch_rate": "20.0",
+    "weak_to": [
+      "fire",
+      "fairy",
+      "poison",
+      "ice",
+      "psychic"
+    ],
+    "double_weak_to": [
+      "flying"
+    ]
+  },
+  "hitmonchan": {
+    "level": "3",
+    "max_cp": "1199",
+    "min_cp": "1132",
+    "boosted_max_cp": "1499",
+    "boosted_min_cp": "1415",
+    "boosted_weather": [
+      "cloudy"
+    ],
+    "catch_rate": "20.0",
+    "weak_to": [
+      "fairy",
+      "flying",
+      "psychic"
+    ],
+    "double_weak_to": []
+  },
+  "hitmonlee": {
+    "level": "3",
+    "max_cp": "1375",
+    "min_cp": "1302",
+    "boosted_max_cp": "1718",
+    "boosted_min_cp": "1627",
+    "boosted_weather": [
+      "cloudy"
+    ],
+    "catch_rate": "20.0",
+    "weak_to": [
+      "fairy",
+      "flying",
+      "psychic"
     ],
     "double_weak_to": []
   },
