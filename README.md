@@ -5,4 +5,4 @@ A Pokémon GO-specific Pokédex bot for Discord. Inspired by pckv's Botémon htt
 Type `@Pokédex help` to see a list of commands.
 
 ## Invite
-Use this link to invite the bot to your server.
+Use [this link](https://discordapp.com/oauth2/authorize?client_id=276636021427404811&scope=bot) to invite the bot to your server.
