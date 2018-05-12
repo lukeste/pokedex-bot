@@ -25731,7 +25731,7 @@
     "offensive": [
       {
         "quick": "Dragon Breath",
-        "charge": "Dragon Claw",
+        "charge": "Outrage",
         "rating": "A"
       },
       {
@@ -25746,7 +25746,7 @@
       },
       {
         "quick": "Zen Headbutt",
-        "charge": "Dragon Claw",
+        "charge": "Outrage",
         "rating": "B"
       },
       {
