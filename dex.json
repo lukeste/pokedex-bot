@@ -3191,8 +3191,7 @@
         "gloom"
       ],
       [
-        "vileplume",
-        "bellossom"
+        "vileplume"
       ]
     ],
     "types": [
@@ -4508,20 +4507,8 @@
     "base_attack": 118,
     "base_defense": 118,
     "base_stamina": 90,
-    "offensive": [
-      {
-        "quick": "Bubble",
-        "charge": "Scald *",
-        "rating": "A"
-      }
-    ],
-    "defensive": [
-      {
-        "quick": "Bubble",
-        "charge": "Scald *",
-        "rating": "A"
-      }
-    ],
+    "offensive": [],
+    "defensive": [],
     "quick": [
       "Bubble",
       "Mud Shot"
@@ -4542,8 +4529,7 @@
         "poliwhirl"
       ],
       [
-        "poliwrath",
-        "politoed"
+        "poliwrath"
       ]
     ],
     "types": [
@@ -5944,20 +5930,8 @@
     "base_attack": 118,
     "base_defense": 118,
     "base_stamina": 90,
-    "offensive": [
-      {
-        "quick": "Water Gun",
-        "charge": "Psychic",
-        "rating": "A"
-      }
-    ],
-    "defensive": [
-      {
-        "quick": "Confusion",
-        "charge": "Psychic",
-        "rating": "A"
-      }
-    ],
+    "offensive": [],
+    "defensive": [],
     "quick": [
       "Water Gun",
       "Confusion"
@@ -5975,8 +5949,7 @@
         "slowpoke"
       ],
       [
-        "slowbro",
-        "slowking"
+        "slowbro"
       ]
     ],
     "types": [
@@ -6069,6 +6042,9 @@
       ],
       [
         "magneton"
+      ],
+      [
+        "magnezone"
       ]
     ],
     "types": [
@@ -6079,20 +6055,8 @@
     "base_attack": 118,
     "base_defense": 118,
     "base_stamina": 90,
-    "offensive": [
-      {
-        "quick": "Spark",
-        "charge": "Thunderbolt",
-        "rating": "A"
-      }
-    ],
-    "defensive": [
-      {
-        "quick": "Spark",
-        "charge": "Thunderbolt",
-        "rating": "A"
-      }
-    ],
+    "offensive": [],
+    "defensive": [],
     "quick": [
       "Spark",
       "Thunder Shock"
@@ -6111,6 +6075,9 @@
       ],
       [
         "magneton"
+      ],
+      [
+        "magnezone"
       ]
     ],
     "types": [
@@ -8236,9 +8203,7 @@
         "tyrogue"
       ],
       [
-        "hitmonlee",
-        "hitmonchan",
-        "hitmontop"
+        "hitmonlee"
       ]
     ],
     "types": [
@@ -8370,9 +8335,7 @@
         "tyrogue"
       ],
       [
-        "hitmonlee",
-        "hitmonchan",
-        "hitmontop"
+        "hitmonchan"
       ]
     ],
     "types": [
@@ -8532,6 +8495,9 @@
     "evolution": [
       [
         "lickitung"
+      ],
+      [
+        "lickilicky"
       ]
     ],
     "types": [
@@ -8787,6 +8753,9 @@
       ],
       [
         "rhydon"
+      ],
+      [
+        "rhyperior"
       ]
     ],
     "types": [
@@ -8829,6 +8798,9 @@
       ],
       [
         "rhydon"
+      ],
+      [
+        "rhyperior"
       ]
     ],
     "types": [
@@ -8937,6 +8909,9 @@
     "id": 113,
     "evolution": [
       [
+        "happiny"
+      ],
+      [
         "chansey"
       ],
       [
@@ -9030,6 +9005,9 @@
     "evolution": [
       [
         "tangela"
+      ],
+      [
+        "tangrowth"
       ]
     ],
     "types": [
@@ -9741,6 +9719,9 @@
     "id": 122,
     "evolution": [
       [
+        "mime-jr"
+      ],
+      [
         "mr-mime"
       ]
     ],
@@ -10103,6 +10084,9 @@
       ],
       [
         "electabuzz"
+      ],
+      [
+        "electivire"
       ]
     ],
     "types": [
@@ -10194,6 +10178,9 @@
       ],
       [
         "magmar"
+      ],
+      [
+        "magmortar"
       ]
     ],
     "types": [
@@ -10955,7 +10942,10 @@
         "jolteon",
         "flareon",
         "espeon",
-        "umbreon"
+        "umbreon",
+        "leafeon",
+        "glaceon",
+        "sylveon"
       ]
     ],
     "types": [
@@ -11258,6 +11248,9 @@
       ],
       [
         "porygon2"
+      ],
+      [
+        "porygon-z"
       ]
     ],
     "types": [
@@ -11774,6 +11767,9 @@
   "snorlax": {
     "id": 143,
     "evolution": [
+      [
+        "munchlax"
+      ],
       [
         "snorlax"
       ]
@@ -13715,6 +13711,9 @@
       ],
       [
         "togetic"
+      ],
+      [
+        "togekiss"
       ]
     ],
     "types": [
@@ -13744,6 +13743,9 @@
       ],
       [
         "togetic"
+      ],
+      [
+        "togekiss"
       ]
     ],
     "types": [
@@ -14178,7 +14180,6 @@
         "gloom"
       ],
       [
-        "vileplume",
         "bellossom"
       ]
     ],
@@ -14389,6 +14390,9 @@
     "id": 185,
     "evolution": [
       [
+        "bonsly"
+      ],
+      [
         "sudowoodo"
       ]
     ],
@@ -14483,7 +14487,6 @@
         "poliwhirl"
       ],
       [
-        "poliwrath",
         "politoed"
       ]
     ],
@@ -14755,6 +14758,9 @@
     "evolution": [
       [
         "aipom"
+      ],
+      [
+        "ambipom"
       ]
     ],
     "types": [
@@ -14963,6 +14969,9 @@
     "evolution": [
       [
         "yanma"
+      ],
+      [
+        "yanmega"
       ]
     ],
     "types": [
@@ -15343,6 +15352,9 @@
     "evolution": [
       [
         "murkrow"
+      ],
+      [
+        "honchkrow"
       ]
     ],
     "types": [
@@ -15434,7 +15446,6 @@
         "slowpoke"
       ],
       [
-        "slowbro",
         "slowking"
       ]
     ],
@@ -15525,6 +15536,9 @@
     "evolution": [
       [
         "misdreavus"
+      ],
+      [
+        "mismagius"
       ]
     ],
     "types": [
@@ -15970,6 +15984,9 @@
     "evolution": [
       [
         "gligar"
+      ],
+      [
+        "gliscor"
       ]
     ],
     "types": [
@@ -16635,6 +16652,9 @@
     "evolution": [
       [
         "sneasel"
+      ],
+      [
+        "weavile"
       ]
     ],
     "types": [
@@ -16968,6 +16988,9 @@
       ],
       [
         "piloswine"
+      ],
+      [
+        "mamoswine"
       ]
     ],
     "types": [
@@ -16998,6 +17021,9 @@
       ],
       [
         "piloswine"
+      ],
+      [
+        "mamoswine"
       ]
     ],
     "types": [
@@ -17352,6 +17378,9 @@
   "mantine": {
     "id": 226,
     "evolution": [
+      [
+        "mantyke"
+      ],
       [
         "mantine"
       ]
@@ -17902,6 +17931,9 @@
       ],
       [
         "porygon2"
+      ],
+      [
+        "porygon-z"
       ]
     ],
     "types": [
@@ -18134,8 +18166,6 @@
         "tyrogue"
       ],
       [
-        "hitmonlee",
-        "hitmonchan",
         "hitmontop"
       ]
     ],
@@ -18258,6 +18288,9 @@
       ],
       [
         "electabuzz"
+      ],
+      [
+        "electivire"
       ]
     ],
     "types": [
@@ -18287,6 +18320,9 @@
       ],
       [
         "magmar"
+      ],
+      [
+        "magmortar"
       ]
     ],
     "types": [
@@ -18399,6 +18435,9 @@
   "blissey": {
     "id": 242,
     "evolution": [
+      [
+        "happiny"
+      ],
       [
         "chansey"
       ],
@@ -20319,7 +20358,8 @@
         "kirlia"
       ],
       [
-        "gardevoir"
+        "gardevoir",
+        "gallade"
       ]
     ],
     "types": [
@@ -20352,7 +20392,8 @@
         "kirlia"
       ],
       [
-        "gardevoir"
+        "gardevoir",
+        "gallade"
       ]
     ],
     "types": [
@@ -24644,7 +24685,8 @@
         "snorunt"
       ],
       [
-        "glalie"
+        "glalie",
+        "froslass"
       ]
     ],
     "types": [
@@ -24922,7 +24964,8 @@
         "clamperl"
       ],
       [
-        "huntail"
+        "huntail",
+        "gorebyss"
       ]
     ],
     "types": [
@@ -25505,18 +25548,10 @@
     "base_attack": 138,
     "base_defense": 185,
     "base_stamina": 120,
-    "offensive": [
-
-    ],
-    "defensive": [
-
-    ],
-    "quick": [
-
-    ],
-    "charge": [
-
-    ]
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
   },
   "metagross": {
     "id": 376,
@@ -25604,10 +25639,13 @@
       }
     ],
     "quick": [
-
+      "Zen Headbutt",
+      "Bullet Punch"
     ],
     "charge": [
-
+      "Flash Cannon",
+      "Psychic",
+      "Earthquake"
     ]
   },
   "regirock": {
@@ -25627,15 +25665,9 @@
     "offensive": [
 
     ],
-    "defensive": [
-
-    ],
-    "quick": [
-
-    ],
-    "charge": [
-
-    ]
+    "defensive": [],
+    "quick": [],
+    "charge": []
   },
   "regice": {
     "id": 378,
@@ -25654,15 +25686,9 @@
     "offensive": [
 
     ],
-    "defensive": [
-
-    ],
-    "quick": [
-
-    ],
-    "charge": [
-
-    ]
+    "defensive": [],
+    "quick": [],
+    "charge": []
   },
   "registeel": {
     "id": 379,
@@ -25684,12 +25710,8 @@
     "defensive": [
 
     ],
-    "quick": [
-
-    ],
-    "charge": [
-
-    ]
+    "quick": [],
+    "charge": []
   },
   "latias": {
     "id": 380,
@@ -25738,14 +25760,15 @@
         "rating": "X"
       }
     ],
-    "defensive": [
-
-    ],
+    "defensive": [],
     "quick": [
-
+      "Dragon Breath",
+      "Zen Headbutt"
     ],
     "charge": [
-
+      "Dragon Claw",
+      "Solar Beam",
+      "Thunder"
     ]
   },
   "latios": {
@@ -25795,9 +25818,7 @@
         "rating": "X"
       }
     ],
-    "defensive": [
-
-    ],
+    "defensive": [],
     "quick": [
       "Dragon Breath",
       "Zen Headbutt"
@@ -25839,9 +25860,7 @@
         "rating": "C"
       }
     ],
-    "defensive": [
-
-    ],
+    "defensive": [],
     "quick": [
       "Waterfall"
     ],
@@ -25897,9 +25916,7 @@
         "rating": "X"
       }
     ],
-    "defensive": [
-
-    ],
+    "defensive": [],
     "quick": [
       "Mud Shot",
       "Dragon Tail"
@@ -25957,9 +25974,7 @@
         "rating": "X"
       }
     ],
-    "defensive": [
-
-    ],
+    "defensive": [],
     "quick": [
       "Dragon Tail",
       "Air Slash"
@@ -25985,18 +26000,10 @@
     "base_attack": 210,
     "base_defense": 210,
     "base_stamina": 200,
-    "offensive": [
-
-    ],
-    "defensive": [
-
-    ],
-    "quick": [
-
-    ],
-    "charge": [
-
-    ]
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
   },
   "deoxys": {
     "id": 386,
@@ -26012,17 +26019,9646 @@
     "base_attack": 345,
     "base_defense": 115,
     "base_stamina": 100,
-    "offensive": [
-
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "turtwig": {
+    "id": 387,
+    "evolution": [
+      [
+        "turtwig"
+      ],
+      [
+        "grotle"
+      ],
+      [
+        "torterra"
+      ]
     ],
-    "defensive": [
-
+    "types": [
+      "grass"
     ],
-    "quick": [
-
+    "max_cp": 1066,
+    "base_attack": 119,
+    "base_defense": 115,
+    "base_stamina": 110,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "grotle": {
+    "id": 388,
+    "evolution": [
+      [
+        "turtwig"
+      ],
+      [
+        "grotle"
+      ],
+      [
+        "torterra"
+      ]
     ],
-    "charge": [
-
-    ]
+    "types": [
+      "grass"
+    ],
+    "max_cp": 1783,
+    "base_attack": 157,
+    "base_defense": 152,
+    "base_stamina": 150,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "torterra": {
+    "id": 389,
+    "evolution": [
+      [
+        "turtwig"
+      ],
+      [
+        "grotle"
+      ],
+      [
+        "torterra"
+      ]
+    ],
+    "types": [
+      "grass",
+      "ground"
+    ],
+    "max_cp": 2825,
+    "base_attack": 202,
+    "base_defense": 197,
+    "base_stamina": 190,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "chimchar": {
+    "id": 390,
+    "evolution": [
+      [
+        "chimchar"
+      ],
+      [
+        "monferno"
+      ],
+      [
+        "infernape"
+      ]
+    ],
+    "types": [
+      "fire"
+    ],
+    "max_cp": 815,
+    "base_attack": 113,
+    "base_defense": 86,
+    "base_stamina": 88,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "monferno": {
+    "id": 391,
+    "evolution": [
+      [
+        "chimchar"
+      ],
+      [
+        "monferno"
+      ],
+      [
+        "infernape"
+      ]
+    ],
+    "types": [
+      "fire",
+      "fighting"
+    ],
+    "max_cp": 1415,
+    "base_attack": 158,
+    "base_defense": 105,
+    "base_stamina": 128,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "infernape": {
+    "id": 392,
+    "evolution": [
+      [
+        "chimchar"
+      ],
+      [
+        "monferno"
+      ],
+      [
+        "infernape"
+      ]
+    ],
+    "types": [
+      "fire",
+      "fighting"
+    ],
+    "max_cp": 2464,
+    "base_attack": 222,
+    "base_defense": 151,
+    "base_stamina": 152,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "piplup": {
+    "id": 393,
+    "evolution": [
+      [
+        "piplup"
+      ],
+      [
+        "prinplup"
+      ],
+      [
+        "empoleon"
+      ]
+    ],
+    "types": [
+      "water"
+    ],
+    "max_cp": 947,
+    "base_attack": 112,
+    "base_defense": 103,
+    "base_stamina": 106,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "prinplup": {
+    "id": 394,
+    "evolution": [
+      [
+        "piplup"
+      ],
+      [
+        "prinplup"
+      ],
+      [
+        "empoleon"
+      ]
+    ],
+    "types": [
+      "water"
+    ],
+    "max_cp": 1549,
+    "base_attack": 150,
+    "base_defense": 143,
+    "base_stamina": 128,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "empoleon": {
+    "id": 395,
+    "evolution": [
+      [
+        "piplup"
+      ],
+      [
+        "prinplup"
+      ],
+      [
+        "empoleon"
+      ]
+    ],
+    "types": [
+      "water",
+      "steel"
+    ],
+    "max_cp": 2741,
+    "base_attack": 210,
+    "base_defense": 193,
+    "base_stamina": 168,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "starly": {
+    "id": 396,
+    "evolution": [
+      [
+        "starly"
+      ],
+      [
+        "staravia"
+      ],
+      [
+        "staraptor"
+      ]
+    ],
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "max_cp": 603,
+    "base_attack": 101,
+    "base_defense": 58,
+    "base_stamina": 80,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "staravia": {
+    "id": 397,
+    "evolution": [
+      [
+        "starly"
+      ],
+      [
+        "staravia"
+      ],
+      [
+        "staraptor"
+      ]
+    ],
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "max_cp": 1170,
+    "base_attack": 142,
+    "base_defense": 99,
+    "base_stamina": 110,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "staraptor": {
+    "id": 398,
+    "evolution": [
+      [
+        "starly"
+      ],
+      [
+        "staravia"
+      ],
+      [
+        "staraptor"
+      ]
+    ],
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "max_cp": 2675,
+    "base_attack": 234,
+    "base_defense": 145,
+    "base_stamina": 170,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "bidoof": {
+    "id": 399,
+    "evolution": [
+      [
+        "bidoof"
+      ],
+      [
+        "bibarel"
+      ]
+    ],
+    "types": [
+      "normal",
+      "water"
+    ],
+    "max_cp": 641,
+    "base_attack": 80,
+    "base_defense": 73,
+    "base_stamina": 118,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "bibarel": {
+    "id": 400,
+    "evolution": [
+      [
+        "bidoof"
+      ],
+      [
+        "bibarel"
+      ]
+    ],
+    "types": [
+      "normal",
+      "water"
+    ],
+    "max_cp": 1683,
+    "base_attack": 162,
+    "base_defense": 119,
+    "base_stamina": 158,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "kricketot": {
+    "id": 401,
+    "evolution": [
+      [
+        "kricketot"
+      ],
+      [
+        "kricketune"
+      ]
+    ],
+    "types": [
+      "bug"
+    ],
+    "max_cp": 333,
+    "base_attack": 45,
+    "base_defense": 74,
+    "base_stamina": 74,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "kricketune": {
+    "id": 402,
+    "evolution": [
+      [
+        "kricketot"
+      ],
+      [
+        "kricketune"
+      ]
+    ],
+    "types": [
+      "bug"
+    ],
+    "max_cp": 1523,
+    "base_attack": 160,
+    "base_defense": 100,
+    "base_stamina": 154,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "shinx": {
+    "id": 403,
+    "evolution": [
+      [
+        "shinx"
+      ],
+      [
+        "luxio"
+      ],
+      [
+        "luxray"
+      ]
+    ],
+    "types": [
+      "electric"
+    ],
+    "max_cp": 750,
+    "base_attack": 117,
+    "base_defense": 64,
+    "base_stamina": 90,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "luxio": {
+    "id": 404,
+    "evolution": [
+      [
+        "shinx"
+      ],
+      [
+        "luxio"
+      ],
+      [
+        "luxray"
+      ]
+    ],
+    "types": [
+      "electric"
+    ],
+    "max_cp": 1324,
+    "base_attack": 159,
+    "base_defense": 95,
+    "base_stamina": 120,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "luxray": {
+    "id": 405,
+    "evolution": [
+      [
+        "shinx"
+      ],
+      [
+        "luxio"
+      ],
+      [
+        "luxray"
+      ]
+    ],
+    "types": [
+      "electric"
+    ],
+    "max_cp": 2668,
+    "base_attack": 232,
+    "base_defense": 156,
+    "base_stamina": 160,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "budew": {
+    "id": 406,
+    "evolution": [
+      [
+        "budew"
+      ],
+      [
+        "roselia"
+      ],
+      [
+        "roserade"
+      ]
+    ],
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "max_cp": 766,
+    "base_attack": 91,
+    "base_defense": 126,
+    "base_stamina": 80,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "roserade": {
+    "id": 407,
+    "evolution": [
+      [
+        "budew"
+      ],
+      [
+        "roselia"
+      ],
+      [
+        "roserade"
+      ]
+    ],
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "max_cp": 2783,
+    "base_attack": 243,
+    "base_defense": 206,
+    "base_stamina": 120,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "cranidos": {
+    "id": 408,
+    "evolution": [
+      [
+        "cranidos"
+      ],
+      [
+        "rampardos"
+      ]
+    ],
+    "types": [
+      "rock"
+    ],
+    "max_cp": 1685,
+    "base_attack": 218,
+    "base_defense": 75,
+    "base_stamina": 134,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "rampardos": {
+    "id": 409,
+    "evolution": [
+      [
+        "cranidos"
+      ],
+      [
+        "rampardos"
+      ]
+    ],
+    "types": [
+      "rock"
+    ],
+    "max_cp": 3179,
+    "base_attack": 295,
+    "base_defense": 114,
+    "base_stamina": 194,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "shieldon": {
+    "id": 410,
+    "evolution": [
+      [
+        "shieldon"
+      ],
+      [
+        "bastiodon"
+      ]
+    ],
+    "types": [
+      "rock",
+      "steel"
+    ],
+    "max_cp": 735,
+    "base_attack": 76,
+    "base_defense": 208,
+    "base_stamina": 60,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "bastiodon": {
+    "id": 411,
+    "evolution": [
+      [
+        "shieldon"
+      ],
+      [
+        "bastiodon"
+      ]
+    ],
+    "types": [
+      "rock",
+      "steel"
+    ],
+    "max_cp": 1401,
+    "base_attack": 94,
+    "base_defense": 299,
+    "base_stamina": 120,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "burmy": {
+    "id": 412,
+    "evolution": [
+      [
+        "burmy"
+      ],
+      [
+        "wormadam",
+        "mothim"
+      ]
+    ],
+    "types": [
+      "bug"
+    ],
+    "max_cp": 409,
+    "base_attack": 53,
+    "base_defense": 83,
+    "base_stamina": 80,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "wormadam": {
+    "id": 413,
+    "evolution": [
+      [
+        "burmy"
+      ],
+      [
+        "wormadam"
+      ]
+    ],
+    "types": [
+      "bug",
+      "steel"
+    ],
+    "max_cp": 1616,
+    "base_attack": 141,
+    "base_defense": 189,
+    "base_stamina": 120,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "mothim": {
+    "id": 414,
+    "evolution": [
+      [
+        "burmy"
+      ],
+      [
+        "mothim"
+      ]
+    ],
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "max_cp": 1653,
+    "base_attack": 185,
+    "base_defense": 98,
+    "base_stamina": 140,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "combee": {
+    "id": 415,
+    "evolution": [
+      [
+        "combee"
+      ],
+      [
+        "vespiquen"
+      ]
+    ],
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "max_cp": 396,
+    "base_attack": 59,
+    "base_defense": 83,
+    "base_stamina": 60,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "vespiquen": {
+    "id": 416,
+    "evolution": [
+      [
+        "combee"
+      ],
+      [
+        "vespiquen"
+      ]
+    ],
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "max_cp": 1825,
+    "base_attack": 149,
+    "base_defense": 190,
+    "base_stamina": 140,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "pachirisu": {
+    "id": 417,
+    "evolution": [
+      [
+        "pachirisu"
+      ]
+    ],
+    "types": [
+      "electric"
+    ],
+    "max_cp": 1110,
+    "base_attack": 94,
+    "base_defense": 182,
+    "base_stamina": 120,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "buizel": {
+    "id": 418,
+    "evolution": [
+      [
+        "buizel"
+      ],
+      [
+        "floatzel"
+      ]
+    ],
+    "types": [
+      "water"
+    ],
+    "max_cp": 946,
+    "base_attack": 132,
+    "base_defense": 70,
+    "base_stamina": 110,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "floatzel": {
+    "id": 419,
+    "evolution": [
+      [
+        "buizel"
+      ],
+      [
+        "floatzel"
+      ]
+    ],
+    "types": [
+      "water"
+    ],
+    "max_cp": 2312,
+    "base_attack": 221,
+    "base_defense": 118,
+    "base_stamina": 170,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "cherubi": {
+    "id": 420,
+    "evolution": [
+      [
+        "cherubi"
+      ],
+      [
+        "cherrim"
+      ]
+    ],
+    "types": [
+      "grass"
+    ],
+    "max_cp": 829,
+    "base_attack": 108,
+    "base_defense": 96,
+    "base_stamina": 90,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "cherrim": {
+    "id": 421,
+    "evolution": [
+      [
+        "cherubi"
+      ],
+      [
+        "cherrim"
+      ]
+    ],
+    "types": [
+      "grass"
+    ],
+    "max_cp": 1886,
+    "base_attack": 170,
+    "base_defense": 157,
+    "base_stamina": 140,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "shellos": {
+    "id": 422,
+    "evolution": [
+      [
+        "shellos"
+      ],
+      [
+        "gastrodon"
+      ]
+    ],
+    "types": [
+      "water",
+      "ground"
+    ],
+    "max_cp": 1069,
+    "base_attack": 103,
+    "base_defense": 111,
+    "base_stamina": 152,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "gastrodon": {
+    "id": 423,
+    "evolution": [
+      [
+        "shellos"
+      ],
+      [
+        "gastrodon"
+      ]
+    ],
+    "types": [
+      "water",
+      "ground"
+    ],
+    "max_cp": 2265,
+    "base_attack": 169,
+    "base_defense": 149,
+    "base_stamina": 222,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "ambipom": {
+    "id": 424,
+    "evolution": [
+      [
+        "aipom"
+      ],
+      [
+        "ambipom"
+      ]
+    ],
+    "types": [
+      "normal"
+    ],
+    "max_cp": 2218,
+    "base_attack": 205,
+    "base_defense": 143,
+    "base_stamina": 150,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "drifloon": {
+    "id": 425,
+    "evolution": [
+      [
+        "drifloon"
+      ],
+      [
+        "drifblim"
+      ]
+    ],
+    "types": [
+      "ghost",
+      "flying"
+    ],
+    "max_cp": 1151,
+    "base_attack": 117,
+    "base_defense": 85,
+    "base_stamina": 180,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "drifblim": {
+    "id": 426,
+    "evolution": [
+      [
+        "drifloon"
+      ],
+      [
+        "drifblim"
+      ]
+    ],
+    "types": [
+      "ghost",
+      "flying"
+    ],
+    "max_cp": 2387,
+    "base_attack": 180,
+    "base_defense": 107,
+    "base_stamina": 300,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "buneary": {
+    "id": 427,
+    "evolution": [
+      [
+        "buneary"
+      ],
+      [
+        "lopunny"
+      ]
+    ],
+    "types": [
+      "normal"
+    ],
+    "max_cp": 1136,
+    "base_attack": 130,
+    "base_defense": 111,
+    "base_stamina": 110,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "lopunny": {
+    "id": 428,
+    "evolution": [
+      [
+        "buneary"
+      ],
+      [
+        "lopunny"
+      ]
+    ],
+    "types": [
+      "normal"
+    ],
+    "max_cp": 1885,
+    "base_attack": 156,
+    "base_defense": 200,
+    "base_stamina": 130,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "mismagius": {
+    "id": 429,
+    "evolution": [
+      [
+        "misdreavus"
+      ],
+      [
+        "mismagius"
+      ]
+    ],
+    "types": [
+      "ghost"
+    ],
+    "max_cp": 2465,
+    "base_attack": 211,
+    "base_defense": 211,
+    "base_stamina": 120,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "honchkrow": {
+    "id": 430,
+    "evolution": [
+      [
+        "murkrow"
+      ],
+      [
+        "honchkrow"
+      ]
+    ],
+    "types": [
+      "dark",
+      "flying"
+    ],
+    "max_cp": 2566,
+    "base_attack": 243,
+    "base_defense": 103,
+    "base_stamina": 200,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "glameow": {
+    "id": 431,
+    "evolution": [
+      [
+        "glameow"
+      ],
+      [
+        "purugly"
+      ]
+    ],
+    "types": [
+      "normal"
+    ],
+    "max_cp": 823,
+    "base_attack": 109,
+    "base_defense": 85,
+    "base_stamina": 98,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "purugly": {
+    "id": 432,
+    "evolution": [
+      [
+        "glameow"
+      ],
+      [
+        "purugly"
+      ]
+    ],
+    "types": [
+      "normal"
+    ],
+    "max_cp": 1798,
+    "base_attack": 172,
+    "base_defense": 136,
+    "base_stamina": 142,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "chingling": {
+    "id": 433,
+    "evolution": [
+      [
+        "chingling"
+      ],
+      [
+        "chimecho"
+      ]
+    ],
+    "types": [
+      "psychic"
+    ],
+    "max_cp": 861,
+    "base_attack": 114,
+    "base_defense": 94,
+    "base_stamina": 90,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "stunky": {
+    "id": 434,
+    "evolution": [
+      [
+        "stunky"
+      ],
+      [
+        "skuntank"
+      ]
+    ],
+    "types": [
+      "poison",
+      "dark"
+    ],
+    "max_cp": 1048,
+    "base_attack": 121,
+    "base_defense": 93,
+    "base_stamina": 126,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "skuntank": {
+    "id": 435,
+    "evolution": [
+      [
+        "stunky"
+      ],
+      [
+        "skuntank"
+      ]
+    ],
+    "types": [
+      "poison",
+      "dark"
+    ],
+    "max_cp": 2262,
+    "base_attack": 184,
+    "base_defense": 135,
+    "base_stamina": 206,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "bronzor": {
+    "id": 436,
+    "evolution": [
+      [
+        "bronzor"
+      ],
+      [
+        "bronzong"
+      ]
+    ],
+    "types": [
+      "steel",
+      "psychic"
+    ],
+    "max_cp": 534,
+    "base_attack": 43,
+    "base_defense": 154,
+    "base_stamina": 114,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "bronzong": {
+    "id": 437,
+    "evolution": [
+      [
+        "bronzor"
+      ],
+      [
+        "bronzong"
+      ]
+    ],
+    "types": [
+      "steel",
+      "psychic"
+    ],
+    "max_cp": 2026,
+    "base_attack": 161,
+    "base_defense": 213,
+    "base_stamina": 134,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "bonsly": {
+    "id": 438,
+    "evolution": [
+      [
+        "bonsly"
+      ],
+      [
+        "sudowoodo"
+      ]
+    ],
+    "types": [
+      "rock"
+    ],
+    "max_cp": 1213,
+    "base_attack": 124,
+    "base_defense": 155,
+    "base_stamina": 100,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "mime-jr": {
+    "id": 439,
+    "evolution": [
+      [
+        "mime-jr"
+      ],
+      [
+        "mr-mime"
+      ]
+    ],
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "max_cp": 867,
+    "base_attack": 125,
+    "base_defense": 164,
+    "base_stamina": 40,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "happiny": {
+    "id": 440,
+    "evolution": [
+      [
+        "happiny"
+      ],
+      [
+        "chansey"
+      ],
+      [
+        "blissey"
+      ]
+    ],
+    "types": [
+      "normal"
+    ],
+    "max_cp": 401,
+    "base_attack": 25,
+    "base_defense": 105,
+    "base_stamina": 200,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "chatot": {
+    "id": 441,
+    "evolution": [
+      [
+        "chatot"
+      ]
+    ],
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "max_cp": 1653,
+    "base_attack": 183,
+    "base_defense": 92,
+    "base_stamina": 152,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "spiritomb": {
+    "id": 442,
+    "evolution": [
+      [
+        "spiritomb"
+      ]
+    ],
+    "types": [
+      "ghost",
+      "dark"
+    ],
+    "max_cp": 1802,
+    "base_attack": 169,
+    "base_defense": 199,
+    "base_stamina": 100,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "gible": {
+    "id": 443,
+    "evolution": [
+      [
+        "gible"
+      ],
+      [
+        "gabite"
+      ],
+      [
+        "garchomp"
+      ]
+    ],
+    "types": [
+      "dragon",
+      "ground"
+    ],
+    "max_cp": 988,
+    "base_attack": 124,
+    "base_defense": 84,
+    "base_stamina": 116,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "gabite": {
+    "id": 444,
+    "evolution": [
+      [
+        "gible"
+      ],
+      [
+        "gabite"
+      ],
+      [
+        "garchomp"
+      ]
+    ],
+    "types": [
+      "dragon",
+      "ground"
+    ],
+    "max_cp": 1728,
+    "base_attack": 172,
+    "base_defense": 130,
+    "base_stamina": 136,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "garchomp": {
+    "id": 445,
+    "evolution": [
+      [
+        "gible"
+      ],
+      [
+        "gabite"
+      ],
+      [
+        "garchomp"
+      ]
+    ],
+    "types": [
+      "dragon",
+      "ground"
+    ],
+    "max_cp": 3823,
+    "base_attack": 261,
+    "base_defense": 198,
+    "base_stamina": 216,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "munchlax": {
+    "id": 446,
+    "evolution": [
+      [
+        "munchlax"
+      ],
+      [
+        "snorlax"
+      ]
+    ],
+    "types": [
+      "normal"
+    ],
+    "max_cp": 1975,
+    "base_attack": 137,
+    "base_defense": 137,
+    "base_stamina": 270,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "riolu": {
+    "id": 447,
+    "evolution": [
+      [
+        "riolu"
+      ],
+      [
+        "lucario"
+      ]
+    ],
+    "types": [
+      "fighting"
+    ],
+    "max_cp": 833,
+    "base_attack": 127,
+    "base_defense": 78,
+    "base_stamina": 80,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "lucario": {
+    "id": 448,
+    "evolution": [
+      [
+        "riolu"
+      ],
+      [
+        "lucario"
+      ]
+    ],
+    "types": [
+      "fighting",
+      "steel"
+    ],
+    "max_cp": 2461,
+    "base_attack": 236,
+    "base_defense": 144,
+    "base_stamina": 140,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "hippopotas": {
+    "id": 449,
+    "evolution": [
+      [
+        "hippopotas"
+      ],
+      [
+        "hippowdon"
+      ]
+    ],
+    "types": [
+      "ground"
+    ],
+    "max_cp": 1302,
+    "base_attack": 124,
+    "base_defense": 134,
+    "base_stamina": 136,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "hippowdon": {
+    "id": 450,
+    "evolution": [
+      [
+        "hippopotas"
+      ],
+      [
+        "hippowdon"
+      ]
+    ],
+    "types": [
+      "ground"
+    ],
+    "max_cp": 3089,
+    "base_attack": 201,
+    "base_defense": 212,
+    "base_stamina": 216,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "skorupi": {
+    "id": 451,
+    "evolution": [
+      [
+        "skorupi"
+      ],
+      [
+        "drapion"
+      ]
+    ],
+    "types": [
+      "poison",
+      "bug"
+    ],
+    "max_cp": 889,
+    "base_attack": 93,
+    "base_defense": 168,
+    "base_stamina": 80,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "drapion": {
+    "id": 452,
+    "evolution": [
+      [
+        "skorupi"
+      ],
+      [
+        "drapion"
+      ]
+    ],
+    "types": [
+      "poison",
+      "dark"
+    ],
+    "max_cp": 2319,
+    "base_attack": 180,
+    "base_defense": 219,
+    "base_stamina": 140,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "croagunk": {
+    "id": 453,
+    "evolution": [
+      [
+        "croagunk"
+      ],
+      [
+        "toxicroak"
+      ]
+    ],
+    "types": [
+      "poison",
+      "fighting"
+    ],
+    "max_cp": 822,
+    "base_attack": 116,
+    "base_defense": 76,
+    "base_stamina": 96,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "toxicroak": {
+    "id": 454,
+    "evolution": [
+      [
+        "croagunk"
+      ],
+      [
+        "toxicroak"
+      ]
+    ],
+    "types": [
+      "poison",
+      "fighting"
+    ],
+    "max_cp": 2310,
+    "base_attack": 211,
+    "base_defense": 133,
+    "base_stamina": 166,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "carnivine": {
+    "id": 455,
+    "evolution": [
+      [
+        "carnivine"
+      ]
+    ],
+    "types": [
+      "grass"
+    ],
+    "max_cp": 1979,
+    "base_attack": 187,
+    "base_defense": 136,
+    "base_stamina": 148,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "finneon": {
+    "id": 456,
+    "evolution": [
+      [
+        "finneon"
+      ],
+      [
+        "lumineon"
+      ]
+    ],
+    "types": [
+      "water"
+    ],
+    "max_cp": 853,
+    "base_attack": 96,
+    "base_defense": 119,
+    "base_stamina": 98,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "lumineon": {
+    "id": 457,
+    "evolution": [
+      [
+        "finneon"
+      ],
+      [
+        "lumineon"
+      ]
+    ],
+    "types": [
+      "water"
+    ],
+    "max_cp": 1671,
+    "base_attack": 142,
+    "base_defense": 175,
+    "base_stamina": 138,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "mantyke": {
+    "id": 458,
+    "evolution": [
+      [
+        "mantyke"
+      ],
+      [
+        "mantine"
+      ]
+    ],
+    "types": [
+      "water",
+      "flying"
+    ],
+    "max_cp": 1157,
+    "base_attack": 105,
+    "base_defense": 212,
+    "base_stamina": 90,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "snover": {
+    "id": 459,
+    "evolution": [
+      [
+        "snover"
+      ],
+      [
+        "abomasnow"
+      ]
+    ],
+    "types": [
+      "grass",
+      "ice"
+    ],
+    "max_cp": 1054,
+    "base_attack": 115,
+    "base_defense": 110,
+    "base_stamina": 120,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "abomasnow": {
+    "id": 460,
+    "evolution": [
+      [
+        "snover"
+      ],
+      [
+        "abomasnow"
+      ]
+    ],
+    "types": [
+      "grass",
+      "ice"
+    ],
+    "max_cp": 2245,
+    "base_attack": 178,
+    "base_defense": 163,
+    "base_stamina": 180,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "weavile": {
+    "id": 461,
+    "evolution": [
+      [
+        "sneasel"
+      ],
+      [
+        "sneasel"
+      ]
+    ],
+    "types": [
+      "dark",
+      "ice"
+    ],
+    "max_cp": 2815,
+    "base_attack": 243,
+    "base_defense": 182,
+    "base_stamina": 140,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "magnezone": {
+    "id": 462,
+    "evolution": [
+      [
+        "magnemite"
+      ],
+      [
+        "magneton"
+      ],
+      [
+        "magnezone"
+      ]
+    ],
+    "types": [
+      "steel",
+      "electric"
+    ],
+    "max_cp": 2996,
+    "base_attack": 238,
+    "base_defense": 217,
+    "base_stamina": 140,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "lickilicky": {
+    "id": 463,
+    "evolution": [
+      [
+        "lickitung"
+      ],
+      [
+        "lickilicky"
+      ]
+    ],
+    "types": [
+      "normal"
+    ],
+    "max_cp": 2359,
+    "base_attack": 161,
+    "base_defense": 181,
+    "base_stamina": 220,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "rhyperior": {
+    "id": 464,
+    "evolution": [
+      [
+        "rhyhorn"
+      ],
+      [
+        "rhydon"
+      ],
+      [
+        "rhyperior"
+      ]
+    ],
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "max_cp": 3869,
+    "base_attack": 241,
+    "base_defense": 224,
+    "base_stamina": 230,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "tangrowth": {
+    "id": 465,
+    "evolution": [
+      [
+        "tangela"
+      ],
+      [
+        "tangrowth"
+      ]
+    ],
+    "types": [
+      "grass"
+    ],
+    "max_cp": 3110,
+    "base_attack": 207,
+    "base_defense": 219,
+    "base_stamina": 200,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "electivire": {
+    "id": 466,
+    "evolution": [
+      [
+        "elekid"
+      ],
+      [
+        "electabuzz"
+      ],
+      [
+        "electivire"
+      ]
+    ],
+    "types": [
+      "electric"
+    ],
+    "max_cp": 2904,
+    "base_attack": 249,
+    "base_defense": 173,
+    "base_stamina": 150,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "magmortar": {
+    "id": 467,
+    "evolution": [
+      [
+        "magby"
+      ],
+      [
+        "magmar"
+      ],
+      [
+        "magmortar"
+      ]
+    ],
+    "types": [
+      "fire"
+    ],
+    "max_cp": 2980,
+    "base_attack": 247,
+    "base_defense": 186,
+    "base_stamina": 150,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "togekiss": {
+    "id": 468,
+    "evolution": [
+      [
+        "togepi"
+      ],
+      [
+        "togetic"
+      ],
+      [
+        "togekiss"
+      ]
+    ],
+    "types": [
+      "fairy",
+      "flying"
+    ],
+    "max_cp": 3171,
+    "base_attack": 225,
+    "base_defense": 227,
+    "base_stamina": 170,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "yanmega": {
+    "id": 469,
+    "evolution": [
+      [
+        "yanma"
+      ],
+      [
+        "yanmega"
+      ]
+    ],
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "max_cp": 2873,
+    "base_attack": 231,
+    "base_defense": 172,
+    "base_stamina": 172,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "leafeon": {
+    "id": 470,
+    "evolution": [
+      [
+        "eevee"
+      ],
+      [
+        "leafeon"
+      ]
+    ],
+    "types": [
+      "grass"
+    ],
+    "max_cp": 2849,
+    "base_attack": 216,
+    "base_defense": 254,
+    "base_stamina": 130,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "glaceon": {
+    "id": 471,
+    "evolution": [
+      [
+        "eevee"
+      ],
+      [
+        "glaceon"
+      ]
+    ],
+    "types": [
+      "ice"
+    ],
+    "max_cp": 2866,
+    "base_attack": 238,
+    "base_defense": 212,
+    "base_stamina": 130,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "gliscor": {
+    "id": 472,
+    "evolution": [
+      [
+        "gligar"
+      ],
+      [
+        "gliscor"
+      ]
+    ],
+    "types": [
+      "ground",
+      "flying"
+    ],
+    "max_cp": 2602,
+    "base_attack": 185,
+    "base_defense": 248,
+    "base_stamina": 150,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "mamoswine": {
+    "id": 473,
+    "evolution": [
+      [
+        "swinub"
+      ],
+      [
+        "piloswine"
+      ],
+      [
+        "mamoswine"
+      ]
+    ],
+    "types": [
+      "ice",
+      "ground"
+    ],
+    "max_cp": 3289,
+    "base_attack": 247,
+    "base_defense": 157,
+    "base_stamina": 220,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "porygon-z": {
+    "id": 474,
+    "evolution": [
+      [
+        "porygon"
+      ],
+      [
+        "porygon2"
+      ],
+      [
+        "porygon-z"
+      ]
+    ],
+    "types": [
+      "normal"
+    ],
+    "max_cp": 3072,
+    "base_attack": 264,
+    "base_defense": 153,
+    "base_stamina": 170,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "gallade": {
+    "id": 475,
+    "evolution": [
+      [
+        "ralts"
+      ],
+      [
+        "kirlia"
+      ],
+      [
+        "gallade"
+      ]
+    ],
+    "types": [
+      "psychic",
+      "fighting"
+    ],
+    "max_cp": 2964,
+    "base_attack": 237,
+    "base_defense": 220,
+    "base_stamina": 136,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "probopass": {
+    "id": 476,
+    "evolution": [
+      [
+        "nosepass"
+      ],
+      [
+        "probopass"
+      ]
+    ],
+    "types": [
+      "rock",
+      "steel"
+    ],
+    "max_cp": 1863,
+    "base_attack": 135,
+    "base_defense": 278,
+    "base_stamina": 120,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "dusknoir": {
+    "id": 477,
+    "evolution": [
+      [
+        "duskull"
+      ],
+      [
+        "dusclops"
+      ],
+      [
+        "dusknoir"
+      ]
+    ],
+    "types": [
+      "ghost"
+    ],
+    "max_cp": 2046,
+    "base_attack": 180,
+    "base_defense": 254,
+    "base_stamina": 90,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "froslass": {
+    "id": 478,
+    "evolution": [
+      [
+        "snorunt"
+      ],
+      [
+        "froslass"
+      ]
+    ],
+    "types": [
+      "ice",
+      "ghost"
+    ],
+    "max_cp": 1857,
+    "base_attack": 171,
+    "base_defense": 150,
+    "base_stamina": 140,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "rotom": {
+    "id": 479,
+    "evolution": [
+      [
+        "rotom"
+      ]
+    ],
+    "types": [
+      "electric",
+      "grass"
+    ],
+    "max_cp": 2243,
+    "base_attack": 204,
+    "base_defense": 219,
+    "base_stamina": 100,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "uxie": {
+    "id": 480,
+    "evolution": [
+      [
+        "uxie"
+      ]
+    ],
+    "types": [
+      "psychic"
+    ],
+    "max_cp": 2316,
+    "base_attack": 156,
+    "base_defense": 270,
+    "base_stamina": 150,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "mesprit": {
+    "id": 481,
+    "evolution": [
+      [
+        "mesprit"
+      ]
+    ],
+    "types": [
+      "psychic"
+    ],
+    "max_cp": 2825,
+    "base_attack": 212,
+    "base_defense": 212,
+    "base_stamina": 160,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "azelf": {
+    "id": 482,
+    "evolution": [
+      [
+        "azelf"
+      ]
+    ],
+    "types": [
+      "psychic"
+    ],
+    "max_cp": 2945,
+    "base_attack": 270,
+    "base_defense": 151,
+    "base_stamina": 150,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "dialga": {
+    "id": 483,
+    "evolution": [
+      [
+        "dialga"
+      ]
+    ],
+    "types": [
+      "steel",
+      "dragon"
+    ],
+    "max_cp": 4654,
+    "base_attack": 302,
+    "base_defense": 242,
+    "base_stamina": 200,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "palkia": {
+    "id": 484,
+    "evolution": [
+      [
+        "palkia"
+      ]
+    ],
+    "types": [
+      "water",
+      "dragon"
+    ],
+    "max_cp": 4559,
+    "base_attack": 308,
+    "base_defense": 247,
+    "base_stamina": 180,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "heatran": {
+    "id": 485,
+    "evolution": [
+      [
+        "heatran"
+      ]
+    ],
+    "types": [
+      "fire",
+      "steel"
+    ],
+    "max_cp": 3521,
+    "base_attack": 251,
+    "base_defense": 213,
+    "base_stamina": 182,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "regigigas": {
+    "id": 486,
+    "evolution": [
+      [
+        "regigigas"
+      ]
+    ],
+    "types": [
+      "normal"
+    ],
+    "max_cp": 4955,
+    "base_attack": 315,
+    "base_defense": 231,
+    "base_stamina": 220,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "giratina": {
+    "id": 487,
+    "evolution": [
+      [
+        "giratina"
+      ]
+    ],
+    "types": [
+      "ghost",
+      "dragon"
+    ],
+    "max_cp": 4317,
+    "base_attack": 247,
+    "base_defense": 206,
+    "base_stamina": 300,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "cresselia": {
+    "id": 488,
+    "evolution": [
+      [
+        "cresselia"
+      ]
+    ],
+    "types": [
+      "psychic"
+    ],
+    "max_cp": 2777,
+    "base_attack": 152,
+    "base_defense": 263,
+    "base_stamina": 240,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "phione": {
+    "id": 489,
+    "evolution": [
+      [
+        "phione"
+      ]
+    ],
+    "types": [
+      "water"
+    ],
+    "max_cp": 1945,
+    "base_attack": 162,
+    "base_defense": 162,
+    "base_stamina": 160,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "manaphy": {
+    "id": 490,
+    "evolution": [
+      [
+        "manaphy"
+      ]
+    ],
+    "types": [
+      "water"
+    ],
+    "max_cp": 3090,
+    "base_attack": 210,
+    "base_defense": 210,
+    "base_stamina": 200,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "darkrai": {
+    "id": 491,
+    "evolution": [
+      [
+        "darkrai"
+      ]
+    ],
+    "types": [
+      "dark"
+    ],
+    "max_cp": 3404,
+    "base_attack": 285,
+    "base_defense": 198,
+    "base_stamina": 140,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "shaymin": {
+    "id": 492,
+    "evolution": [
+      [
+        "shaymin"
+      ]
+    ],
+    "types": [
+      "grass",
+      "flying"
+    ],
+    "max_cp": 3400,
+    "base_attack": 261,
+    "base_defense": 166,
+    "base_stamina": 200,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "arceus": {
+    "id": 493,
+    "evolution": [
+      [
+        "arceus"
+      ]
+    ],
+    "types": [
+      "fairy"
+    ],
+    "max_cp": 4598,
+    "base_attack": 262,
+    "base_defense": 262,
+    "base_stamina": 240,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "victini": {
+    "id": 494,
+    "evolution": [
+      [
+        "victini"
+      ]
+    ],
+    "types": [
+      "fire",
+      "psychic"
+    ],
+    "max_cp": 3090,
+    "base_attack": 210,
+    "base_defense": 210,
+    "base_stamina": 200,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "snivy": {
+    "id": 495,
+    "evolution": [
+      [
+        "snivy"
+      ],
+      [
+        "servine"
+      ],
+      [
+        "serperior"
+      ]
+    ],
+    "types": [
+      "grass"
+    ],
+    "max_cp": 728,
+    "base_attack": 88,
+    "base_defense": 107,
+    "base_stamina": 90,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "servine": {
+    "id": 496,
+    "evolution": [
+      [
+        "snivy"
+      ],
+      [
+        "servine"
+      ],
+      [
+        "serperior"
+      ]
+    ],
+    "types": [
+      "grass"
+    ],
+    "max_cp": 1284,
+    "base_attack": 122,
+    "base_defense": 152,
+    "base_stamina": 120,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "serperior": {
+    "id": 497,
+    "evolution": [
+      [
+        "snivy"
+      ],
+      [
+        "servine"
+      ],
+      [
+        "serperior"
+      ]
+    ],
+    "types": [
+      "grass"
+    ],
+    "max_cp": 2089,
+    "base_attack": 161,
+    "base_defense": 204,
+    "base_stamina": 150,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "tepig": {
+    "id": 498,
+    "evolution": [
+      [
+        "tepig"
+      ],
+      [
+        "pignite"
+      ],
+      [
+        "emboar"
+      ]
+    ],
+    "types": [
+      "fire"
+    ],
+    "max_cp": 977,
+    "base_attack": 115,
+    "base_defense": 85,
+    "base_stamina": 130,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "pignite": {
+    "id": 499,
+    "evolution": [
+      [
+        "tepig"
+      ],
+      [
+        "pignite"
+      ],
+      [
+        "emboar"
+      ]
+    ],
+    "types": [
+      "fire",
+      "fighting"
+    ],
+    "max_cp": 1803,
+    "base_attack": 173,
+    "base_defense": 106,
+    "base_stamina": 180,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "emboar": {
+    "id": 500,
+    "evolution": [
+      [
+        "tepig"
+      ],
+      [
+        "pignite"
+      ],
+      [
+        "emboar"
+      ]
+    ],
+    "types": [
+      "fire",
+      "fighting"
+    ],
+    "max_cp": 2852,
+    "base_attack": 235,
+    "base_defense": 127,
+    "base_stamina": 220,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "oshawott": {
+    "id": 501,
+    "evolution": [
+      [
+        "oshawott"
+      ],
+      [
+        "dewott"
+      ],
+      [
+        "samurott"
+      ]
+    ],
+    "types": [
+      "water"
+    ],
+    "max_cp": 921,
+    "base_attack": 117,
+    "base_defense": 85,
+    "base_stamina": 110,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "dewott": {
+    "id": 502,
+    "evolution": [
+      [
+        "oshawott"
+      ],
+      [
+        "dewott"
+      ],
+      [
+        "samurott"
+      ]
+    ],
+    "types": [
+      "water"
+    ],
+    "max_cp": 1597,
+    "base_attack": 159,
+    "base_defense": 116,
+    "base_stamina": 150,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "samurott": {
+    "id": 503,
+    "evolution": [
+      [
+        "oshawott"
+      ],
+      [
+        "dewott"
+      ],
+      [
+        "samurott"
+      ]
+    ],
+    "types": [
+      "water"
+    ],
+    "max_cp": 2715,
+    "base_attack": 212,
+    "base_defense": 164,
+    "base_stamina": 190,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "patrat": {
+    "id": 504,
+    "evolution": [
+      [
+        "patrat"
+      ],
+      [
+        "watchog"
+      ]
+    ],
+    "types": [
+      "normal"
+    ],
+    "max_cp": 678,
+    "base_attack": 98,
+    "base_defense": 73,
+    "base_stamina": 90,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "watchog": {
+    "id": 505,
+    "evolution": [
+      [
+        "patrat"
+      ],
+      [
+        "watchog"
+      ]
+    ],
+    "types": [
+      "normal"
+    ],
+    "max_cp": 1621,
+    "base_attack": 165,
+    "base_defense": 139,
+    "base_stamina": 120,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "lillipup": {
+    "id": 506,
+    "evolution": [
+      [
+        "lillipup"
+      ],
+      [
+        "herdier"
+      ],
+      [
+        "stoutland"
+      ]
+    ],
+    "types": [
+      "normal"
+    ],
+    "max_cp": 784,
+    "base_attack": 107,
+    "base_defense": 86,
+    "base_stamina": 90,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "herdier": {
+    "id": 507,
+    "evolution": [
+      [
+        "lillipup"
+      ],
+      [
+        "herdier"
+      ],
+      [
+        "stoutland"
+      ]
+    ],
+    "types": [
+      "normal"
+    ],
+    "max_cp": 1428,
+    "base_attack": 145,
+    "base_defense": 126,
+    "base_stamina": 130,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "stoutland": {
+    "id": 508,
+    "evolution": [
+      [
+        "lillipup"
+      ],
+      [
+        "herdier"
+      ],
+      [
+        "stoutland"
+      ]
+    ],
+    "types": [
+      "normal"
+    ],
+    "max_cp": 2635,
+    "base_attack": 206,
+    "base_defense": 182,
+    "base_stamina": 170,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "purrloin": {
+    "id": 509,
+    "evolution": [
+      [
+        "purrloin"
+      ],
+      [
+        "liepard"
+      ]
+    ],
+    "types": [
+      "dark"
+    ],
+    "max_cp": 652,
+    "base_attack": 98,
+    "base_defense": 73,
+    "base_stamina": 82,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "liepard": {
+    "id": 510,
+    "evolution": [
+      [
+        "purrloin"
+      ],
+      [
+        "liepard"
+      ]
+    ],
+    "types": [
+      "dark"
+    ],
+    "max_cp": 1659,
+    "base_attack": 187,
+    "base_defense": 106,
+    "base_stamina": 128,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "pansage": {
+    "id": 511,
+    "evolution": [
+      [
+        "pansage"
+      ],
+      [
+        "simisage"
+      ]
+    ],
+    "types": [
+      "grass"
+    ],
+    "max_cp": 832,
+    "base_attack": 104,
+    "base_defense": 94,
+    "base_stamina": 100,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "simisage": {
+    "id": 512,
+    "evolution": [
+      [
+        "pansage"
+      ],
+      [
+        "simisage"
+      ]
+    ],
+    "types": [
+      "grass"
+    ],
+    "max_cp": 2156,
+    "base_attack": 206,
+    "base_defense": 133,
+    "base_stamina": 150,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "pansear": {
+    "id": 513,
+    "evolution": [
+      [
+        "pansear"
+      ],
+      [
+        "simisear"
+      ]
+    ],
+    "types": [
+      "fire"
+    ],
+    "max_cp": 832,
+    "base_attack": 104,
+    "base_defense": 94,
+    "base_stamina": 100,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "simisear": {
+    "id": 514,
+    "evolution": [
+      [
+        "pansear"
+      ],
+      [
+        "simisear"
+      ]
+    ],
+    "types": [
+      "fire"
+    ],
+    "max_cp": 2156,
+    "base_attack": 206,
+    "base_defense": 133,
+    "base_stamina": 150,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "panpour": {
+    "id": 515,
+    "evolution": [
+      [
+        "panpour"
+      ],
+      [
+        "simipour"
+      ]
+    ],
+    "types": [
+      "water"
+    ],
+    "max_cp": 832,
+    "base_attack": 104,
+    "base_defense": 94,
+    "base_stamina": 100,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "simipour": {
+    "id": 516,
+    "evolution": [
+      [
+        "panpour"
+      ],
+      [
+        "simipour"
+      ]
+    ],
+    "types": [
+      "water"
+    ],
+    "max_cp": 2156,
+    "base_attack": 206,
+    "base_defense": 133,
+    "base_stamina": 150,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "munna": {
+    "id": 517,
+    "evolution": [
+      [
+        "munna"
+      ],
+      [
+        "musharna"
+      ]
+    ],
+    "types": [
+      "psychic"
+    ],
+    "max_cp": 1076,
+    "base_attack": 111,
+    "base_defense": 97,
+    "base_stamina": 152,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "musharna": {
+    "id": 518,
+    "evolution": [
+      [
+        "munna"
+      ],
+      [
+        "musharna"
+      ]
+    ],
+    "types": [
+      "psychic"
+    ],
+    "max_cp": 2650,
+    "base_attack": 183,
+    "base_defense": 171,
+    "base_stamina": 232,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "pidove": {
+    "id": 519,
+    "evolution": [
+      [
+        "pidove"
+      ],
+      [
+        "tranquill"
+      ],
+      [
+        "unfezant"
+      ]
+    ],
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "max_cp": 771,
+    "base_attack": 98,
+    "base_defense": 89,
+    "base_stamina": 100,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "tranquill": {
+    "id": 520,
+    "evolution": [
+      [
+        "pidove"
+      ],
+      [
+        "tranquill"
+      ],
+      [
+        "unfezant"
+      ]
+    ],
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "max_cp": 1345,
+    "base_attack": 144,
+    "base_defense": 117,
+    "base_stamina": 124,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "unfezant": {
+    "id": 521,
+    "evolution": [
+      [
+        "pidove"
+      ],
+      [
+        "tranquill"
+      ],
+      [
+        "unfezant"
+      ]
+    ],
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "max_cp": 2634,
+    "base_attack": 226,
+    "base_defense": 160,
+    "base_stamina": 160,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "blitzle": {
+    "id": 522,
+    "evolution": [
+      [
+        "blitzle"
+      ],
+      [
+        "zebstrika"
+      ]
+    ],
+    "types": [
+      "electric"
+    ],
+    "max_cp": 756,
+    "base_attack": 118,
+    "base_defense": 64,
+    "base_stamina": 90,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "zebstrika": {
+    "id": 523,
+    "evolution": [
+      [
+        "blitzle"
+      ],
+      [
+        "zebstrika"
+      ]
+    ],
+    "types": [
+      "electric"
+    ],
+    "max_cp": 2228,
+    "base_attack": 211,
+    "base_defense": 136,
+    "base_stamina": 150,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "roggenrola": {
+    "id": 524,
+    "evolution": [
+      [
+        "roggenrola"
+      ],
+      [
+        "boldore"
+      ],
+      [
+        "gigalith"
+      ]
+    ],
+    "types": [
+      "rock"
+    ],
+    "max_cp": 1166,
+    "base_attack": 121,
+    "base_defense": 136,
+    "base_stamina": 110,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "boldore": {
+    "id": 525,
+    "evolution": [
+      [
+        "roggenrola"
+      ],
+      [
+        "boldore"
+      ],
+      [
+        "gigalith"
+      ]
+    ],
+    "types": [
+      "rock"
+    ],
+    "max_cp": 2015,
+    "base_attack": 174,
+    "base_defense": 173,
+    "base_stamina": 140,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "gigalith": {
+    "id": 526,
+    "evolution": [
+      [
+        "roggenrola"
+      ],
+      [
+        "boldore"
+      ],
+      [
+        "gigalith"
+      ]
+    ],
+    "types": [
+      "rock"
+    ],
+    "max_cp": 3158,
+    "base_attack": 226,
+    "base_defense": 223,
+    "base_stamina": 170,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "woobat": {
+    "id": 527,
+    "evolution": [
+      [
+        "woobat"
+      ],
+      [
+        "swoobat"
+      ]
+    ],
+    "types": [
+      "psychic",
+      "flying"
+    ],
+    "max_cp": 917,
+    "base_attack": 107,
+    "base_defense": 85,
+    "base_stamina": 130,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "swoobat": {
+    "id": 528,
+    "evolution": [
+      [
+        "woobat"
+      ],
+      [
+        "swoobat"
+      ]
+    ],
+    "types": [
+      "psychic",
+      "flying"
+    ],
+    "max_cp": 1553,
+    "base_attack": 161,
+    "base_defense": 119,
+    "base_stamina": 134,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "drilbur": {
+    "id": 529,
+    "evolution": [
+      [
+        "drilbur"
+      ],
+      [
+        "excadrill"
+      ]
+    ],
+    "types": [
+      "ground"
+    ],
+    "max_cp": 1244,
+    "base_attack": 154,
+    "base_defense": 88,
+    "base_stamina": 120,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "excadrill": {
+    "id": 530,
+    "evolution": [
+      [
+        "drilbur"
+      ],
+      [
+        "excadrill"
+      ]
+    ],
+    "types": [
+      "ground",
+      "steel"
+    ],
+    "max_cp": 3134,
+    "base_attack": 255,
+    "base_defense": 132,
+    "base_stamina": 220,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "audino": {
+    "id": 531,
+    "evolution": [
+      [
+        "audino"
+      ]
+    ],
+    "types": [
+      "normal"
+    ],
+    "max_cp": 1598,
+    "base_attack": 114,
+    "base_defense": 163,
+    "base_stamina": 206,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "timburr": {
+    "id": 532,
+    "evolution": [
+      [
+        "timburr"
+      ],
+      [
+        "gurdurr"
+      ],
+      [
+        "conkeldurr"
+      ]
+    ],
+    "types": [
+      "fighting"
+    ],
+    "max_cp": 1265,
+    "base_attack": 134,
+    "base_defense": 97,
+    "base_stamina": 150,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "gurdurr": {
+    "id": 533,
+    "evolution": [
+      [
+        "timburr"
+      ],
+      [
+        "gurdurr"
+      ],
+      [
+        "conkeldurr"
+      ]
+    ],
+    "types": [
+      "fighting"
+    ],
+    "max_cp": 2127,
+    "base_attack": 180,
+    "base_defense": 150,
+    "base_stamina": 170,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "conkeldurr": {
+    "id": 534,
+    "evolution": [
+      [
+        "timburr"
+      ],
+      [
+        "gurdurr"
+      ],
+      [
+        "conkeldurr"
+      ]
+    ],
+    "types": [
+      "fighting"
+    ],
+    "max_cp": 3305,
+    "base_attack": 243,
+    "base_defense": 172,
+    "base_stamina": 210,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "tympole": {
+    "id": 535,
+    "evolution": [
+      [
+        "tympole"
+      ],
+      [
+        "palpitoad"
+      ],
+      [
+        "seismitoad"
+      ]
+    ],
+    "types": [
+      "water"
+    ],
+    "max_cp": 729,
+    "base_attack": 98,
+    "base_defense": 78,
+    "base_stamina": 100,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "palpitoad": {
+    "id": 536,
+    "evolution": [
+      [
+        "tympole"
+      ],
+      [
+        "palpitoad"
+      ],
+      [
+        "seismitoad"
+      ]
+    ],
+    "types": [
+      "water",
+      "ground"
+    ],
+    "max_cp": 1277,
+    "base_attack": 128,
+    "base_defense": 109,
+    "base_stamina": 150,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "seismitoad": {
+    "id": 537,
+    "evolution": [
+      [
+        "tympole"
+      ],
+      [
+        "palpitoad"
+      ],
+      [
+        "seismitoad"
+      ]
+    ],
+    "types": [
+      "water",
+      "ground"
+    ],
+    "max_cp": 2442,
+    "base_attack": 188,
+    "base_defense": 150,
+    "base_stamina": 210,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "throh": {
+    "id": 538,
+    "evolution": [
+      [
+        "throh"
+      ]
+    ],
+    "types": [
+      "fighting"
+    ],
+    "max_cp": 2467,
+    "base_attack": 172,
+    "base_defense": 160,
+    "base_stamina": 240,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "sawk": {
+    "id": 539,
+    "evolution": [
+      [
+        "sawk"
+      ]
+    ],
+    "types": [
+      "fighting"
+    ],
+    "max_cp": 2558,
+    "base_attack": 231,
+    "base_defense": 153,
+    "base_stamina": 150,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "sewaddle": {
+    "id": 540,
+    "evolution": [
+      [
+        "sewaddle"
+      ],
+      [
+        "swadloon"
+      ],
+      [
+        "leavanny"
+      ]
+    ],
+    "types": [
+      "bug",
+      "grass"
+    ],
+    "max_cp": 852,
+    "base_attack": 96,
+    "base_defense": 129,
+    "base_stamina": 90,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "swadloon": {
+    "id": 541,
+    "evolution": [
+      [
+        "sewaddle"
+      ],
+      [
+        "swadloon"
+      ],
+      [
+        "leavanny"
+      ]
+    ],
+    "types": [
+      "bug",
+      "grass"
+    ],
+    "max_cp": 1221,
+    "base_attack": 115,
+    "base_defense": 166,
+    "base_stamina": 110,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "leavanny": {
+    "id": 542,
+    "evolution": [
+      [
+        "sewaddle"
+      ],
+      [
+        "swadloon"
+      ],
+      [
+        "leavanny"
+      ]
+    ],
+    "types": [
+      "bug",
+      "grass"
+    ],
+    "max_cp": 2368,
+    "base_attack": 205,
+    "base_defense": 165,
+    "base_stamina": 150,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "venipede": {
+    "id": 543,
+    "evolution": [
+      [
+        "venipede"
+      ],
+      [
+        "whirlipede"
+      ],
+      [
+        "scolipede"
+      ]
+    ],
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "max_cp": 590,
+    "base_attack": 83,
+    "base_defense": 109,
+    "base_stamina": 60,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "whirlipede": {
+    "id": 544,
+    "evolution": [
+      [
+        "venipede"
+      ],
+      [
+        "whirlipede"
+      ],
+      [
+        "scolipede"
+      ]
+    ],
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "max_cp": 982,
+    "base_attack": 100,
+    "base_defense": 182,
+    "base_stamina": 80,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "scolipede": {
+    "id": 545,
+    "evolution": [
+      [
+        "venipede"
+      ],
+      [
+        "whirlipede"
+      ],
+      [
+        "scolipede"
+      ]
+    ],
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "max_cp": 2242,
+    "base_attack": 203,
+    "base_defense": 186,
+    "base_stamina": 120,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "cottonee": {
+    "id": 546,
+    "evolution": [
+      [
+        "cottonee"
+      ],
+      [
+        "whimsicott"
+      ]
+    ],
+    "types": [
+      "grass",
+      "fairy"
+    ],
+    "max_cp": 599,
+    "base_attack": 71,
+    "base_defense": 116,
+    "base_stamina": 80,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "whimsicott": {
+    "id": 547,
+    "evolution": [
+      [
+        "cottonee"
+      ],
+      [
+        "whimsicott"
+      ]
+    ],
+    "types": [
+      "grass",
+      "fairy"
+    ],
+    "max_cp": 1823,
+    "base_attack": 164,
+    "base_defense": 182,
+    "base_stamina": 120,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "petilil": {
+    "id": 548,
+    "evolution": [
+      [
+        "petilil"
+      ],
+      [
+        "lilligant"
+      ]
+    ],
+    "types": [
+      "grass"
+    ],
+    "max_cp": 882,
+    "base_attack": 119,
+    "base_defense": 91,
+    "base_stamina": 90,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "lilligant": {
+    "id": 549,
+    "evolution": [
+      [
+        "petilil"
+      ],
+      [
+        "lilligant"
+      ]
+    ],
+    "types": [
+      "grass"
+    ],
+    "max_cp": 2321,
+    "base_attack": 214,
+    "base_defense": 155,
+    "base_stamina": 140,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "basculin": {
+    "id": 550,
+    "evolution": [
+      [
+        "basculin"
+      ]
+    ],
+    "types": [
+      "water"
+    ],
+    "max_cp": 1936,
+    "base_attack": 189,
+    "base_defense": 134,
+    "base_stamina": 140,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "sandile": {
+    "id": 551,
+    "evolution": [
+      [
+        "sandile"
+      ],
+      [
+        "krokorok"
+      ],
+      [
+        "krookodile"
+      ]
+    ],
+    "types": [
+      "ground",
+      "dark"
+    ],
+    "max_cp": 902,
+    "base_attack": 132,
+    "base_defense": 69,
+    "base_stamina": 100,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "krokorok": {
+    "id": 552,
+    "evolution": [
+      [
+        "sandile"
+      ],
+      [
+        "krokorok"
+      ],
+      [
+        "krookodile"
+      ]
+    ],
+    "types": [
+      "ground",
+      "dark"
+    ],
+    "max_cp": 1264,
+    "base_attack": 155,
+    "base_defense": 90,
+    "base_stamina": 120,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "krookodile": {
+    "id": 553,
+    "evolution": [
+      [
+        "sandile"
+      ],
+      [
+        "krokorok"
+      ],
+      [
+        "krookodile"
+      ]
+    ],
+    "types": [
+      "ground",
+      "dark"
+    ],
+    "max_cp": 2911,
+    "base_attack": 229,
+    "base_defense": 163,
+    "base_stamina": 190,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "darumaka": {
+    "id": 554,
+    "evolution": [
+      [
+        "darumaka"
+      ],
+      [
+        "darmanitan"
+      ]
+    ],
+    "types": [
+      "fire"
+    ],
+    "max_cp": 1312,
+    "base_attack": 153,
+    "base_defense": 86,
+    "base_stamina": 140,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "darmanitan": {
+    "id": 555,
+    "evolution": [
+      [
+        "darumaka"
+      ],
+      [
+        "darmanitan"
+      ]
+    ],
+    "types": [
+      "fire",
+      "psychic"
+    ],
+    "max_cp": 2958,
+    "base_attack": 263,
+    "base_defense": 114,
+    "base_stamina": 210,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "maractus": {
+    "id": 556,
+    "evolution": [
+      [
+        "maractus"
+      ]
+    ],
+    "types": [
+      "grass"
+    ],
+    "max_cp": 2086,
+    "base_attack": 201,
+    "base_defense": 130,
+    "base_stamina": 150,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "dwebble": {
+    "id": 557,
+    "evolution": [
+      [
+        "dwebble"
+      ],
+      [
+        "crustle"
+      ]
+    ],
+    "types": [
+      "bug",
+      "rock"
+    ],
+    "max_cp": 1151,
+    "base_attack": 118,
+    "base_defense": 152,
+    "base_stamina": 100,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "crustle": {
+    "id": 558,
+    "evolution": [
+      [
+        "dwebble"
+      ],
+      [
+        "crustle"
+      ]
+    ],
+    "types": [
+      "bug",
+      "rock"
+    ],
+    "max_cp": 2440,
+    "base_attack": 188,
+    "base_defense": 224,
+    "base_stamina": 140,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "scraggy": {
+    "id": 559,
+    "evolution": [
+      [
+        "scraggy"
+      ],
+      [
+        "scrafty"
+      ]
+    ],
+    "types": [
+      "dark",
+      "fighting"
+    ],
+    "max_cp": 1193,
+    "base_attack": 132,
+    "base_defense": 132,
+    "base_stamina": 100,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "scrafty": {
+    "id": 560,
+    "evolution": [
+      [
+        "scraggy"
+      ],
+      [
+        "scrafty"
+      ]
+    ],
+    "types": [
+      "dark",
+      "fighting"
+    ],
+    "max_cp": 2060,
+    "base_attack": 163,
+    "base_defense": 222,
+    "base_stamina": 130,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "sigilyph": {
+    "id": 561,
+    "evolution": [
+      [
+        "sigilyph"
+      ]
+    ],
+    "types": [
+      "psychic",
+      "flying"
+    ],
+    "max_cp": 2326,
+    "base_attack": 204,
+    "base_defense": 167,
+    "base_stamina": 144,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "yamask": {
+    "id": 562,
+    "evolution": [
+      [
+        "yamask"
+      ],
+      [
+        "confagrigus"
+      ]
+    ],
+    "types": [
+      "ghost"
+    ],
+    "max_cp": 841,
+    "base_attack": 95,
+    "base_defense": 150,
+    "base_stamina": 76,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "cofagrigus": {
+    "id": 563,
+    "evolution": [
+      [
+        "yamask"
+      ],
+      [
+        "confagrigus"
+      ]
+    ],
+    "types": [
+      "ghost"
+    ],
+    "max_cp": 2090,
+    "base_attack": 163,
+    "base_defense": 255,
+    "base_stamina": 116,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "tirtouga": {
+    "id": 564,
+    "evolution": [
+      [
+        "tirtouga"
+      ],
+      [
+        "carracosta"
+      ]
+    ],
+    "types": [
+      "water",
+      "rock"
+    ],
+    "max_cp": 1411,
+    "base_attack": 134,
+    "base_defense": 172,
+    "base_stamina": 108,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "carracosta": {
+    "id": 565,
+    "evolution": [
+      [
+        "tirtouga"
+      ],
+      [
+        "carracosta"
+      ]
+    ],
+    "types": [
+      "water",
+      "rock"
+    ],
+    "max_cp": 2573,
+    "base_attack": 192,
+    "base_defense": 228,
+    "base_stamina": 148,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "archen": {
+    "id": 566,
+    "evolution": [
+      [
+        "archen"
+      ],
+      [
+        "archeops"
+      ]
+    ],
+    "types": [
+      "rock",
+      "flying"
+    ],
+    "max_cp": 1623,
+    "base_attack": 213,
+    "base_defense": 89,
+    "base_stamina": 110,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "archeops": {
+    "id": 567,
+    "evolution": [
+      [
+        "archen"
+      ],
+      [
+        "archeops"
+      ]
+    ],
+    "types": [
+      "rock",
+      "flying"
+    ],
+    "max_cp": 3056,
+    "base_attack": 292,
+    "base_defense": 139,
+    "base_stamina": 150,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "trubbish": {
+    "id": 568,
+    "evolution": [
+      [
+        "trubbish"
+      ],
+      [
+        "garbodor"
+      ]
+    ],
+    "types": [
+      "poison"
+    ],
+    "max_cp": 870,
+    "base_attack": 96,
+    "base_defense": 122,
+    "base_stamina": 100,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "garbodor": {
+    "id": 569,
+    "evolution": [
+      [
+        "trubbish"
+      ],
+      [
+        "garbodor"
+      ]
+    ],
+    "types": [
+      "poison"
+    ],
+    "max_cp": 2166,
+    "base_attack": 181,
+    "base_defense": 164,
+    "base_stamina": 160,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "zorua": {
+    "id": 570,
+    "evolution": [
+      [
+        "zorua"
+      ],
+      [
+        "zoroark"
+      ]
+    ],
+    "types": [
+      "dark"
+    ],
+    "max_cp": 986,
+    "base_attack": 153,
+    "base_defense": 78,
+    "base_stamina": 80,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "zoroark": {
+    "id": 571,
+    "evolution": [
+      [
+        "zorua"
+      ],
+      [
+        "zoroark"
+      ]
+    ],
+    "types": [
+      "dark"
+    ],
+    "max_cp": 2291,
+    "base_attack": 250,
+    "base_defense": 127,
+    "base_stamina": 120,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "minccino": {
+    "id": 572,
+    "evolution": [
+      [
+        "minccino"
+      ],
+      [
+        "cinccino"
+      ]
+    ],
+    "types": [
+      "normal"
+    ],
+    "max_cp": 769,
+    "base_attack": 98,
+    "base_defense": 80,
+    "base_stamina": 110,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "cinccino": {
+    "id": 573,
+    "evolution": [
+      [
+        "minccino"
+      ],
+      [
+        "cinccino"
+      ]
+    ],
+    "types": [
+      "normal"
+    ],
+    "max_cp": 2057,
+    "base_attack": 198,
+    "base_defense": 130,
+    "base_stamina": 150,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "gothita": {
+    "id": 574,
+    "evolution": [
+      [
+        "gothita"
+      ],
+      [
+        "gothorita"
+      ],
+      [
+        "gothitelle"
+      ]
+    ],
+    "types": [
+      "psychic"
+    ],
+    "max_cp": 834,
+    "base_attack": 98,
+    "base_defense": 118,
+    "base_stamina": 90,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "gothorita": {
+    "id": 575,
+    "evolution": [
+      [
+        "gothita"
+      ],
+      [
+        "gothorita"
+      ],
+      [
+        "gothitelle"
+      ]
+    ],
+    "types": [
+      "psychic"
+    ],
+    "max_cp": 1455,
+    "base_attack": 137,
+    "base_defense": 159,
+    "base_stamina": 120,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "gothitelle": {
+    "id": 576,
+    "evolution": [
+      [
+        "gothita"
+      ],
+      [
+        "gothorita"
+      ],
+      [
+        "gothitelle"
+      ]
+    ],
+    "types": [
+      "psychic"
+    ],
+    "max_cp": 2237,
+    "base_attack": 176,
+    "base_defense": 212,
+    "base_stamina": 140,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "solosis": {
+    "id": 577,
+    "evolution": [
+      [
+        "solosis"
+      ],
+      [
+        "duosion"
+      ],
+      [
+        "reuniclus"
+      ]
+    ],
+    "types": [
+      "psychic"
+    ],
+    "max_cp": 1195,
+    "base_attack": 170,
+    "base_defense": 87,
+    "base_stamina": 90,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "duosion": {
+    "id": 578,
+    "evolution": [
+      [
+        "solosis"
+      ],
+      [
+        "duosion"
+      ],
+      [
+        "reuniclus"
+      ]
+    ],
+    "types": [
+      "psychic"
+    ],
+    "max_cp": 1852,
+    "base_attack": 208,
+    "base_defense": 107,
+    "base_stamina": 130,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "reuniclus": {
+    "id": 579,
+    "evolution": [
+      [
+        "solosis"
+      ],
+      [
+        "duosion"
+      ],
+      [
+        "reuniclus"
+      ]
+    ],
+    "types": [
+      "psychic"
+    ],
+    "max_cp": 2841,
+    "base_attack": 214,
+    "base_defense": 153,
+    "base_stamina": 220,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "ducklett": {
+    "id": 580,
+    "evolution": [
+      [
+        "ducklett"
+      ],
+      [
+        "swanna"
+      ]
+    ],
+    "types": [
+      "water",
+      "flying"
+    ],
+    "max_cp": 768,
+    "base_attack": 84,
+    "base_defense": 96,
+    "base_stamina": 124,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "swanna": {
+    "id": 581,
+    "evolution": [
+      [
+        "ducklett"
+      ],
+      [
+        "swanna"
+      ]
+    ],
+    "types": [
+      "water",
+      "flying"
+    ],
+    "max_cp": 1916,
+    "base_attack": 182,
+    "base_defense": 132,
+    "base_stamina": 150,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "vanillite": {
+    "id": 582,
+    "evolution": [
+      [
+        "vanillite"
+      ],
+      [
+        "vanillish"
+      ],
+      [
+        "vanilluxe"
+      ]
+    ],
+    "types": [
+      "ice"
+    ],
+    "max_cp": 869,
+    "base_attack": 118,
+    "base_defense": 111,
+    "base_stamina": 72,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "vanillish": {
+    "id": 583,
+    "evolution": [
+      [
+        "vanillite"
+      ],
+      [
+        "vanillish"
+      ],
+      [
+        "vanilluxe"
+      ]
+    ],
+    "types": [
+      "ice"
+    ],
+    "max_cp": 1409,
+    "base_attack": 151,
+    "base_defense": 143,
+    "base_stamina": 102,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "vanilluxe": {
+    "id": 584,
+    "evolution": [
+      [
+        "vanillite"
+      ],
+      [
+        "vanillish"
+      ],
+      [
+        "vanilluxe"
+      ]
+    ],
+    "types": [
+      "ice"
+    ],
+    "max_cp": 2610,
+    "base_attack": 218,
+    "base_defense": 190,
+    "base_stamina": 142,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "deerling": {
+    "id": 585,
+    "evolution": [
+      [
+        "deerling"
+      ],
+      [
+        "sawsbuck"
+      ]
+    ],
+    "types": [
+      "normal",
+      "grass"
+    ],
+    "max_cp": 1011,
+    "base_attack": 115,
+    "base_defense": 100,
+    "base_stamina": 120,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "sawsbuck": {
+    "id": 586,
+    "evolution": [
+      [
+        "deerling"
+      ],
+      [
+        "sawsbuck"
+      ]
+    ],
+    "types": [
+      "normal",
+      "grass"
+    ],
+    "max_cp": 2233,
+    "base_attack": 198,
+    "base_defense": 146,
+    "base_stamina": 160,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "emolga": {
+    "id": 587,
+    "evolution": [
+      [
+        "emolga"
+      ]
+    ],
+    "types": [
+      "electric",
+      "flying"
+    ],
+    "max_cp": 1439,
+    "base_attack": 158,
+    "base_defense": 127,
+    "base_stamina": 110,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "karrablast": {
+    "id": 588,
+    "evolution": [
+      [
+        "karrablast"
+      ],
+      [
+        "escavalier"
+      ]
+    ],
+    "types": [
+      "bug"
+    ],
+    "max_cp": 1028,
+    "base_attack": 137,
+    "base_defense": 87,
+    "base_stamina": 100,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "escavalier": {
+    "id": 589,
+    "evolution": [
+      [
+        "karrablast"
+      ],
+      [
+        "escavalier"
+      ]
+    ],
+    "types": [
+      "bug",
+      "steel"
+    ],
+    "max_cp": 2630,
+    "base_attack": 223,
+    "base_defense": 187,
+    "base_stamina": 140,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "foongus": {
+    "id": 590,
+    "evolution": [
+      [
+        "foongus"
+      ],
+      [
+        "amoonguss"
+      ]
+    ],
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "max_cp": 907,
+    "base_attack": 97,
+    "base_defense": 95,
+    "base_stamina": 138,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "amoonguss": {
+    "id": 591,
+    "evolution": [
+      [
+        "foongus"
+      ],
+      [
+        "amoonguss"
+      ]
+    ],
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "max_cp": 2087,
+    "base_attack": 155,
+    "base_defense": 144,
+    "base_stamina": 228,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "frillish": {
+    "id": 592,
+    "evolution": [
+      [
+        "frillish"
+      ],
+      [
+        "jellicent"
+      ]
+    ],
+    "types": [
+      "water",
+      "ghost"
+    ],
+    "max_cp": 1166,
+    "base_attack": 115,
+    "base_defense": 150,
+    "base_stamina": 110,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "jellicent": {
+    "id": 593,
+    "evolution": [
+      [
+        "frillish"
+      ],
+      [
+        "jellicent"
+      ]
+    ],
+    "types": [
+      "water",
+      "ghost"
+    ],
+    "max_cp": 2309,
+    "base_attack": 159,
+    "base_defense": 195,
+    "base_stamina": 200,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "alomomola": {
+    "id": 594,
+    "evolution": [
+      [
+        "alomomola"
+      ]
+    ],
+    "types": [
+      "water"
+    ],
+    "max_cp": 2266,
+    "base_attack": 138,
+    "base_defense": 148,
+    "base_stamina": 330,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "joltik": {
+    "id": 595,
+    "evolution": [
+      [
+        "joltik"
+      ],
+      [
+        "galvantula"
+      ]
+    ],
+    "types": [
+      "bug",
+      "electric"
+    ],
+    "max_cp": 889,
+    "base_attack": 110,
+    "base_defense": 98,
+    "base_stamina": 100,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "galvantula": {
+    "id": 596,
+    "evolution": [
+      [
+        "joltik"
+      ],
+      [
+        "galvantula"
+      ]
+    ],
+    "types": [
+      "bug",
+      "electric"
+    ],
+    "max_cp": 2008,
+    "base_attack": 201,
+    "base_defense": 128,
+    "base_stamina": 140,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "ferroseed": {
+    "id": 597,
+    "evolution": [
+      [
+        "ferroseed"
+      ],
+      [
+        "ferrothorn"
+      ]
+    ],
+    "types": [
+      "grass",
+      "steel"
+    ],
+    "max_cp": 806,
+    "base_attack": 82,
+    "base_defense": 157,
+    "base_stamina": 88,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "ferrothorn": {
+    "id": 598,
+    "evolution": [
+      [
+        "ferroseed"
+      ],
+      [
+        "ferrothorn"
+      ]
+    ],
+    "types": [
+      "grass",
+      "steel"
+    ],
+    "max_cp": 2159,
+    "base_attack": 158,
+    "base_defense": 230,
+    "base_stamina": 148,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "klink": {
+    "id": 599,
+    "evolution": [
+      [
+        "klink"
+      ],
+      [
+        "klang"
+      ],
+      [
+        "klinklang"
+      ]
+    ],
+    "types": [
+      "steel"
+    ],
+    "max_cp": 816,
+    "base_attack": 98,
+    "base_defense": 126,
+    "base_stamina": 80,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "klang": {
+    "id": 600,
+    "evolution": [
+      [
+        "klink"
+      ],
+      [
+        "klang"
+      ],
+      [
+        "klinklang"
+      ]
+    ],
+    "types": [
+      "steel"
+    ],
+    "max_cp": 1667,
+    "base_attack": 150,
+    "base_defense": 179,
+    "base_stamina": 120,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "klinklang": {
+    "id": 601,
+    "evolution": [
+      [
+        "klink"
+      ],
+      [
+        "klang"
+      ],
+      [
+        "klinklang"
+      ]
+    ],
+    "types": [
+      "steel"
+    ],
+    "max_cp": 2430,
+    "base_attack": 199,
+    "base_defense": 230,
+    "base_stamina": 120,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "tynamo": {
+    "id": 602,
+    "evolution": [
+      [
+        "tynamo"
+      ],
+      [
+        "eelektrik"
+      ],
+      [
+        "eelektross"
+      ]
+    ],
+    "types": [
+      "electric"
+    ],
+    "max_cp": 666,
+    "base_attack": 105,
+    "base_defense": 78,
+    "base_stamina": 70,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "eelektrik": {
+    "id": 603,
+    "evolution": [
+      [
+        "tynamo"
+      ],
+      [
+        "eelektrik"
+      ],
+      [
+        "eelektross"
+      ]
+    ],
+    "types": [
+      "electric"
+    ],
+    "max_cp": 1548,
+    "base_attack": 156,
+    "base_defense": 130,
+    "base_stamina": 130,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "eelektross": {
+    "id": 604,
+    "evolution": [
+      [
+        "tynamo"
+      ],
+      [
+        "eelektrik"
+      ],
+      [
+        "eelektross"
+      ]
+    ],
+    "types": [
+      "electric"
+    ],
+    "max_cp": 2546,
+    "base_attack": 217,
+    "base_defense": 152,
+    "base_stamina": 170,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "elgyem": {
+    "id": 605,
+    "evolution": [
+      [
+        "elgyem"
+      ],
+      [
+        "beheeyem"
+      ]
+    ],
+    "types": [
+      "psychic"
+    ],
+    "max_cp": 1220,
+    "base_attack": 148,
+    "base_defense": 100,
+    "base_stamina": 110,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "beheeyem": {
+    "id": 606,
+    "evolution": [
+      [
+        "elgyem"
+      ],
+      [
+        "beheeyem"
+      ]
+    ],
+    "types": [
+      "psychic"
+    ],
+    "max_cp": 2589,
+    "base_attack": 221,
+    "base_defense": 172,
+    "base_stamina": 150,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "litwick": {
+    "id": 607,
+    "evolution": [
+      [
+        "litwick"
+      ],
+      [
+        "lampent"
+      ],
+      [
+        "chandelure"
+      ]
+    ],
+    "types": [
+      "ghost",
+      "fire"
+    ],
+    "max_cp": 875,
+    "base_attack": 108,
+    "base_defense": 98,
+    "base_stamina": 100,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "lampent": {
+    "id": 608,
+    "evolution": [
+      [
+        "litwick"
+      ],
+      [
+        "lampent"
+      ],
+      [
+        "chandelure"
+      ]
+    ],
+    "types": [
+      "ghost",
+      "fire"
+    ],
+    "max_cp": 1522,
+    "base_attack": 169,
+    "base_defense": 115,
+    "base_stamina": 120,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "chandelure": {
+    "id": 609,
+    "evolution": [
+      [
+        "litwick"
+      ],
+      [
+        "lampent"
+      ],
+      [
+        "chandelure"
+      ]
+    ],
+    "types": [
+      "ghost",
+      "fire"
+    ],
+    "max_cp": 2913,
+    "base_attack": 271,
+    "base_defense": 182,
+    "base_stamina": 120,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "axew": {
+    "id": 610,
+    "evolution": [
+      [
+        "axew"
+      ],
+      [
+        "fraxure"
+      ],
+      [
+        "haxorus"
+      ]
+    ],
+    "types": [
+      "dragon"
+    ],
+    "max_cp": 1225,
+    "base_attack": 154,
+    "base_defense": 111,
+    "base_stamina": 92,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "fraxure": {
+    "id": 611,
+    "evolution": [
+      [
+        "axew"
+      ],
+      [
+        "fraxure"
+      ],
+      [
+        "haxorus"
+      ]
+    ],
+    "types": [
+      "dragon"
+    ],
+    "max_cp": 2091,
+    "base_attack": 212,
+    "base_defense": 133,
+    "base_stamina": 132,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "haxorus": {
+    "id": 612,
+    "evolution": [
+      [
+        "axew"
+      ],
+      [
+        "fraxure"
+      ],
+      [
+        "haxorus"
+      ]
+    ],
+    "types": [
+      "dragon"
+    ],
+    "max_cp": 3395,
+    "base_attack": 284,
+    "base_defense": 183,
+    "base_stamina": 152,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "cubchoo": {
+    "id": 613,
+    "evolution": [
+      [
+        "cubchoo"
+      ],
+      [
+        "beartic"
+      ]
+    ],
+    "types": [
+      "ice"
+    ],
+    "max_cp": 942,
+    "base_attack": 128,
+    "base_defense": 74,
+    "base_stamina": 110,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "beartic": {
+    "id": 614,
+    "evolution": [
+      [
+        "cubchoo"
+      ],
+      [
+        "beartic"
+      ]
+    ],
+    "types": [
+      "ice"
+    ],
+    "max_cp": 2865,
+    "base_attack": 233,
+    "base_defense": 152,
+    "base_stamina": 190,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "cryogonal": {
+    "id": 615,
+    "evolution": [
+      [
+        "cryogonal"
+      ]
+    ],
+    "types": [
+      "ice"
+    ],
+    "max_cp": 2829,
+    "base_attack": 190,
+    "base_defense": 264,
+    "base_stamina": 160,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "shelmet": {
+    "id": 616,
+    "evolution": [
+      [
+        "shelmet"
+      ],
+      [
+        "accelgor"
+      ]
+    ],
+    "types": [
+      "bug"
+    ],
+    "max_cp": 746,
+    "base_attack": 72,
+    "base_defense": 149,
+    "base_stamina": 100,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "accelgor": {
+    "id": 617,
+    "evolution": [
+      [
+        "shelmet"
+      ],
+      [
+        "accelgor"
+      ]
+    ],
+    "types": [
+      "bug"
+    ],
+    "max_cp": 2346,
+    "base_attack": 220,
+    "base_defense": 131,
+    "base_stamina": 160,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "stunfisk": {
+    "id": 618,
+    "evolution": [
+      [
+        "stunfisk"
+      ]
+    ],
+    "types": [
+      "ground",
+      "electric"
+    ],
+    "max_cp": 2100,
+    "base_attack": 144,
+    "base_defense": 177,
+    "base_stamina": 218,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "mienfoo": {
+    "id": 619,
+    "evolution": [
+      [
+        "mienfoo"
+      ],
+      [
+        "mienshao"
+      ]
+    ],
+    "types": [
+      "fighting"
+    ],
+    "max_cp": 1190,
+    "base_attack": 160,
+    "base_defense": 98,
+    "base_stamina": 90,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "mienshao": {
+    "id": 620,
+    "evolution": [
+      [
+        "mienfoo"
+      ],
+      [
+        "mienshao"
+      ]
+    ],
+    "types": [
+      "fighting"
+    ],
+    "max_cp": 2446,
+    "base_attack": 258,
+    "base_defense": 127,
+    "base_stamina": 130,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "druddigon": {
+    "id": 621,
+    "evolution": [
+      [
+        "druddigon"
+      ]
+    ],
+    "types": [
+      "dragon"
+    ],
+    "max_cp": 2517,
+    "base_attack": 213,
+    "base_defense": 170,
+    "base_stamina": 154,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "golett": {
+    "id": 622,
+    "evolution": [
+      [
+        "golett"
+      ],
+      [
+        "golurk"
+      ]
+    ],
+    "types": [
+      "ground",
+      "ghost"
+    ],
+    "max_cp": 1058,
+    "base_attack": 127,
+    "base_defense": 92,
+    "base_stamina": 118,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "golurk": {
+    "id": 623,
+    "evolution": [
+      [
+        "golett"
+      ],
+      [
+        "golurk"
+      ]
+    ],
+    "types": [
+      "ground",
+      "ghost"
+    ],
+    "max_cp": 2673,
+    "base_attack": 222,
+    "base_defense": 154,
+    "base_stamina": 178,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "pawniard": {
+    "id": 624,
+    "evolution": [
+      [
+        "pawniard"
+      ],
+      [
+        "bisharp"
+      ]
+    ],
+    "types": [
+      "dark",
+      "steel"
+    ],
+    "max_cp": 1297,
+    "base_attack": 154,
+    "base_defense": 129,
+    "base_stamina": 90,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "bisharp": {
+    "id": 625,
+    "evolution": [
+      [
+        "pawniard"
+      ],
+      [
+        "bisharp"
+      ]
+    ],
+    "types": [
+      "dark",
+      "steel"
+    ],
+    "max_cp": 2666,
+    "base_attack": 232,
+    "base_defense": 191,
+    "base_stamina": 130,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "bouffalant": {
+    "id": 626,
+    "evolution": [
+      [
+        "bouffalant"
+      ]
+    ],
+    "types": [
+      "normal"
+    ],
+    "max_cp": 2635,
+    "base_attack": 195,
+    "base_defense": 182,
+    "base_stamina": 190,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "rufflet": {
+    "id": 627,
+    "evolution": [
+      [
+        "rufflet"
+      ],
+      [
+        "braviary"
+      ]
+    ],
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "max_cp": 1357,
+    "base_attack": 150,
+    "base_defense": 97,
+    "base_stamina": 140,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "braviary": {
+    "id": 628,
+    "evolution": [
+      [
+        "rufflet"
+      ],
+      [
+        "braviary"
+      ]
+    ],
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "max_cp": 2923,
+    "base_attack": 232,
+    "base_defense": 152,
+    "base_stamina": 200,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "vullaby": {
+    "id": 629,
+    "evolution": [
+      [
+        "vullaby"
+      ],
+      [
+        "mandibuzz"
+      ]
+    ],
+    "types": [
+      "dark",
+      "flying"
+    ],
+    "max_cp": 1176,
+    "base_attack": 105,
+    "base_defense": 144,
+    "base_stamina": 140,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "mandibuzz": {
+    "id": 630,
+    "evolution": [
+      [
+        "vullaby"
+      ],
+      [
+        "mandibuzz"
+      ]
+    ],
+    "types": [
+      "dark",
+      "flying"
+    ],
+    "max_cp": 2068,
+    "base_attack": 129,
+    "base_defense": 210,
+    "base_stamina": 220,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "heatmor": {
+    "id": 631,
+    "evolution": [
+      [
+        "heatmor"
+      ]
+    ],
+    "types": [
+      "fire"
+    ],
+    "max_cp": 2232,
+    "base_attack": 204,
+    "base_defense": 129,
+    "base_stamina": 170,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "durant": {
+    "id": 632,
+    "evolution": [
+      [
+        "durant"
+      ]
+    ],
+    "types": [
+      "bug",
+      "steel"
+    ],
+    "max_cp": 2553,
+    "base_attack": 217,
+    "base_defense": 222,
+    "base_stamina": 116,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "deino": {
+    "id": 633,
+    "evolution": [
+      [
+        "deino"
+      ],
+      [
+        "zweilous"
+      ],
+      [
+        "hydreigon"
+      ]
+    ],
+    "types": [
+      "dark",
+      "dragon"
+    ],
+    "max_cp": 927,
+    "base_attack": 116,
+    "base_defense": 93,
+    "base_stamina": 104,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "zweilous": {
+    "id": 634,
+    "evolution": [
+      [
+        "deino"
+      ],
+      [
+        "zweilous"
+      ],
+      [
+        "hydreigon"
+      ]
+    ],
+    "types": [
+      "dark",
+      "dragon"
+    ],
+    "max_cp": 1678,
+    "base_attack": 159,
+    "base_defense": 135,
+    "base_stamina": 144,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "hydreigon": {
+    "id": 635,
+    "evolution": [
+      [
+        "deino"
+      ],
+      [
+        "zweilous"
+      ],
+      [
+        "hydreigon"
+      ]
+    ],
+    "types": [
+      "dark",
+      "dragon"
+    ],
+    "max_cp": 3401,
+    "base_attack": 256,
+    "base_defense": 188,
+    "base_stamina": 184,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "larvesta": {
+    "id": 636,
+    "evolution": [
+      [
+        "larvesta"
+      ],
+      [
+        "volcarona"
+      ]
+    ],
+    "types": [
+      "bug",
+      "fire"
+    ],
+    "max_cp": 1318,
+    "base_attack": 156,
+    "base_defense": 107,
+    "base_stamina": 110,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "volcarona": {
+    "id": 637,
+    "evolution": [
+      [
+        "larvesta"
+      ],
+      [
+        "volcarona"
+      ]
+    ],
+    "types": [
+      "bug",
+      "fire"
+    ],
+    "max_cp": 3555,
+    "base_attack": 264,
+    "base_defense": 210,
+    "base_stamina": 170,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "cobalion": {
+    "id": 638,
+    "evolution": [
+      [
+        "cobalion"
+      ]
+    ],
+    "types": [
+      "steel",
+      "fighting"
+    ],
+    "max_cp": 3009,
+    "base_attack": 192,
+    "base_defense": 260,
+    "base_stamina": 182,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "terrakion": {
+    "id": 639,
+    "evolution": [
+      [
+        "terrakion"
+      ]
+    ],
+    "types": [
+      "rock",
+      "fighting"
+    ],
+    "max_cp": 3468,
+    "base_attack": 260,
+    "base_defense": 192,
+    "base_stamina": 182,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "virizion": {
+    "id": 640,
+    "evolution": [
+      [
+        "virizion"
+      ]
+    ],
+    "types": [
+      "grass",
+      "fighting"
+    ],
+    "max_cp": 3009,
+    "base_attack": 192,
+    "base_defense": 260,
+    "base_stamina": 182,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "tornadus": {
+    "id": 641,
+    "evolution": [
+      [
+        "tornadus"
+      ]
+    ],
+    "types": [
+      "flying"
+    ],
+    "max_cp": 3004,
+    "base_attack": 238,
+    "base_defense": 194,
+    "base_stamina": 158,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "thundurus": {
+    "id": 642,
+    "evolution": [
+      [
+        "thundurus"
+      ]
+    ],
+    "types": [
+      "electric",
+      "flying"
+    ],
+    "max_cp": 3426,
+    "base_attack": 295,
+    "base_defense": 166,
+    "base_stamina": 158,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "reshiram": {
+    "id": 643,
+    "evolution": [
+      [
+        "reshiram"
+      ]
+    ],
+    "types": [
+      "dragon",
+      "fire"
+    ],
+    "max_cp": 4654,
+    "base_attack": 302,
+    "base_defense": 242,
+    "base_stamina": 200,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "zekrom": {
+    "id": 644,
+    "evolution": [
+      [
+        "zekrom"
+      ]
+    ],
+    "types": [
+      "dragon",
+      "electric"
+    ],
+    "max_cp": 4654,
+    "base_attack": 302,
+    "base_defense": 242,
+    "base_stamina": 200,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "landorus": {
+    "id": 645,
+    "evolution": [
+      [
+        "landorus"
+      ]
+    ],
+    "types": [
+      "ground",
+      "flying"
+    ],
+    "max_cp": 3721,
+    "base_attack": 289,
+    "base_defense": 184,
+    "base_stamina": 178,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "kyurem": {
+    "id": 646,
+    "evolution": [
+      [
+        "kyurem"
+      ]
+    ],
+    "types": [
+      "dragon",
+      "ice"
+    ],
+    "max_cp": 5380,
+    "base_attack": 341,
+    "base_defense": 206,
+    "base_stamina": 250,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "keldeo": {
+    "id": 647,
+    "evolution": [
+      [
+        "keldeo"
+      ]
+    ],
+    "types": [
+      "water",
+      "fighting"
+    ],
+    "max_cp": 3468,
+    "base_attack": 260,
+    "base_defense": 192,
+    "base_stamina": 182,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "meloetta": {
+    "id": 648,
+    "evolution": [
+      [
+        "meloetta"
+      ]
+    ],
+    "types": [
+      "normal",
+      "fighting"
+    ],
+    "max_cp": 3778,
+    "base_attack": 269,
+    "base_defense": 196,
+    "base_stamina": 200,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "genesect": {
+    "id": 649,
+    "evolution": [
+      [
+        "genesect"
+      ]
+    ],
+    "types": [
+      "bug",
+      "steel"
+    ],
+    "max_cp": 3056,
+    "base_attack": 252,
+    "base_defense": 199,
+    "base_stamina": 142,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "chespin": {
+    "id": 650,
+    "evolution": [
+      [
+        "chespin"
+      ],
+      [
+        "quilladin"
+      ],
+      [
+        "chesnaught"
+      ]
+    ],
+    "types": [
+      "grass"
+    ],
+    "max_cp": 1007,
+    "base_attack": 110,
+    "base_defense": 116,
+    "base_stamina": 112,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "quilladin": {
+    "id": 651,
+    "evolution": [
+      [
+        "chespin"
+      ],
+      [
+        "quilladin"
+      ],
+      [
+        "chesnaught"
+      ]
+    ],
+    "types": [
+      "grass"
+    ],
+    "max_cp": 1618,
+    "base_attack": 146,
+    "base_defense": 174,
+    "base_stamina": 122,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "chesnaught": {
+    "id": 652,
+    "evolution": [
+      [
+        "chespin"
+      ],
+      [
+        "quilladin"
+      ],
+      [
+        "chesnaught"
+      ]
+    ],
+    "types": [
+      "grass",
+      "fighting"
+    ],
+    "max_cp": 2900,
+    "base_attack": 201,
+    "base_defense": 227,
+    "base_stamina": 176,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "fennekin": {
+    "id": 653,
+    "evolution": [
+      [
+        "fennekin"
+      ],
+      [
+        "braixen"
+      ],
+      [
+        "delphox"
+      ]
+    ],
+    "types": [
+      "fire"
+    ],
+    "max_cp": 898,
+    "base_attack": 116,
+    "base_defense": 112,
+    "base_stamina": 80,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "braixen": {
+    "id": 654,
+    "evolution": [
+      [
+        "fennekin"
+      ],
+      [
+        "braixen"
+      ],
+      [
+        "delphox"
+      ]
+    ],
+    "types": [
+      "fire"
+    ],
+    "max_cp": 1646,
+    "base_attack": 171,
+    "base_defense": 136,
+    "base_stamina": 118,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "delphox": {
+    "id": 655,
+    "evolution": [
+      [
+        "fennekin"
+      ],
+      [
+        "braixen"
+      ],
+      [
+        "delphox"
+      ]
+    ],
+    "types": [
+      "fire",
+      "psychic"
+    ],
+    "max_cp": 2908,
+    "base_attack": 230,
+    "base_defense": 204,
+    "base_stamina": 150,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "froakie": {
+    "id": 656,
+    "evolution": [
+      [
+        "froakie"
+      ],
+      [
+        "frogadier"
+      ],
+      [
+        "greninja"
+      ]
+    ],
+    "types": [
+      "water"
+    ],
+    "max_cp": 846,
+    "base_attack": 122,
+    "base_defense": 86,
+    "base_stamina": 82,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "frogadier": {
+    "id": 657,
+    "evolution": [
+      [
+        "froakie"
+      ],
+      [
+        "frogadier"
+      ],
+      [
+        "greninja"
+      ]
+    ],
+    "types": [
+      "water"
+    ],
+    "max_cp": 1450,
+    "base_attack": 168,
+    "base_defense": 116,
+    "base_stamina": 108,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "greninja": {
+    "id": 658,
+    "evolution": [
+      [
+        "froakie"
+      ],
+      [
+        "frogadier"
+      ],
+      [
+        "greninja"
+      ]
+    ],
+    "types": [
+      "water",
+      "dark"
+    ],
+    "max_cp": 2436,
+    "base_attack": 223,
+    "base_defense": 154,
+    "base_stamina": 144,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "bunnelby": {
+    "id": 659,
+    "evolution": [
+      [
+        "bunnelby"
+      ],
+      [
+        "diggersby"
+      ]
+    ],
+    "types": [
+      "normal"
+    ],
+    "max_cp": 463,
+    "base_attack": 68,
+    "base_defense": 73,
+    "base_stamina": 76,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "diggersby": {
+    "id": 660,
+    "evolution": [
+      [
+        "bunnelby"
+      ],
+      [
+        "diggersby"
+      ]
+    ],
+    "types": [
+      "normal",
+      "ground"
+    ],
+    "max_cp": 1406,
+    "base_attack": 112,
+    "base_defense": 155,
+    "base_stamina": 170,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "fletchling": {
+    "id": 661,
+    "evolution": [
+      [
+        "fletchling"
+      ],
+      [
+        "fletchinder"
+      ],
+      [
+        "talonflame"
+      ]
+    ],
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "max_cp": 696,
+    "base_attack": 95,
+    "base_defense": 83,
+    "base_stamina": 90,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "fletchinder": {
+    "id": 662,
+    "evolution": [
+      [
+        "fletchling"
+      ],
+      [
+        "fletchinder"
+      ],
+      [
+        "talonflame"
+      ]
+    ],
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "max_cp": 1322,
+    "base_attack": 145,
+    "base_defense": 111,
+    "base_stamina": 124,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "talonflame": {
+    "id": 663,
+    "evolution": [
+      [
+        "fletchling"
+      ],
+      [
+        "fletchinder"
+      ],
+      [
+        "talonflame"
+      ]
+    ],
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "max_cp": 2039,
+    "base_attack": 176,
+    "base_defense": 156,
+    "base_stamina": 156,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "scatterbug": {
+    "id": 664,
+    "evolution": [
+      [
+        "scatterbug"
+      ],
+      [
+        "spewpa"
+      ],
+      [
+        "vivillon"
+      ]
+    ],
+    "types": [
+      "bug"
+    ],
+    "max_cp": 428,
+    "base_attack": 63,
+    "base_defense": 70,
+    "base_stamina": 76,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "spewpa": {
+    "id": 665,
+    "evolution": [
+      [
+        "scatterbug"
+      ],
+      [
+        "spewpa"
+      ],
+      [
+        "vivillon"
+      ]
+    ],
+    "types": [
+      "bug"
+    ],
+    "max_cp": 437,
+    "base_attack": 48,
+    "base_defense": 103,
+    "base_stamina": 90,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "vivillon": {
+    "id": 666,
+    "evolution": [
+      [
+        "scatterbug"
+      ],
+      [
+        "spewpa"
+      ],
+      [
+        "vivillon"
+      ]
+    ],
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "max_cp": 1714,
+    "base_attack": 176,
+    "base_defense": 103,
+    "base_stamina": 160,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "litleo": {
+    "id": 667,
+    "evolution": [
+      [
+        "litleo"
+      ],
+      [
+        "pyroar"
+      ]
+    ],
+    "types": [
+      "fire",
+      "normal"
+    ],
+    "max_cp": 1287,
+    "base_attack": 139,
+    "base_defense": 114,
+    "base_stamina": 124,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "pyroar": {
+    "id": 668,
+    "evolution": [
+      [
+        "litleo"
+      ],
+      [
+        "pyroar"
+      ]
+    ],
+    "types": [
+      "fire",
+      "normal"
+    ],
+    "max_cp": 2604,
+    "base_attack": 221,
+    "base_defense": 152,
+    "base_stamina": 172,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "flabebe": {
+    "id": 669,
+    "evolution": [
+      [
+        "flabebe"
+      ],
+      [
+        "floette"
+      ],
+      [
+        "florges"
+      ]
+    ],
+    "types": [
+      "fairy"
+    ],
+    "max_cp": 964,
+    "base_attack": 108,
+    "base_defense": 138,
+    "base_stamina": 88,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "floette": {
+    "id": 670,
+    "evolution": [
+      [
+        "flabebe"
+      ],
+      [
+        "floette"
+      ],
+      [
+        "florges"
+      ]
+    ],
+    "types": [
+      "fairy"
+    ],
+    "max_cp": 1441,
+    "base_attack": 136,
+    "base_defense": 175,
+    "base_stamina": 108,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "florges": {
+    "id": 671,
+    "evolution": [
+      [
+        "flabebe"
+      ],
+      [
+        "floette"
+      ],
+      [
+        "florges"
+      ]
+    ],
+    "types": [
+      "fairy"
+    ],
+    "max_cp": 3221,
+    "base_attack": 212,
+    "base_defense": 287,
+    "base_stamina": 156,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "skiddo": {
+    "id": 672,
+    "evolution": [
+      [
+        "skiddo"
+      ],
+      [
+        "gogoat"
+      ]
+    ],
+    "types": [
+      "grass"
+    ],
+    "max_cp": 1154,
+    "base_attack": 123,
+    "base_defense": 107,
+    "base_stamina": 132,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "gogoat": {
+    "id": 673,
+    "evolution": [
+      [
+        "skiddo"
+      ],
+      [
+        "gogoat"
+      ]
+    ],
+    "types": [
+      "grass"
+    ],
+    "max_cp": 2775,
+    "base_attack": 196,
+    "base_defense": 155,
+    "base_stamina": 246,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "pancham": {
+    "id": 674,
+    "evolution": [
+      [
+        "pancham"
+      ],
+      [
+        "pangoro"
+      ]
+    ],
+    "types": [
+      "fighting"
+    ],
+    "max_cp": 1380,
+    "base_attack": 145,
+    "base_defense": 113,
+    "base_stamina": 134,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "pangoro": {
+    "id": 675,
+    "evolution": [
+      [
+        "pancham"
+      ],
+      [
+        "pangoro"
+      ]
+    ],
+    "types": [
+      "fighting",
+      "dark"
+    ],
+    "max_cp": 2759,
+    "base_attack": 226,
+    "base_defense": 149,
+    "base_stamina": 190,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "furfrou": {
+    "id": 676,
+    "evolution": [
+      [
+        "furfrou"
+      ]
+    ],
+    "types": [
+      "normal"
+    ],
+    "max_cp": 2015,
+    "base_attack": 164,
+    "base_defense": 182,
+    "base_stamina": 150,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "espurr": {
+    "id": 677,
+    "evolution": [
+      [
+        "espurr"
+      ],
+      [
+        "meowstic"
+      ]
+    ],
+    "types": [
+      "psychic"
+    ],
+    "max_cp": 1142,
+    "base_attack": 120,
+    "base_defense": 117,
+    "base_stamina": 124,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "meowstic": {
+    "id": 678,
+    "evolution": [
+      [
+        "espurr"
+      ],
+      [
+        "meowstic"
+      ]
+    ],
+    "types": [
+      "psychic"
+    ],
+    "max_cp": 1963,
+    "base_attack": 166,
+    "base_defense": 170,
+    "base_stamina": 148,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "honedge": {
+    "id": 679,
+    "evolution": [
+      [
+        "honedge"
+      ],
+      [
+        "doublade"
+      ],
+      [
+        "aegislash"
+      ]
+    ],
+    "types": [
+      "steel",
+      "ghost"
+    ],
+    "max_cp": 1295,
+    "base_attack": 135,
+    "base_defense": 167,
+    "base_stamina": 90,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "doublade": {
+    "id": 680,
+    "evolution": [
+      [
+        "honedge"
+      ],
+      [
+        "doublade"
+      ],
+      [
+        "aegislash"
+      ]
+    ],
+    "types": [
+      "steel",
+      "ghost"
+    ],
+    "max_cp": 2393,
+    "base_attack": 188,
+    "base_defense": 253,
+    "base_stamina": 118,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "aegislash": {
+    "id": 681,
+    "evolution": [
+      [
+        "honedge"
+      ],
+      [
+        "doublade"
+      ],
+      [
+        "aegislash"
+      ]
+    ],
+    "types": [
+      "steel",
+      "ghost"
+    ],
+    "max_cp": 2350,
+    "base_attack": 291,
+    "base_defense": 97,
+    "base_stamina": 120,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "spritzee": {
+    "id": 682,
+    "evolution": [
+      [
+        "spritzee"
+      ],
+      [
+        "aromatisse"
+      ]
+    ],
+    "types": [
+      "fairy"
+    ],
+    "max_cp": 1168,
+    "base_attack": 110,
+    "base_defense": 116,
+    "base_stamina": 156,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "aromatisse": {
+    "id": 683,
+    "evolution": [
+      [
+        "spritzee"
+      ],
+      [
+        "aromatisse"
+      ]
+    ],
+    "types": [
+      "fairy"
+    ],
+    "max_cp": 2275,
+    "base_attack": 173,
+    "base_defense": 158,
+    "base_stamina": 202,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "swirlix": {
+    "id": 684,
+    "evolution": [
+      [
+        "swirlix"
+      ],
+      [
+        "slurpuff"
+      ]
+    ],
+    "types": [
+      "fairy"
+    ],
+    "max_cp": 1072,
+    "base_attack": 109,
+    "base_defense": 123,
+    "base_stamina": 124,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "slurpuff": {
+    "id": 685,
+    "evolution": [
+      [
+        "swirlix"
+      ],
+      [
+        "slurpuff"
+      ]
+    ],
+    "types": [
+      "fairy"
+    ],
+    "max_cp": 2068,
+    "base_attack": 168,
+    "base_defense": 168,
+    "base_stamina": 164,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "inkay": {
+    "id": 686,
+    "evolution": [
+      [
+        "inkay"
+      ],
+      [
+        "malamar"
+      ]
+    ],
+    "types": [
+      "dark",
+      "psychic"
+    ],
+    "max_cp": 825,
+    "base_attack": 98,
+    "base_defense": 98,
+    "base_stamina": 106,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "malamar": {
+    "id": 687,
+    "evolution": [
+      [
+        "inkay"
+      ],
+      [
+        "malamar"
+      ]
+    ],
+    "types": [
+      "dark",
+      "psychic"
+    ],
+    "max_cp": 2242,
+    "base_attack": 177,
+    "base_defense": 172,
+    "base_stamina": 172,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "binacle": {
+    "id": 688,
+    "evolution": [
+      [
+        "binacle"
+      ],
+      [
+        "barbaracle"
+      ]
+    ],
+    "types": [
+      "rock",
+      "water"
+    ],
+    "max_cp": 813,
+    "base_attack": 96,
+    "base_defense": 124,
+    "base_stamina": 84,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "barbaracle": {
+    "id": 689,
+    "evolution": [
+      [
+        "binacle"
+      ],
+      [
+        "barbaracle"
+      ]
+    ],
+    "types": [
+      "rock",
+      "water"
+    ],
+    "max_cp": 2523,
+    "base_attack": 194,
+    "base_defense": 220,
+    "base_stamina": 144,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "skrelp": {
+    "id": 690,
+    "evolution": [
+      [
+        "skrelp"
+      ],
+      [
+        "dragalge"
+      ]
+    ],
+    "types": [
+      "poison",
+      "water"
+    ],
+    "max_cp": 924,
+    "base_attack": 109,
+    "base_defense": 109,
+    "base_stamina": 100,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "dragalge": {
+    "id": 691,
+    "evolution": [
+      [
+        "skrelp"
+      ],
+      [
+        "dragalge"
+      ]
+    ],
+    "types": [
+      "poison",
+      "dragon"
+    ],
+    "max_cp": 2227,
+    "base_attack": 177,
+    "base_defense": 223,
+    "base_stamina": 130,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "clauncher": {
+    "id": 692,
+    "evolution": [
+      [
+        "clauncher"
+      ],
+      [
+        "clawitzer"
+      ]
+    ],
+    "types": [
+      "water"
+    ],
+    "max_cp": 950,
+    "base_attack": 108,
+    "base_defense": 118,
+    "base_stamina": 100,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "clawitzer": {
+    "id": 693,
+    "evolution": [
+      [
+        "clauncher"
+      ],
+      [
+        "clawitzer"
+      ]
+    ],
+    "types": [
+      "water"
+    ],
+    "max_cp": 2560,
+    "base_attack": 223,
+    "base_defense": 174,
+    "base_stamina": 142,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "helioptile": {
+    "id": 694,
+    "evolution": [
+      [
+        "helioptile"
+      ],
+      [
+        "heliolisk"
+      ]
+    ],
+    "types": [
+      "electric",
+      "normal"
+    ],
+    "max_cp": 815,
+    "base_attack": 115,
+    "base_defense": 83,
+    "base_stamina": 88,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "heliolisk": {
+    "id": 695,
+    "evolution": [
+      [
+        "helioptile"
+      ],
+      [
+        "heliolisk"
+      ]
+    ],
+    "types": [
+      "electric",
+      "normal"
+    ],
+    "max_cp": 2467,
+    "base_attack": 219,
+    "base_defense": 190,
+    "base_stamina": 124,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "tyrunt": {
+    "id": 696,
+    "evolution": [
+      [
+        "tyrunt"
+      ],
+      [
+        "tyrantrum"
+      ]
+    ],
+    "types": [
+      "rock",
+      "dragon"
+    ],
+    "max_cp": 1529,
+    "base_attack": 158,
+    "base_defense": 138,
+    "base_stamina": 116,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "tyrantrum": {
+    "id": 697,
+    "evolution": [
+      [
+        "tyrunt"
+      ],
+      [
+        "tyrantrum"
+      ]
+    ],
+    "types": [
+      "rock",
+      "dragon"
+    ],
+    "max_cp": 3106,
+    "base_attack": 227,
+    "base_defense": 221,
+    "base_stamina": 164,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "amaura": {
+    "id": 698,
+    "evolution": [
+      [
+        "amaura"
+      ],
+      [
+        "aurorus"
+      ]
+    ],
+    "types": [
+      "rock",
+      "ice"
+    ],
+    "max_cp": 1291,
+    "base_attack": 124,
+    "base_defense": 116,
+    "base_stamina": 154,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "aurorus": {
+    "id": 699,
+    "evolution": [
+      [
+        "amaura"
+      ],
+      [
+        "aurorus"
+      ]
+    ],
+    "types": [
+      "rock",
+      "ice"
+    ],
+    "max_cp": 2780,
+    "base_attack": 186,
+    "base_defense": 173,
+    "base_stamina": 246,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "sylveon": {
+    "id": 700,
+    "evolution": [
+      [
+        "eevee"
+      ],
+      [
+        "sylveon"
+      ]
+    ],
+    "types": [
+      "fairy"
+    ],
+    "max_cp": 3094,
+    "base_attack": 203,
+    "base_defense": 237,
+    "base_stamina": 190,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "hawlucha": {
+    "id": 701,
+    "evolution": [
+      [
+        "hawlucha"
+      ]
+    ],
+    "types": [
+      "fighting",
+      "flying"
+    ],
+    "max_cp": 2294,
+    "base_attack": 195,
+    "base_defense": 164,
+    "base_stamina": 156,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "dedenne": {
+    "id": 702,
+    "evolution": [
+      [
+        "dedenne"
+      ]
+    ],
+    "types": [
+      "electric",
+      "fairy"
+    ],
+    "max_cp": 1693,
+    "base_attack": 164,
+    "base_defense": 139,
+    "base_stamina": 134,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "carbink": {
+    "id": 703,
+    "evolution": [
+      [
+        "carbink"
+      ]
+    ],
+    "types": [
+      "rock",
+      "fairy"
+    ],
+    "max_cp": 1276,
+    "base_attack": 95,
+    "base_defense": 285,
+    "base_stamina": 100,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "goomy": {
+    "id": 704,
+    "evolution": [
+      [
+        "goomy"
+      ],
+      [
+        "sliggoo"
+      ],
+      [
+        "goodra"
+      ]
+    ],
+    "types": [
+      "dragon"
+    ],
+    "max_cp": 893,
+    "base_attack": 101,
+    "base_defense": 130,
+    "base_stamina": 90,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "sliggoo": {
+    "id": 705,
+    "evolution": [
+      [
+        "goomy"
+      ],
+      [
+        "sliggoo"
+      ],
+      [
+        "goodra"
+      ]
+    ],
+    "types": [
+      "dragon"
+    ],
+    "max_cp": 1980,
+    "base_attack": 159,
+    "base_defense": 205,
+    "base_stamina": 136,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "goodra": {
+    "id": 706,
+    "evolution": [
+      [
+        "goomy"
+      ],
+      [
+        "sliggoo"
+      ],
+      [
+        "goodra"
+      ]
+    ],
+    "types": [
+      "dragon"
+    ],
+    "max_cp": 3538,
+    "base_attack": 220,
+    "base_defense": 283,
+    "base_stamina": 180,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "klefki": {
+    "id": 707,
+    "evolution": [
+      [
+        "klefki"
+      ]
+    ],
+    "types": [
+      "steel",
+      "fairy"
+    ],
+    "max_cp": 1771,
+    "base_attack": 162,
+    "base_defense": 181,
+    "base_stamina": 116,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "phantump": {
+    "id": 708,
+    "evolution": [
+      [
+        "phantump"
+      ],
+      [
+        "trevenant"
+      ]
+    ],
+    "types": [
+      "grass",
+      "ghost"
+    ],
+    "max_cp": 974,
+    "base_attack": 125,
+    "base_defense": 108,
+    "base_stamina": 86,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "trevenant": {
+    "id": 709,
+    "evolution": [
+      [
+        "phantump"
+      ],
+      [
+        "trevenant"
+      ]
+    ],
+    "types": [
+      "grass",
+      "ghost"
+    ],
+    "max_cp": 2406,
+    "base_attack": 201,
+    "base_defense": 157,
+    "base_stamina": 170,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "pumpkaboo": {
+    "id": 710,
+    "evolution": [
+      [
+        "pumpkaboo"
+      ],
+      [
+        "gourgeist"
+      ]
+    ],
+    "types": [
+      "grass",
+      "ghost"
+    ],
+    "max_cp": 1141,
+    "base_attack": 118,
+    "base_defense": 127,
+    "base_stamina": 118,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "gourgeist": {
+    "id": 711,
+    "evolution": [
+      [
+        "pumpkaboo"
+      ],
+      [
+        "gourgeist"
+      ]
+    ],
+    "types": [
+      "grass",
+      "ghost"
+    ],
+    "max_cp": 2576,
+    "base_attack": 182,
+    "base_defense": 222,
+    "base_stamina": 170,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "bergmite": {
+    "id": 712,
+    "evolution": [
+      [
+        "bergmite"
+      ],
+      [
+        "avalugg"
+      ]
+    ],
+    "types": [
+      "ice"
+    ],
+    "max_cp": 1175,
+    "base_attack": 117,
+    "base_defense": 145,
+    "base_stamina": 112,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "avalugg": {
+    "id": 713,
+    "evolution": [
+      [
+        "bergmite"
+      ],
+      [
+        "avalugg"
+      ]
+    ],
+    "types": [
+      "ice"
+    ],
+    "max_cp": 3364,
+    "base_attack": 196,
+    "base_defense": 303,
+    "base_stamina": 190,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "noibat": {
+    "id": 714,
+    "evolution": [
+      [
+        "noibat"
+      ],
+      [
+        "noivern"
+      ]
+    ],
+    "types": [
+      "flying",
+      "dragon"
+    ],
+    "max_cp": 569,
+    "base_attack": 83,
+    "base_defense": 76,
+    "base_stamina": 80,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "noivern": {
+    "id": 715,
+    "evolution": [
+      [
+        "noibat"
+      ],
+      [
+        "noivern"
+      ]
+    ],
+    "types": [
+      "flying",
+      "dragon"
+    ],
+    "max_cp": 2576,
+    "base_attack": 205,
+    "base_defense": 175,
+    "base_stamina": 170,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "xerneas": {
+    "id": 716,
+    "evolution": [
+      [
+        "xerneas"
+      ]
+    ],
+    "types": [
+      "fairy"
+    ],
+    "max_cp": 4379,
+    "base_attack": 275,
+    "base_defense": 204,
+    "base_stamina": 252,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "yveltal": {
+    "id": 717,
+    "evolution": [
+      [
+        "yveltal"
+      ]
+    ],
+    "types": [
+      "dark",
+      "flying"
+    ],
+    "max_cp": 4379,
+    "base_attack": 275,
+    "base_defense": 204,
+    "base_stamina": 252,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "zygarde": {
+    "id": 718,
+    "evolution": [
+      [
+        "zygarde"
+      ]
+    ],
+    "types": [
+      "dragon",
+      "ground"
+    ],
+    "max_cp": 3336,
+    "base_attack": 203,
+    "base_defense": 245,
+    "base_stamina": 216,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "diancie": {
+    "id": 719,
+    "evolution": [
+      [
+        "diancie"
+      ]
+    ],
+    "types": [
+      "rock",
+      "fairy"
+    ],
+    "max_cp": 2378,
+    "base_attack": 190,
+    "base_defense": 285,
+    "base_stamina": 100,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "hoopa": {
+    "id": 720,
+    "evolution": [
+      [
+        "hoopa"
+      ]
+    ],
+    "types": [
+      "psychic",
+      "dark"
+    ],
+    "max_cp": 3992,
+    "base_attack": 287,
+    "base_defense": 241,
+    "base_stamina": 160,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "volcanion": {
+    "id": 721,
+    "evolution": [
+      [
+        "volcanion"
+      ]
+    ],
+    "types": [
+      "fire",
+      "water"
+    ],
+    "max_cp": 3460,
+    "base_attack": 252,
+    "base_defense": 231,
+    "base_stamina": 160,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "rowlet": {
+    "id": 722,
+    "evolution": [
+      [
+        "rowlet"
+      ],
+      [
+        "dartrix"
+      ],
+      [
+        "decidueye"
+      ]
+    ],
+    "types": [
+      "grass",
+      "flying"
+    ],
+    "max_cp": 971,
+    "base_attack": 102,
+    "base_defense": 102,
+    "base_stamina": 136,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "dartrix": {
+    "id": 723,
+    "evolution": [
+      [
+        "rowlet"
+      ],
+      [
+        "dartrix"
+      ],
+      [
+        "decidueye"
+      ]
+    ],
+    "types": [
+      "grass",
+      "flying"
+    ],
+    "max_cp": 1606,
+    "base_attack": 142,
+    "base_defense": 142,
+    "base_stamina": 156,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "decidueye": {
+    "id": 724,
+    "evolution": [
+      [
+        "rowlet"
+      ],
+      [
+        "dartrix"
+      ],
+      [
+        "decidueye"
+      ]
+    ],
+    "types": [
+      "grass",
+      "ghost"
+    ],
+    "max_cp": 2643,
+    "base_attack": 210,
+    "base_defense": 192,
+    "base_stamina": 156,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "litten": {
+    "id": 725,
+    "evolution": [
+      [
+        "litten"
+      ],
+      [
+        "torracat"
+      ],
+      [
+        "incineroar"
+      ]
+    ],
+    "types": [
+      "fire"
+    ],
+    "max_cp": 887,
+    "base_attack": 128,
+    "base_defense": 79,
+    "base_stamina": 90,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "torracat": {
+    "id": 726,
+    "evolution": [
+      [
+        "litten"
+      ],
+      [
+        "torracat"
+      ],
+      [
+        "incineroar"
+      ]
+    ],
+    "types": [
+      "fire"
+    ],
+    "max_cp": 1544,
+    "base_attack": 174,
+    "base_defense": 103,
+    "base_stamina": 130,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "incineroar": {
+    "id": 727,
+    "evolution": [
+      [
+        "litten"
+      ],
+      [
+        "torracat"
+      ],
+      [
+        "incineroar"
+      ]
+    ],
+    "types": [
+      "fire",
+      "dark"
+    ],
+    "max_cp": 2822,
+    "base_attack": 214,
+    "base_defense": 175,
+    "base_stamina": 190,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "popplio": {
+    "id": 728,
+    "evolution": [
+      [
+        "popplio"
+      ],
+      [
+        "brionne"
+      ],
+      [
+        "primarina"
+      ]
+    ],
+    "types": [
+      "water"
+    ],
+    "max_cp": 986,
+    "base_attack": 120,
+    "base_defense": 104,
+    "base_stamina": 100,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "brionne": {
+    "id": 729,
+    "evolution": [
+      [
+        "popplio"
+      ],
+      [
+        "brionne"
+      ],
+      [
+        "primarina"
+      ]
+    ],
+    "types": [
+      "water"
+    ],
+    "max_cp": 1711,
+    "base_attack": 168,
+    "base_defense": 151,
+    "base_stamina": 120,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "primarina": {
+    "id": 730,
+    "evolution": [
+      [
+        "popplio"
+      ],
+      [
+        "brionne"
+      ],
+      [
+        "primarina"
+      ]
+    ],
+    "types": [
+      "water",
+      "fairy"
+    ],
+    "max_cp": 3095,
+    "base_attack": 232,
+    "base_defense": 215,
+    "base_stamina": 160,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "pikipek": {
+    "id": 731,
+    "evolution": [
+      [
+        "pikipek"
+      ],
+      [
+        "trumbeak"
+      ],
+      [
+        "toucannon"
+      ]
+    ],
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "max_cp": 747,
+    "base_attack": 136,
+    "base_defense": 59,
+    "base_stamina": 70,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "trumbeak": {
+    "id": 732,
+    "evolution": [
+      [
+        "pikipek"
+      ],
+      [
+        "trumbeak"
+      ],
+      [
+        "toucannon"
+      ]
+    ],
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "max_cp": 1302,
+    "base_attack": 159,
+    "base_defense": 100,
+    "base_stamina": 110,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "toucannon": {
+    "id": 733,
+    "evolution": [
+      [
+        "pikipek"
+      ],
+      [
+        "trumbeak"
+      ],
+      [
+        "toucannon"
+      ]
+    ],
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "max_cp": 2484,
+    "base_attack": 222,
+    "base_defense": 146,
+    "base_stamina": 160,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "yungoos": {
+    "id": 734,
+    "evolution": [
+      [
+        "yungoos"
+      ],
+      [
+        "gumshoos"
+      ]
+    ],
+    "types": [
+      "normal"
+    ],
+    "max_cp": 759,
+    "base_attack": 122,
+    "base_defense": 56,
+    "base_stamina": 96,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "gumshoos": {
+    "id": 735,
+    "evolution": [
+      [
+        "yungoos"
+      ],
+      [
+        "gumshoos"
+      ]
+    ],
+    "types": [
+      "normal"
+    ],
+    "max_cp": 2041,
+    "base_attack": 194,
+    "base_defense": 113,
+    "base_stamina": 176,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "grubbin": {
+    "id": 736,
+    "evolution": [
+      [
+        "grubbin"
+      ],
+      [
+        "charjabug"
+      ],
+      [
+        "vikavolt"
+      ]
+    ],
+    "types": [
+      "bug"
+    ],
+    "max_cp": 847,
+    "base_attack": 115,
+    "base_defense": 85,
+    "base_stamina": 94,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "charjabug": {
+    "id": 737,
+    "evolution": [
+      [
+        "grubbin"
+      ],
+      [
+        "charjabug"
+      ],
+      [
+        "vikavolt"
+      ]
+    ],
+    "types": [
+      "bug",
+      "electric"
+    ],
+    "max_cp": 1547,
+    "base_attack": 145,
+    "base_defense": 171,
+    "base_stamina": 114,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "vikavolt": {
+    "id": 738,
+    "evolution": [
+      [
+        "grubbin"
+      ],
+      [
+        "charjabug"
+      ],
+      [
+        "vikavolt"
+      ]
+    ],
+    "types": [
+      "bug",
+      "electric"
+    ],
+    "max_cp": 2930,
+    "base_attack": 254,
+    "base_defense": 165,
+    "base_stamina": 154,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "crabrawler": {
+    "id": 739,
+    "evolution": [
+      [
+        "crabrawler"
+      ],
+      [
+        "crabominable"
+      ]
+    ],
+    "types": [
+      "fighting"
+    ],
+    "max_cp": 1198,
+    "base_attack": 150,
+    "base_defense": 109,
+    "base_stamina": 94,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "crabominable": {
+    "id": 740,
+    "evolution": [
+      [
+        "crabrawler"
+      ],
+      [
+        "crabominable"
+      ]
+    ],
+    "types": [
+      "fighting",
+      "ice"
+    ],
+    "max_cp": 2783,
+    "base_attack": 231,
+    "base_defense": 142,
+    "base_stamina": 194,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "oricorio": {
+    "id": 741,
+    "evolution": [
+      [
+        "oricorio"
+      ]
+    ],
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "max_cp": 2141,
+    "base_attack": 196,
+    "base_defense": 145,
+    "base_stamina": 150,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "cutiefly": {
+    "id": 742,
+    "evolution": [
+      [
+        "cutiefly"
+      ],
+      [
+        "ribombee"
+      ]
+    ],
+    "types": [
+      "bug",
+      "fairy"
+    ],
+    "max_cp": 745,
+    "base_attack": 110,
+    "base_defense": 81,
+    "base_stamina": 80,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "ribombee": {
+    "id": 743,
+    "evolution": [
+      [
+        "cutiefly"
+      ],
+      [
+        "ribombee"
+      ]
+    ],
+    "types": [
+      "bug",
+      "fairy"
+    ],
+    "max_cp": 1997,
+    "base_attack": 198,
+    "base_defense": 152,
+    "base_stamina": 120,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "rockruff": {
+    "id": 744,
+    "evolution": [
+      [
+        "rockruff"
+      ],
+      [
+        "lycanroc"
+      ]
+    ],
+    "types": [
+      "rock"
+    ],
+    "max_cp": 814,
+    "base_attack": 117,
+    "base_defense": 78,
+    "base_stamina": 90,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "lycanroc": {
+    "id": 745,
+    "evolution": [
+      [
+        "rockruff"
+      ],
+      [
+        "lycanroc"
+      ]
+    ],
+    "types": [
+      "rock"
+    ],
+    "max_cp": 2457,
+    "base_attack": 231,
+    "base_defense": 140,
+    "base_stamina": 150,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "wishiwashi": {
+    "id": 746,
+    "evolution": [
+      [
+        "wishiwashi"
+      ]
+    ],
+    "types": [
+      "water"
+    ],
+    "max_cp": 304,
+    "base_attack": 46,
+    "base_defense": 46,
+    "base_stamina": 90,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "mareanie": {
+    "id": 747,
+    "evolution": [
+      [
+        "mareanie"
+      ],
+      [
+        "toxapex"
+      ]
+    ],
+    "types": [
+      "poison",
+      "water"
+    ],
+    "max_cp": 862,
+    "base_attack": 98,
+    "base_defense": 115,
+    "base_stamina": 100,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "toxapex": {
+    "id": 748,
+    "evolution": [
+      [
+        "mareanie"
+      ],
+      [
+        "toxapex"
+      ]
+    ],
+    "types": [
+      "poison",
+      "water"
+    ],
+    "max_cp": 1478,
+    "base_attack": 114,
+    "base_defense": 278,
+    "base_stamina": 100,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "mudbray": {
+    "id": 749,
+    "evolution": [
+      [
+        "mudbray"
+      ],
+      [
+        "mudsdale"
+      ]
+    ],
+    "types": [
+      "ground"
+    ],
+    "max_cp": 1766,
+    "base_attack": 175,
+    "base_defense": 128,
+    "base_stamina": 140,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "mudsdale": {
+    "id": 750,
+    "evolution": [
+      [
+        "mudbray"
+      ],
+      [
+        "mudsdale"
+      ]
+    ],
+    "types": [
+      "ground"
+    ],
+    "max_cp": 2928,
+    "base_attack": 214,
+    "base_defense": 180,
+    "base_stamina": 200,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "dewpider": {
+    "id": 751,
+    "evolution": [
+      [
+        "dewpider"
+      ],
+      [
+        "araquanid"
+      ]
+    ],
+    "types": [
+      "water",
+      "bug"
+    ],
+    "max_cp": 615,
+    "base_attack": 72,
+    "base_defense": 126,
+    "base_stamina": 76,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "araquanid": {
+    "id": 752,
+    "evolution": [
+      [
+        "dewpider"
+      ],
+      [
+        "araquanid"
+      ]
+    ],
+    "types": [
+      "water",
+      "bug"
+    ],
+    "max_cp": 1717,
+    "base_attack": 126,
+    "base_defense": 237,
+    "base_stamina": 136,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "fomantis": {
+    "id": 753,
+    "evolution": [
+      [
+        "fomantis"
+      ],
+      [
+        "lurantis"
+      ]
+    ],
+    "types": [
+      "grass"
+    ],
+    "max_cp": 622,
+    "base_attack": 100,
+    "base_defense": 64,
+    "base_stamina": 80,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "lurantis": {
+    "id": 754,
+    "evolution": [
+      [
+        "fomantis"
+      ],
+      [
+        "lurantis"
+      ]
+    ],
+    "types": [
+      "grass"
+    ],
+    "max_cp": 2183,
+    "base_attack": 192,
+    "base_defense": 169,
+    "base_stamina": 140,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "morelull": {
+    "id": 755,
+    "evolution": [
+      [
+        "morelull"
+      ],
+      [
+        "shiinotic"
+      ]
+    ],
+    "types": [
+      "grass",
+      "fairy"
+    ],
+    "max_cp": 895,
+    "base_attack": 108,
+    "base_defense": 128,
+    "base_stamina": 80,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "shiinotic": {
+    "id": 756,
+    "evolution": [
+      [
+        "morelull"
+      ],
+      [
+        "shiinotic"
+      ]
+    ],
+    "types": [
+      "grass",
+      "fairy"
+    ],
+    "max_cp": 1699,
+    "base_attack": 154,
+    "base_defense": 177,
+    "base_stamina": 120,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "salandit": {
+    "id": 757,
+    "evolution": [
+      [
+        "salandit"
+      ],
+      [
+        "salazzle"
+      ]
+    ],
+    "types": [
+      "poison",
+      "fire"
+    ],
+    "max_cp": 968,
+    "base_attack": 136,
+    "base_defense": 80,
+    "base_stamina": 96,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "salazzle": {
+    "id": 758,
+    "evolution": [
+      [
+        "salandit"
+      ],
+      [
+        "salazzle"
+      ]
+    ],
+    "types": [
+      "poison",
+      "fire"
+    ],
+    "max_cp": 2245,
+    "base_attack": 228,
+    "base_defense": 130,
+    "base_stamina": 136,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "stufful": {
+    "id": 759,
+    "evolution": [
+      [
+        "stufful"
+      ],
+      [
+        "bewear"
+      ]
+    ],
+    "types": [
+      "normal",
+      "fighting"
+    ],
+    "max_cp": 1231,
+    "base_attack": 136,
+    "base_defense": 95,
+    "base_stamina": 140,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "bewear": {
+    "id": 760,
+    "evolution": [
+      [
+        "stufful"
+      ],
+      [
+        "bewear"
+      ]
+    ],
+    "types": [
+      "normal",
+      "fighting"
+    ],
+    "max_cp": 3087,
+    "base_attack": 226,
+    "base_defense": 150,
+    "base_stamina": 240,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "bounsweet": {
+    "id": 761,
+    "evolution": [
+      [
+        "bounsweet"
+      ],
+      [
+        "steenee"
+      ],
+      [
+        "tsareena"
+      ]
+    ],
+    "types": [
+      "grass"
+    ],
+    "max_cp": 398,
+    "base_attack": 55,
+    "base_defense": 69,
+    "base_stamina": 84,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "steenee": {
+    "id": 762,
+    "evolution": [
+      [
+        "bounsweet"
+      ],
+      [
+        "steenee"
+      ],
+      [
+        "tsareena"
+      ]
+    ],
+    "types": [
+      "grass"
+    ],
+    "max_cp": 661,
+    "base_attack": 78,
+    "base_defense": 94,
+    "base_stamina": 104,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "tsareena": {
+    "id": 763,
+    "evolution": [
+      [
+        "bounsweet"
+      ],
+      [
+        "steenee"
+      ],
+      [
+        "tsareena"
+      ]
+    ],
+    "types": [
+      "grass"
+    ],
+    "max_cp": 2704,
+    "base_attack": 222,
+    "base_defense": 195,
+    "base_stamina": 144,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "comfey": {
+    "id": 764,
+    "evolution": [
+      [
+        "comfey"
+      ]
+    ],
+    "types": [
+      "fairy"
+    ],
+    "max_cp": 1887,
+    "base_attack": 165,
+    "base_defense": 226,
+    "base_stamina": 102,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "oranguru": {
+    "id": 765,
+    "evolution": [
+      [
+        "oranguru"
+      ]
+    ],
+    "types": [
+      "normal",
+      "psychic"
+    ],
+    "max_cp": 2378,
+    "base_attack": 168,
+    "base_defense": 207,
+    "base_stamina": 180,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "passimian": {
+    "id": 766,
+    "evolution": [
+      [
+        "passimian"
+      ]
+    ],
+    "types": [
+      "fighting"
+    ],
+    "max_cp": 2991,
+    "base_attack": 222,
+    "base_defense": 175,
+    "base_stamina": 200,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "wimpod": {
+    "id": 767,
+    "evolution": [
+      [
+        "wimpod"
+      ],
+      [
+        "golisopod"
+      ]
+    ],
+    "types": [
+      "bug",
+      "water"
+    ],
+    "max_cp": 400,
+    "base_attack": 67,
+    "base_defense": 79,
+    "base_stamina": 50,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "golisopod": {
+    "id": 768,
+    "evolution": [
+      [
+        "wimpod"
+      ],
+      [
+        "golisopod"
+      ]
+    ],
+    "types": [
+      "bug",
+      "water"
+    ],
+    "max_cp": 3037,
+    "base_attack": 218,
+    "base_defense": 249,
+    "base_stamina": 150,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "sandygast": {
+    "id": 769,
+    "evolution": [
+      [
+        "sandygast"
+      ],
+      [
+        "palossand"
+      ]
+    ],
+    "types": [
+      "ghost",
+      "ground"
+    ],
+    "max_cp": 1146,
+    "base_attack": 120,
+    "base_defense": 133,
+    "base_stamina": 110,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "palossand": {
+    "id": 770,
+    "evolution": [
+      [
+        "sandygast"
+      ],
+      [
+        "palossand"
+      ]
+    ],
+    "types": [
+      "ghost",
+      "ground"
+    ],
+    "max_cp": 2370,
+    "base_attack": 178,
+    "base_defense": 194,
+    "base_stamina": 170,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "pyukumuku": {
+    "id": 771,
+    "evolution": [
+      [
+        "pyukumuku"
+      ]
+    ],
+    "types": [
+      "water"
+    ],
+    "max_cp": 1209,
+    "base_attack": 97,
+    "base_defense": 224,
+    "base_stamina": 110,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "type:null": {
+    "id": 772,
+    "evolution": [
+      [
+        "type:null"
+      ],
+      [
+        "silvally"
+      ]
+    ],
+    "types": [
+      "normal"
+    ],
+    "max_cp": 2510,
+    "base_attack": 184,
+    "base_defense": 184,
+    "base_stamina": 190,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "silvally": {
+    "id": 773,
+    "evolution": [
+      [
+        "type:null"
+      ],
+      [
+        "silvally"
+      ]
+    ],
+    "types": [
+      "fairy"
+    ],
+    "max_cp": 2779,
+    "base_attack": 198,
+    "base_defense": 198,
+    "base_stamina": 190,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "minior": {
+    "id": 774,
+    "evolution": [
+      [
+        "minior"
+      ]
+    ],
+    "types": [
+      "rock",
+      "flying"
+    ],
+    "max_cp": 1374,
+    "base_attack": 116,
+    "base_defense": 194,
+    "base_stamina": 120,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "komala": {
+    "id": 775,
+    "evolution": [
+      [
+        "komala"
+      ]
+    ],
+    "types": [
+      "normal"
+    ],
+    "max_cp": 2419,
+    "base_attack": 216,
+    "base_defense": 179,
+    "base_stamina": 130,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "turtonator": {
+    "id": 776,
+    "evolution": [
+      [
+        "turtonator"
+      ]
+    ],
+    "types": [
+      "fire",
+      "dragon"
+    ],
+    "max_cp": 2077,
+    "base_attack": 165,
+    "base_defense": 238,
+    "base_stamina": 120,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "togedemaru": {
+    "id": 777,
+    "evolution": [
+      [
+        "togedemaru"
+      ]
+    ],
+    "types": [
+      "electric",
+      "steel"
+    ],
+    "max_cp": 1980,
+    "base_attack": 190,
+    "base_defense": 150,
+    "base_stamina": 130,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "mimikyu": {
+    "id": 778,
+    "evolution": [
+      [
+        "mimikyu"
+      ]
+    ],
+    "types": [
+      "ghost",
+      "fairy"
+    ],
+    "max_cp": 2024,
+    "base_attack": 177,
+    "base_defense": 213,
+    "base_stamina": 110,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "bruxish": {
+    "id": 779,
+    "evolution": [
+      [
+        "bruxish"
+      ]
+    ],
+    "types": [
+      "water",
+      "psychic"
+    ],
+    "max_cp": 2164,
+    "base_attack": 208,
+    "base_defense": 145,
+    "base_stamina": 136,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "drampa": {
+    "id": 780,
+    "evolution": [
+      [
+        "drampa"
+      ]
+    ],
+    "types": [
+      "normal",
+      "dragon"
+    ],
+    "max_cp": 2710,
+    "base_attack": 231,
+    "base_defense": 167,
+    "base_stamina": 156,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "dhelmise": {
+    "id": 781,
+    "evolution": [
+      [
+        "dhelmise"
+      ]
+    ],
+    "types": [
+      "ghost",
+      "grass"
+    ],
+    "max_cp": 2720,
+    "base_attack": 233,
+    "base_defense": 184,
+    "base_stamina": 140,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "jangmo-o": {
+    "id": 782,
+    "evolution": [
+      [
+        "jangmo-o"
+      ],
+      [
+        "hakamo-o"
+      ],
+      [
+        "kommo-o"
+      ]
+    ],
+    "types": [
+      "dragon"
+    ],
+    "max_cp": 863,
+    "base_attack": 102,
+    "base_defense": 118,
+    "base_stamina": 90,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "hakamo-o": {
+    "id": 783,
+    "evolution": [
+      [
+        "jangmo-o"
+      ],
+      [
+        "hakamo-o"
+      ],
+      [
+        "kommo-o"
+      ]
+    ],
+    "types": [
+      "dragon",
+      "fighting"
+    ],
+    "max_cp": 1527,
+    "base_attack": 145,
+    "base_defense": 172,
+    "base_stamina": 110,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "kommo-o": {
+    "id": 784,
+    "evolution": [
+      [
+        "jangmo-o"
+      ],
+      [
+        "hakamo-o"
+      ],
+      [
+        "kommo-o"
+      ]
+    ],
+    "types": [
+      "dragon",
+      "fighting"
+    ],
+    "max_cp": 3095,
+    "base_attack": 222,
+    "base_defense": 250,
+    "base_stamina": 150,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "tapukoko": {
+    "id": 785,
+    "evolution": [
+      [
+        "tapukoko"
+      ]
+    ],
+    "types": [
+      "electric",
+      "fairy"
+    ],
+    "max_cp": 2921,
+    "base_attack": 250,
+    "base_defense": 186,
+    "base_stamina": 140,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "tapulele": {
+    "id": 786,
+    "evolution": [
+      [
+        "tapulele"
+      ]
+    ],
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "max_cp": 3328,
+    "base_attack": 259,
+    "base_defense": 229,
+    "base_stamina": 140,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "tapubulu": {
+    "id": 787,
+    "evolution": [
+      [
+        "tapubulu"
+      ]
+    ],
+    "types": [
+      "grass",
+      "fairy"
+    ],
+    "max_cp": 3180,
+    "base_attack": 249,
+    "base_defense": 225,
+    "base_stamina": 140,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "tapufini": {
+    "id": 788,
+    "evolution": [
+      [
+        "tapufini"
+      ]
+    ],
+    "types": [
+      "water",
+      "fairy"
+    ],
+    "max_cp": 2635,
+    "base_attack": 189,
+    "base_defense": 261,
+    "base_stamina": 140,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "cosmog": {
+    "id": 789,
+    "evolution": [
+      [
+        "cosmog"
+      ],
+      [
+        "cosmeom"
+      ],
+      [
+        "solgaleo",
+        "lunala"
+      ]
+    ],
+    "types": [
+      "psychic"
+    ],
+    "max_cp": 367,
+    "base_attack": 54,
+    "base_defense": 57,
+    "base_stamina": 86,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "cosmoem": {
+    "id": 790,
+    "evolution": [
+      [
+        "cosmog"
+      ],
+      [
+        "cosmeom"
+      ],
+      [
+        "solgaleo",
+        "lunala"
+      ]
+    ],
+    "types": [
+      "psychic"
+    ],
+    "max_cp": 694,
+    "base_attack": 54,
+    "base_defense": 242,
+    "base_stamina": 86,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "solgaleo": {
+    "id": 791,
+    "evolution": [
+      [
+        "cosmog"
+      ],
+      [
+        "cosmeom"
+      ],
+      [
+        "solgaleo"
+      ]
+    ],
+    "types": [
+      "psychic",
+      "steel"
+    ],
+    "max_cp": 4791,
+    "base_attack": 280,
+    "base_defense": 219,
+    "base_stamina": 274,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "lunala": {
+    "id": 792,
+    "evolution": [
+      [
+        "cosmog"
+      ],
+      [
+        "cosmeom"
+      ],
+      [
+        "lunala"
+      ]
+    ],
+    "types": [
+      "psychic",
+      "ghost"
+    ],
+    "max_cp": 4791,
+    "base_attack": 280,
+    "base_defense": 219,
+    "base_stamina": 274,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "nihilego": {
+    "id": 793,
+    "evolution": [
+      [
+        "nihilego"
+      ]
+    ],
+    "types": [
+      "rock",
+      "poison"
+    ],
+    "max_cp": 4128,
+    "base_attack": 249,
+    "base_defense": 254,
+    "base_stamina": 218,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "buzzwole": {
+    "id": 794,
+    "evolution": [
+      [
+        "buzzwole"
+      ]
+    ],
+    "types": [
+      "bug",
+      "fighting"
+    ],
+    "max_cp": 4286,
+    "base_attack": 259,
+    "base_defense": 259,
+    "base_stamina": 214,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "pheromosa": {
+    "id": 795,
+    "evolution": [
+      [
+        "pheromosa"
+      ]
+    ],
+    "types": [
+      "bug",
+      "fighting"
+    ],
+    "max_cp": 2590,
+    "base_attack": 316,
+    "base_defense": 85,
+    "base_stamina": 142,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "xurkitree": {
+    "id": 796,
+    "evolution": [
+      [
+        "xurkitree"
+      ]
+    ],
+    "types": [
+      "electric"
+    ],
+    "max_cp": 3655,
+    "base_attack": 330,
+    "base_defense": 144,
+    "base_stamina": 166,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "celesteela": {
+    "id": 797,
+    "evolution": [
+      [
+        "celesteela"
+      ]
+    ],
+    "types": [
+      "steel",
+      "flying"
+    ],
+    "max_cp": 2939,
+    "base_attack": 207,
+    "base_defense": 200,
+    "base_stamina": 194,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "kartana": {
+    "id": 798,
+    "evolution": [
+      [
+        "kartana"
+      ]
+    ],
+    "types": [
+      "grass",
+      "steel"
+    ],
+    "max_cp": 4362,
+    "base_attack": 355,
+    "base_defense": 253,
+    "base_stamina": 118,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "guzzlord": {
+    "id": 799,
+    "evolution": [
+      [
+        "guzzlord"
+      ]
+    ],
+    "types": [
+      "dark",
+      "dragon"
+    ],
+    "max_cp": 2906,
+    "base_attack": 188,
+    "base_defense": 99,
+    "base_stamina": 446,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "necrozma": {
+    "id": 800,
+    "evolution": [
+      [
+        "necrozma"
+      ]
+    ],
+    "types": [
+      "psychic",
+      "dragon"
+    ],
+    "max_cp": 3529,
+    "base_attack": 251,
+    "base_defense": 201,
+    "base_stamina": 194,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "magearna": {
+    "id": 801,
+    "evolution": [
+      [
+        "magearna"
+      ]
+    ],
+    "types": [
+      "steel",
+      "fairy"
+    ],
+    "max_cp": 3340,
+    "base_attack": 246,
+    "base_defense": 225,
+    "base_stamina": 160,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "marshadow": {
+    "id": 802,
+    "evolution": [
+      [
+        "marshadow"
+      ]
+    ],
+    "types": [
+      "fighting",
+      "ghost"
+    ],
+    "max_cp": 3547,
+    "base_attack": 265,
+    "base_defense": 196,
+    "base_stamina": 180,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "poipole": {
+    "id": 803,
+    "evolution": [
+      [
+        "poipole"
+      ],
+      [
+        "naganadel"
+      ]
+    ],
+    "types": [
+      "poison"
+    ],
+    "max_cp": 1483,
+    "base_attack": 145,
+    "base_defense": 133,
+    "base_stamina": 134,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "naganadel": {
+    "id": 804,
+    "evolution": [
+      [
+        "poipole"
+      ],
+      [
+        "naganadel"
+      ]
+    ],
+    "types": [
+      "poison",
+      "dragon"
+    ],
+    "max_cp": 2906,
+    "base_attack": 263,
+    "base_defense": 159,
+    "base_stamina": 146,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "stakataka": {
+    "id": 805,
+    "evolution": [
+      [
+        "stakataka"
+      ]
+    ],
+    "types": [
+      "rock",
+      "steel"
+    ],
+    "max_cp": 3166,
+    "base_attack": 213,
+    "base_defense": 346,
+    "base_stamina": 122,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "blacephalon": {
+    "id": 806,
+    "evolution": [
+      [
+        "blacephalon"
+      ]
+    ],
+    "types": [
+      "fire",
+      "ghost"
+    ],
+    "max_cp": 3016,
+    "base_attack": 315,
+    "base_defense": 162,
+    "base_stamina": 106,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
+  },
+  "zeraora": {
+    "id": 807,
+    "evolution": [
+      [
+        "zeraora"
+      ]
+    ],
+    "types": [
+      "electric"
+    ],
+    "max_cp": 3226,
+    "base_attack": 252,
+    "base_defense": 181,
+    "base_stamina": 176,
+    "offensive": [],
+    "defensive": [],
+    "quick": [],
+    "charge": []
   }
 }
