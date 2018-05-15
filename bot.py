@@ -29,10 +29,6 @@ async def on_ready():
 
 @client.event
 async def on_message(message):
-    # ignores messages in channels where the bot doesn't have send message permission
-    if not message.server.me.permissions_in(message.channel).send_messages:
-        return
-
     # !pd
     if message.content.startswith('!pd '):
         await pd(message)
@@ -123,30 +119,34 @@ async def on_message(message):
             if mon not in bossinfo:
                 await client.send_message(message.channel, 'Sorry, I don\'t understand.')
             else:
-                output = '**{}** {}'.format(mon.capitalize(), ':star:' * int(bossinfo[mon]['level']))
-                output += '\n\nLvl 20 CP Range: {} - {}\nLvl 25 CP Range: {} - {}'.format(
-                    bossinfo[mon]['min_cp'],
-                    bossinfo[mon]['max_cp'],
-                    bossinfo[mon]['boosted_min_cp'],
-                    bossinfo[mon]['boosted_max_cp'])
-                weather1 = bossinfo[mon]['boosted_weather'][0]
-                weather2 = ''
+                em_title = '**{}** {}'.format(mon.capitalize(), '<:raid:446060156435038218>' * bossinfo[mon]['level'])
+                hexcolor = int('0x' + bossinfo[mon]['color'], 0)
+                em = discord.Embed(title=em_title, color=hexcolor)
+                em.add_field(name='Lvl 20 CP Range:', value=bossinfo[mon]['min_cp'] + ' - ' + bossinfo[mon]['max_cp'])
+                em.add_field(name='Lvl 25 CP Range:',
+                             value=bossinfo[mon]['boosted_min_cp'] + ' - ' + bossinfo[mon]['boosted_max_cp'])
+
+                weather = bossinfo[mon]['boosted_weather'][0].title()
                 if len(bossinfo[mon]['boosted_weather']) > 1:
-                    weather2 = bossinfo[mon]['boosted_weather'][1]
-                output += '\nBoosted during {}'.format(weather1)
-                if weather2:
-                    output += ' or {} weather'.format(weather2)
-                else:
-                    output += ' weather'
-                output += '\n\nWeak to: '
+                    weather += ' and ' + bossinfo[mon]['boosted_weather'][1].title()
+                em.add_field(name='Weather boost:', value=weather)
+
+                types = ''
                 for type in bossinfo[mon]['weak_to']:
-                    output += '{} '.format(type_to_emoji(type))
+                    types += type_to_emoji(type) + ' '
+                em.add_field(name='Weak to:', value=types)
+
                 if bossinfo[mon]['double_weak_to']:
-                    output += '\nDouble weak to: '
+                    types = ''
                     for type in bossinfo[mon]['double_weak_to']:
-                        output += '{} '.format(type_to_emoji(type))
-                output += '\n\nCatch rate: {}%'.format(bossinfo[mon]['catch_rate'])
-                await client.send_message(message.channel, output)
+                        types += type_to_emoji(type) + ' '
+                    em.add_field(name='2x weak to:', value=types)
+                em.add_field(name='Catch rate:', value=bossinfo[mon]['catch_rate'] + '%')
+                em.add_field(name='Guide',
+                             value='[Click here to see the Pokebattler raid guide!](https://pokebattler.com/raids/{})'
+                             .format(mon.upper()))
+                em.set_thumbnail(url='https://play.pokemonshowdown.com/sprites/xyani/{}.gif'.format(mon))
+                await client.send_message(message.channel, embed=em)
     elif client.user.mentioned_in(message) and 'help' in message.content and not message.mention_everyone:
         await client.send_message(message.channel, '__Commands:__\n```'
                                                    '!pd <pokemon>              - Pokémon information\n'
@@ -160,7 +160,7 @@ async def on_message(message):
                        'novato', 'tiburon', 'mill valley', 'sausalito', 'marinwood-tl', 'central marin', 'ex raids',
                        'lvl40', 'lvl39', 'lvl38', 'lvl37', 'lvl36', 'lvl35', 'lvl34', 'lvl33', 'lvl32', 'lvl31',
                        'lvl30', 'lvl29', 'lvl28', 'lvl27', 'lvl26', 'lvl25', 'lvl24', 'lvl23', 'lvl22', 'lvl17',
-                       'lvl16']
+                       'lvl16', 'ttar', 'ditto', 'machamp']
         if message.content.startswith('!r '):
             split_message = message.content[3:].split(', ')
             requested_roles = []
@@ -172,11 +172,13 @@ async def on_message(message):
                         if r in valid_roles:
                             role = discord.utils.get(message.server.roles, name=r)
                             requested_roles.append(role)
-                    elif r.lower() in valid_roles:
+                    elif r in valid_roles:
                         if r.lower() == 'marinwood-tl':
                             r = 'Marinwood-TL'
                         elif r.lower() == 'ex raids':
                             r = 'EX Raids'
+                        elif r == 'ttar':
+                            r = r.upper()
                         else:
                             r = r.title()
                         role = discord.utils.get(message.server.roles, name=r)
@@ -224,10 +226,10 @@ async def on_message(message):
     elif message.content.startswith('!servs'):
         count = 0
         user_count = 0
-        # for server in client.servers:
-        #     print(server.name + ' ' + str(server.member_count))
-        #     user_count += server.member_count
-        #     count += 1
+        for server in client.servers:
+            print(server.name + ' ' + str(server.member_count))
+            user_count += server.member_count
+            count += 1
         await client.send_message(message.channel, 'Servers: {}\nTotal users: {}'.format(str(count), str(user_count)))
 
 
