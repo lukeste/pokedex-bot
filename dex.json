@@ -316,8 +316,13 @@
     "offensive": [
       {
         "quick": "Fire Spin",
-        "charge": "Overheat",
+        "charge": "Blast Burn",
         "rating": "A"
+      },
+      {
+        "quick": "Fire Spin",
+        "charge": "Overheat",
+        "rating": "A-"
       },
       {
         "quick": "Fire Spin",
@@ -332,6 +337,11 @@
       {
         "quick": "Wing Attack *",
         "charge": "Overheat",
+        "rating": "A-"
+      },
+      {
+        "quick": "Air Slash",
+        "charge": "Blast Burn",
         "rating": "A-"
       },
       {
@@ -407,6 +417,11 @@
         "rating": "A-"
       },
       {
+        "quick": "Air Slash",
+        "charge": "Blast Burn",
+        "rating": "A-"
+      },
+      {
         "quick": "Fire Spin",
         "charge": "Flamethrower *",
         "rating": "B"
@@ -424,6 +439,11 @@
       {
         "quick": "Ember *",
         "charge": "Dragon Claw",
+        "rating": "B"
+      },
+      {
+        "quick": "Fire Spin",
+        "charge": "Blast Burn",
         "rating": "B"
       },
       {
