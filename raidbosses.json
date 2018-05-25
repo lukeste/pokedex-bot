@@ -17,7 +17,7 @@
       "psychic"
     ],
     "double_weak_to": [],
-    "color": "93cfa9"
+    "color": "71d7a1"
   },
   "ivysaur": {
     "level": 1,
@@ -37,7 +37,7 @@
       "psychic"
     ],
     "double_weak_to": [],
-    "color": "c2ccd0"
+    "color": "5fdadd"
   },
   "charmander": {
     "level": 1,
@@ -55,7 +55,7 @@
       "water"
     ],
     "double_weak_to": [],
-    "color": "e4caa4"
+    "color": "fba967"
   },
   "charmeleon": {
     "level": 1,
@@ -73,7 +73,7 @@
       "water"
     ],
     "double_weak_to": [],
-    "color": "eac6b9"
+    "color": "e77261"
   },
   "squirtle": {
     "level": 1,
@@ -90,7 +90,7 @@
       "grass"
     ],
     "double_weak_to": [],
-    "color": "bcd5d4"
+    "color": "7cfaff"
   },
   "wartortle": {
     "level": 1,
@@ -107,7 +107,7 @@
       "grass"
     ],
     "double_weak_to": [],
-    "color": "c2ccd5"
+    "color": "a1bdf6"
   },
   "magikarp": {
     "level": 1,
@@ -124,7 +124,7 @@
       "grass"
     ],
     "double_weak_to": [],
-    "color": "e3d0c8"
+    "color": "ff8758"
   },
   "wailmer": {
     "level": 1,
@@ -141,7 +141,7 @@
       "grass"
     ],
     "double_weak_to": [],
-    "color": "d4e0dd"
+    "color": "3881b0"
   },
   "snorunt": {
     "level": 1,
@@ -160,7 +160,7 @@
       "fighting"
     ],
     "double_weak_to": [],
-    "color": "c8bc9d"
+    "color": "fae097"
   },
   "swablu": {
     "level": 1,
@@ -179,7 +179,7 @@
       "ice"
     ],
     "double_weak_to": [],
-    "color": "dde8ec"
+    "color": "5bb2d8"
   },
   "shuppet": {
     "level": 1,
@@ -196,7 +196,7 @@
       "ghost"
     ],
     "double_weak_to": [],
-    "color": "b5b8ce"
+    "color": "6c7da8"
   },
   "duskull": {
     "level": 1,
@@ -213,7 +213,88 @@
       "ghost"
     ],
     "double_weak_to": [],
-    "color": "c4c3be"
+    "color": "6d6d68"
+  },
+  "omanyte": {
+    "level": 1,
+    "max_cp": "768",
+    "min_cp": "714",
+    "boosted_max_cp": "961",
+    "boosted_min_cp": "893",
+    "boosted_weather": [
+      "rainy",
+      "partly cloudy"
+    ],
+    "catch_rate": "40.0",
+    "weak_to": [
+      "electric",
+      "ground",
+      "fighting"
+    ],
+    "double_weak_to": [
+      "grass"
+    ],
+    "color": "61c8e0"
+  },
+  "kabuto": {
+    "level": 1,
+    "max_cp": "670",
+    "min_cp": "618",
+    "boosted_max_cp": "837",
+    "boosted_min_cp": "773",
+    "boosted_weather": [
+      "partly cloudy",
+      "rainy"
+    ],
+    "catch_rate": "40.0",
+    "weak_to": [
+      "electric",
+      "ground",
+      "fighting"
+    ],
+    "double_weak_to": [
+      "grass"
+    ],
+    "color": "9e6734"
+  },
+  "lileep": {
+    "level": 1,
+    "max_cp": "675",
+    "min_cp": "626",
+    "boosted_max_cp": "843",
+    "boosted_min_cp": "782",
+    "boosted_weather": [
+      "sunny/clear",
+      "partly cloudy"
+    ],
+    "catch_rate": "50.0",
+    "weak_to": [
+      "bug",
+      "steel",
+      "fighting",
+      "ice"
+    ],
+    "double_weak_to": [],
+    "color": "9c95d0"
+  },
+  "anorith": {
+    "level": 1,
+    "max_cp": "749",
+    "min_cp": "696",
+    "boosted_max_cp": "936",
+    "boosted_min_cp": "870",
+    "boosted_weather": [
+      "rainy",
+      "partly cloudy"
+    ],
+    "catch_rate": "50.0",
+    "weak_to": [
+      "rock",
+      "steel",
+      "water"
+    ],
+    "double_weak_to": [],
+    "color": "6a8670"
   },
   "combusken": {
     "level": 2,
@@ -233,7 +314,7 @@
       "water"
     ],
     "double_weak_to": [],
-    "color": "e4d4b6"
+    "color": "f79f61"
   },
   "primeape": {
     "level": 2,
@@ -251,7 +332,7 @@
       "psychic"
     ],
     "double_weak_to": [],
-    "color": "e2d3c6"
+    "color": "e7cab4"
   },
   "lickitung": {
     "level": 2,
@@ -267,7 +348,7 @@
       "fighting"
     ],
     "double_weak_to": [],
-    "color": "e3babc"
+    "color": "ffc4c7"
   },
   "muk": {
     "level": 2,
@@ -284,7 +365,7 @@
       "psychic"
     ],
     "double_weak_to": [],
-    "color": "cec3d1"
+    "color": "b1addf"
   },
   "venomoth": {
     "level": 2,
@@ -304,7 +385,7 @@
       "psychic"
     ],
     "double_weak_to": [],
-    "color": "e6e1e8"
+    "color": "aba0eb"
   },
   "weezing": {
     "level": 2,
@@ -321,7 +402,7 @@
       "psychic"
     ],
     "double_weak_to": [],
-    "color": "e8e2ea"
+    "color": "aa81bb"
   },
   "sandslash": {
     "level": 2,
@@ -339,7 +420,7 @@
       "ice"
     ],
     "double_weak_to": [],
-    "color": "d4c288"
+    "color": "e5b74d"
   },
   "slowbro": {
     "level": 2,
@@ -360,7 +441,7 @@
       "ghost"
     ],
     "double_weak_to": [],
-    "color": "d8c7cb"
+    "color": "eb9ea9"
   },
   "electabuzz": {
     "level": 2,
@@ -376,7 +457,7 @@
       "ground"
     ],
     "double_weak_to": [],
-    "color": "d5d1a8"
+    "color": "eacb60"
   },
   "tentacruel": {
     "level": 2,
@@ -395,7 +476,7 @@
       "psychic"
     ],
     "double_weak_to": [],
-    "color": "e9f8fd"
+    "color": "c8ffff"
   },
   "exeggutor": {
     "level": 2,
@@ -419,7 +500,7 @@
     "double_weak_to": [
       "bug"
     ],
-    "color": "e1e6d8"
+    "color": "d2c279"
   },
   "magneton": {
     "level": 2,
@@ -439,7 +520,7 @@
     "double_weak_to": [
       "ground"
     ],
-    "color": "bcc6c8"
+    "color": "798ea0"
   },
   "cloyster": {
     "level": 2,
@@ -459,7 +540,7 @@
       "fighting"
     ],
     "double_weak_to": [],
-    "color": "bdb8cd"
+    "color": "6f60a0"
   },
   "marowak": {
     "level": 2,
@@ -477,7 +558,7 @@
       "water"
     ],
     "double_weak_to": [],
-    "color": "d9cdba"
+    "color": "dfac5e"
   },
   "sableye": {
     "level": 2,
@@ -493,7 +574,7 @@
       "fairy"
     ],
     "double_weak_to": [],
-    "color": "baaecf"
+    "color": "9f8ae1"
   },
   "mawile": {
     "level": 2,
@@ -510,7 +591,7 @@
       "ground"
     ],
     "double_weak_to": [],
-    "color": "bcbaae"
+    "color": "dfcc7e"
   },
   "manectric": {
     "level": 2,
@@ -526,7 +607,7 @@
       "ground"
     ],
     "double_weak_to": [],
-    "color": "cbd7c3"
+    "color": "88c3e1"
   },
   "sneasel": {
     "level": 2,
@@ -549,7 +630,7 @@
     "double_weak_to": [
       "fighting"
     ],
-    "color": "b1b5bf"
+    "color": "659ca8"
   },
   "misdreavus": {
     "level": 2,
@@ -566,7 +647,68 @@
       "ghost"
     ],
     "double_weak_to": [],
-    "color": "b2c8d5"
+    "color": "46869f"
+  },
+  "sudowoodo": {
+    "level": 2,
+    "max_cp": "1180",
+    "min_cp": "1115",
+    "boosted_max_cp": "1475",
+    "boosted_min_cp": "1394",
+    "boosted_weather": [
+      "partly cloudy"
+    ],
+    "catch_rate": "12.5",
+    "weak_to": [
+      "grass",
+      "ground",
+      "steel",
+      "fighting",
+      "water"
+    ],
+    "double_weak_to": [],
+    "color": "af8672"
+  },
+  "magcargo": {
+    "level": 2,
+    "max_cp": "882",
+    "min_cp": "825",
+    "boosted_max_cp": "1102",
+    "boosted_min_cp": "1031",
+    "boosted_weather": [
+      "sunny/clear",
+      "partly cloudy"
+    ],
+    "catch_rate": "12.5",
+    "weak_to": [
+      "rock",
+      "fighting"
+    ],
+    "double_weak_to": [
+      "ground",
+      "water"
+    ],
+    "color": "fe6c59"
+  },
+  "nosepass": {
+    "level": 2,
+    "max_cp": "474",
+    "min_cp": "430",
+    "boosted_max_cp": "593",
+    "boosted_min_cp": "538",
+    "boosted_weather": [
+      "partly cloudy"
+    ],
+    "catch_rate": "20.0",
+    "weak_to": [
+      "grass",
+      "ground",
+      "steel",
+      "fighting",
+      "water"
+    ],
+    "double_weak_to": [],
+    "color": "99b1e2"
   },
   "breloom": {
     "level": 3,
@@ -589,7 +731,7 @@
     "double_weak_to": [
       "flying"
     ],
-    "color": "c8c9b6"
+    "color": "9bbe8b"
   },
   "hitmonchan": {
     "level": 3,
@@ -607,7 +749,7 @@
       "psychic"
     ],
     "double_weak_to": [],
-    "color": "d6c7c3"
+    "color": "c9a5d4"
   },
   "hitmonlee": {
     "level": 3,
@@ -625,7 +767,7 @@
       "psychic"
     ],
     "double_weak_to": [],
-    "color": "c6b8ad"
+    "color": "d3a88f"
   },
   "ninetales": {
     "level": 3,
@@ -643,7 +785,7 @@
       "water"
     ],
     "double_weak_to": [],
-    "color": "dfda83"
+    "color": "ebd263"
   },
   "alakazam": {
     "level": 3,
@@ -661,7 +803,7 @@
       "ghost"
     ],
     "double_weak_to": [],
-    "color": "d6d19a"
+    "color": "f2d335"
   },
   "machamp": {
     "level": 3,
@@ -679,7 +821,7 @@
       "psychic"
     ],
     "double_weak_to": [],
-    "color": "c1c9d1"
+    "color": "8eadcf"
   },
   "gengar": {
     "level": 3,
@@ -699,7 +841,7 @@
       "psychic"
     ],
     "double_weak_to": [],
-    "color": "b3abd2"
+    "color": "8f8ac9"
   },
   "scyther": {
     "level": 3,
@@ -721,7 +863,7 @@
     "double_weak_to": [
       "rock"
     ],
-    "color": "e4ebde"
+    "color": "a2e282"
   },
   "porygon": {
     "level": 3,
@@ -737,7 +879,7 @@
       "fighting"
     ],
     "double_weak_to": [],
-    "color": "c0d7db"
+    "color": "ff5768"
   },
   "omastar": {
     "level": 3,
@@ -758,7 +900,7 @@
     "double_weak_to": [
       "grass"
     ],
-    "color": "c9d8cb"
+    "color": "45b8db"
   },
   "piloswine": {
     "level": 3,
@@ -779,7 +921,7 @@
       "water"
     ],
     "double_weak_to": [],
-    "color": "d27a45"
+    "color": "bb8a72"
   },
   "azumarill": {
     "level": 3,
@@ -798,7 +940,7 @@
       "poison"
     ],
     "double_weak_to": [],
-    "color": "b4d4e5"
+    "color": "40b3f8"
   },
   "jynx": {
     "level": 3,
@@ -820,7 +962,7 @@
       "ghost"
     ],
     "double_weak_to": [],
-    "color": "daa39d"
+    "color": "9b69ae"
   },
   "onix": {
     "level": 3,
@@ -843,7 +985,7 @@
       "grass",
       "water"
     ],
-    "color": "d5d4d5"
+    "color": "aba1bc"
   },
   "starmie": {
     "level": 3,
@@ -865,7 +1007,7 @@
       "ghost"
     ],
     "double_weak_to": [],
-    "color": "c4b8bd"
+    "color": "9b91eb"
   },
   "kabutops": {
     "level": 3,
@@ -886,7 +1028,7 @@
     "double_weak_to": [
       "grass"
     ],
-    "color": "d7c2a1"
+    "color": "df9644"
   },
   "aerodactyl": {
     "level": 3,
@@ -907,7 +1049,72 @@
       "water"
     ],
     "double_weak_to": [],
-    "color": "f3f1f4"
+    "color": "9fa1c0"
+  },
+  "shuckle": {
+    "level": 3,
+    "max_cp": "171",
+    "min_cp": "137",
+    "boosted_max_cp": "214",
+    "boosted_min_cp": "171",
+    "boosted_weather": [
+      "partly cloudy",
+      "rainy"
+    ],
+    "catch_rate": "30.0",
+    "weak_to": [
+      "rock",
+      "steel",
+      "water"
+    ],
+    "double_weak_to": [],
+    "color": "d6433c"
+  },
+  "lunatone": {
+    "level": 3,
+    "max_cp": "1283",
+    "min_cp": "1216",
+    "boosted_max_cp": "1604",
+    "boosted_min_cp": "1520",
+    "boosted_weather": [
+      "partly cloudy",
+      "windy"
+    ],
+    "catch_rate": "30.0",
+    "weak_to": [
+      "bug",
+      "grass",
+      "dark",
+      "ground",
+      "steel",
+      "ghost",
+      "water"
+    ],
+    "double_weak_to": [],
+    "color": "e4cf98"
+  },
+  "solrock": {
+    "level": 3,
+    "max_cp": "1283",
+    "min_cp": "1216",
+    "boosted_max_cp": "1604",
+    "boosted_min_cp": "1520",
+    "boosted_weather": [
+      "partly cloudy",
+      "windy"
+    ],
+    "catch_rate": "30.0",
+    "weak_to": [
+      "bug",
+      "grass",
+      "dark",
+      "ground",
+      "steel",
+      "ghost",
+      "water"
+    ],
+    "double_weak_to": [],
+    "color": "ff9e4e"
   },
   "claydol": {
     "level": 3,
@@ -929,7 +1136,7 @@
       "water"
     ],
     "double_weak_to": [],
-    "color": "b2a1a0"
+    "color": "535254"
   },
   "jolteon": {
     "level": 3,
@@ -945,7 +1152,7 @@
       "ground"
     ],
     "double_weak_to": [],
-    "color": "d1cc9b"
+    "color": "e8c85c"
   },
   "pinsir": {
     "level": 3,
@@ -963,7 +1170,7 @@
       "flying"
     ],
     "double_weak_to": [],
-    "color": "ddd7d5"
+    "color": "9f7765"
   },
   "granbull": {
     "level": 3,
@@ -980,7 +1187,7 @@
       "steel"
     ],
     "double_weak_to": [],
-    "color": "e3c5d8"
+    "color": "c9abc5"
   },
   "nidoqueen": {
     "level": 4,
@@ -1000,7 +1207,7 @@
       "water"
     ],
     "double_weak_to": [],
-    "color": "abc4ce"
+    "color": "7daaca"
   },
   "nidoking": {
     "level": 4,
@@ -1020,7 +1227,7 @@
       "water"
     ],
     "double_weak_to": [],
-    "color": "d5c1d6"
+    "color": "bc80ac"
   },
   "poliwrath": {
     "level": 4,
@@ -1041,7 +1248,7 @@
       "psychic"
     ],
     "double_weak_to": [],
-    "color": "a6b6ce"
+    "color": "5781b7"
   },
   "victreebel": {
     "level": 4,
@@ -1061,7 +1268,7 @@
       "psychic"
     ],
     "double_weak_to": [],
-    "color": "e3ebc7"
+    "color": "fffc55"
   },
   "golem": {
     "level": 4,
@@ -1084,7 +1291,7 @@
       "water",
       "grass"
     ],
-    "color": "b6b0aa"
+    "color": "ae978d"
   },
   "lapras": {
     "level": 4,
@@ -1104,7 +1311,7 @@
       "fighting"
     ],
     "double_weak_to": [],
-    "color": "cee2e6"
+    "color": "5db9e2"
   },
   "rhydon": {
     "level": 4,
@@ -1127,7 +1334,7 @@
       "grass",
       "water"
     ],
-    "color": "cdcdd0"
+    "color": "93a2b6"
   },
   "snorlax": {
     "level": 4,
@@ -1143,7 +1350,7 @@
       "fighting"
     ],
     "double_weak_to": [],
-    "color": "b6d2d5"
+    "color": "075c6f"
   },
   "tyranitar": {
     "level": 4,
@@ -1167,7 +1374,7 @@
     "double_weak_to": [
       "fighting"
     ],
-    "color": "c1d1a9"
+    "color": "a5bf91"
   },
   "absol": {
     "level": 4,
@@ -1185,7 +1392,7 @@
       "fighting"
     ],
     "double_weak_to": [],
-    "color": "d2d5de"
+    "color": "dbe3f1"
   },
   "aggron": {
     "level": 4,
@@ -1205,7 +1412,7 @@
       "ground",
       "fighting"
     ],
-    "color": "c3c3c3"
+    "color": "a2a9b1"
   },
   "feraligatr": {
     "level": 4,
@@ -1222,7 +1429,7 @@
       "grass"
     ],
     "double_weak_to": [],
-    "color": "aedcdf"
+    "color": "5fc6e5"
   },
   "charizard": {
     "level": 4,
@@ -1242,7 +1449,7 @@
     "double_weak_to": [
       "rock"
     ],
-    "color": "ede7d6"
+    "color": "fd9040"
   },
   "houndoom": {
     "level": 4,
@@ -1262,7 +1469,7 @@
       "water"
     ],
     "double_weak_to": [],
-    "color": "ede7d6"
+    "color": "514948"
   },
   "walrein": {
     "level": 4,
@@ -1282,7 +1489,27 @@
       "fighting"
     ],
     "double_weak_to": [],
-    "color": "a8ccdd"
+    "color": "4d8cb2"
+  },
+  "ho-oh": {
+    "level": 5,
+    "max_cp": "2222",
+    "min_cp": "2133",
+    "boosted_max_cp": "2778",
+    "boosted_min_cp": "2667",
+    "boosted_weather": [
+      "sunny/clear",
+      "windy"
+    ],
+    "catch_rate": "2.0",
+    "weak_to": [
+      "electric",
+      "water"
+    ],
+    "double_weak_to": [
+      "rock"
+    ],
+    "color": "df4223"
   },
   "kyogre": {
     "level": 5,
@@ -1299,7 +1526,7 @@
       "grass"
     ],
     "double_weak_to": [],
-    "color": "c2d4eb"
+    "color": "1c81e8"
   },
   "groudon": {
     "level": 5,
@@ -1317,7 +1544,7 @@
       "water"
     ],
     "double_weak_to": [],
-    "color": "d09492"
+    "color": "ef3c24"
   },
   "rayquaza": {
     "level": 5,
@@ -1337,7 +1564,7 @@
     "double_weak_to": [
       "ice"
     ],
-    "color": "d4e4d8"
+    "color": "5cb57c"
   },
   "lugia": {
     "level": 5,
@@ -1357,7 +1584,7 @@
       "ice"
     ],
     "double_weak_to": [],
-    "color": "eaecf1"
+    "color": "ebf9ff"
   },
   "latios": {
     "level": 5,
@@ -1378,7 +1605,7 @@
       "ice"
     ],
     "double_weak_to": [],
-    "color": "c5d7e6"
+    "color": "7db5d9"
   },
   "latias": {
     "level": 5,
@@ -1399,7 +1626,7 @@
       "ice"
     ],
     "double_weak_to": [],
-    "color": "e7d8dc"
+    "color": "b9707e"
   },
   "mewtwo": {
     "level": 5,
@@ -1417,6 +1644,6 @@
       "ghost"
     ],
     "double_weak_to": [],
-    "color": "e8e2e8"
+    "color": "cac4d6"
   }
 }
