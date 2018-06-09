@@ -1,4 +1,21 @@
 {
+  "shellder": {
+    "level": 1,
+    "max_cp": "547",
+    "min_cp": "501",
+    "boosted_max_cp": "684",
+    "boosted_min_cp": "627",
+    "boosted_weather": [
+      "rainy"
+    ],
+    "catch_rate": "50.0",
+    "weak_to": [
+      "electric",
+      "grass"
+    ],
+    "double_weak_to": [],
+    "color": "9084dc"
+  },
   "bulbasaur": {
     "level": 1,
     "max_cp": "560",
@@ -478,6 +495,23 @@
     "double_weak_to": [],
     "color": "c8ffff"
   },
+  "croconaw": {
+    "level": 2,
+    "max_cp": "913",
+    "min_cp": "857",
+    "boosted_max_cp": "1142",
+    "boosted_min_cp": "1071",
+    "boosted_weather": [
+      "rainy"
+    ],
+    "catch_rate": "12.5",
+    "weak_to": [
+      "electric",
+      "grass"
+    ],
+    "double_weak_to": [],
+    "color": "73cddd"
+  },
   "exeggutor": {
     "level": 2,
     "max_cp": "1666",
@@ -709,6 +743,61 @@
     ],
     "double_weak_to": [],
     "color": "99b1e2"
+  },
+  "marshtomp": {
+    "level": 2,
+    "max_cp": "924",
+    "min_cp": "867",
+    "boosted_max_cp": "1155",
+    "boosted_min_cp": "1084",
+    "boosted_weather": [
+      "rainy",
+      "sunny/clear"
+    ],
+    "catch_rate": "10.0",
+    "weak_to": [],
+    "double_weak_to": [
+      "grass"
+    ],
+    "color": "9cd9e0"
+  },
+  "sharpedo": {
+    "level": 3,
+    "max_cp": "1134",
+    "min_cp": "1066",
+    "boosted_max_cp": "1418",
+    "boosted_min_cp": "1333",
+    "boosted_weather": [
+      "rainy",
+      "foggy"
+    ],
+    "catch_rate": "20.0",
+    "weak_to": [
+      "bug",
+      "electric",
+      "grass",
+      "fairy",
+      "fighting"
+    ],
+    "double_weak_to": [],
+    "color": "006291"
+  },
+  "vaporeon": {
+    "level": 3,
+    "max_cp": "1804",
+    "min_cp": "1724",
+    "boosted_max_cp": "2255",
+    "boosted_min_cp": "2155",
+    "boosted_weather": [
+      "rainy"
+    ],
+    "catch_rate": "12.5",
+    "weak_to": [
+      "electric",
+      "grass"
+    ],
+    "double_weak_to": [],
+    "color": "5fc7df"
   },
   "breloom": {
     "level": 3,
